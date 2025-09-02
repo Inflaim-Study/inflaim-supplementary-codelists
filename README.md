@@ -15,7 +15,8 @@ All codelists are provided in `.csv` format and use **`MedCodeId`** as the prima
 ## Repository Structure
 
 This repository is organized to separate the data (the codelists) from the project documentation.
-```plaintext
+```
+.
 ├── codelists/
 │   ├── Inflaim_Other_LTCs_Codelist_v1.0.csv
 │   ├── Inflaim_Autoimmune_Codelist_v1.0.csv
@@ -25,6 +26,7 @@ This repository is organized to separate the data (the codelists) from the proje
 ├── CONTRIBUTING.md
 ├── LICENSE.md
 └── README.md
+```
 
 ***
 ## Codelist Descriptions 
@@ -62,4 +64,5 @@ The codelists are provided as CSV files in the `/codelists` directory. They can 
 
 
 ### License
+
 This work is licensed under the [MIT License / Creative Commons Attribution 4.0 International License]. Please see the `LICENSE` file for details.
