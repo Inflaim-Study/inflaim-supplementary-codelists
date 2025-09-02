@@ -1,0 +1,1118 @@
+,Condition,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+0,Blistering autoimmune skin conditions,267631000006119.0,34250006.0,485794012.0,F4Cy1,F4Cy100,Ocular pemphigoid
+1,Blistering autoimmune skin conditions,178429018.0,111196000.0,178429018.0,M140,M140.00,Dermatitis herpetiformis
+4,Blistering autoimmune skin conditions,108297019.0,65172003.0,108297019.0,M144,M144.00,Pemphigus
+5,Blistering autoimmune skin conditions,763291000006118.0,35154004.0,1228251016.0,M1443,M144300,Pemphigus foliaceous
+6,Blistering autoimmune skin conditions,476760014.0,14800001.0,476759016.0,M1445,M144500,Pemphigus vegetans
+7,Blistering autoimmune skin conditions,82318018.0,49420001.0,82318018.0,M1446,M144600,Pemphigus vulgaris
+8,Blistering autoimmune skin conditions,77439010.0,46459009.0,77439010.0,M1447,M144700,Wildfire pemphigus
+9,Blistering autoimmune skin conditions,308659013.0,200907003.0,308659013.0,M1448,M144800,Drug-induced pemphigus
+10,Blistering autoimmune skin conditions,308660015.0,65172003.0,108297019.0,M144z,M144z00,Pemphigus NOS
+11,Blistering autoimmune skin conditions,142845014.0,86142006.0,142845014.0,M145,M145.00,Pemphigoid
+12,Blistering autoimmune skin conditions,127980014.0,77090002.0,127980014.0,M1450,M145000,Bullous pemphigoid
+13,Blistering autoimmune skin conditions,13128017.0,7354003.0,13128017.0,M1452,M145200,Senile dermatitis herpetiformis
+14,Blistering autoimmune skin conditions,308664012.0,86142006.0,142845014.0,M145z,M145z00,Pemphigoid NOS
+15,Blistering autoimmune skin conditions,57191017.0,34250006.0,485796014.0,M146,M146.00,Mucous membrane pemphigoid
+16,Blistering autoimmune skin conditions,399920011.0,267800008.0,399920011.0,M1460,M146000,Benign mucous membrane pemphigoid with no eye involvement
+17,Blistering autoimmune skin conditions,57192012.0,34250006.0,57192012.0,M1460-1,M146011,Cicatricial pemphigoid
+18,Blistering autoimmune skin conditions,485794012.0,34250006.0,485794012.0,M1461,M146100,Ocular pemphigoid
+19,Blistering autoimmune skin conditions,308669019.0,34250006.0,57191017.0,M146z,M146z00,Benign mucous membrane pemphigoid
+20,Blistering autoimmune skin conditions,309309018.0,65172003.0,108297019.0,Myu10,Myu1000,[X]Other pemphigus
+21,Blistering autoimmune skin conditions,309311010.0,86142006.0,142845014.0,Myu12,Myu1200,[X]Other pemphigoid
+22,Constipation,25076018.0,14760008.0,25076018.0,19C,19C..00,Constipation
+23,Constipation,590111000006111.0,14760008.0,25076018.0,19C-1,19C..11,Constipation symptom
+24,Constipation,2162207016.0,14760008.0,2162207016.0,19C2,19C2.00,Constipated
+25,Constipation,303166010.0,14760008.0,25076018.0,19CZ,19CZ.00,Constipation NOS
+26,Constipation,303161017.0,197118003.0,303161017.0,J520,J520.00,Constipation - functional
+27,Constipation,484894013.0,31499008.0,484894013.0,J5201,J520100,Chronic constipation with overflow
+28,Constipation,303163019.0,197120000.0,303163019.0,J5202,J520200,Chronic constipation without overflow
+29,Constipation,630451000006116.0,21782001.0,36557014.0,J5203,J520300,Drug-induced constipation
+30,Constipation,353853017.0,236069009.0,353853017.0,J5204,J520400,Chronic constipation
+31,Constipation,303165014.0,14760008.0,25076018.0,J520y,J520y00,Other specified constipation
+32,Constipation,590101000006113.0,14760008.0,25076018.0,J520z,J520z00,Constipation NOS
+33,Constipation,2791650019.0,440630006.0,2791650019.0,J5211,J521100,Irritable bowel syndrome characterised by constipation
+34,Fibromyalgia,709441000006113.0,203082005.0,311662010.0,N239,N239.00,Fibromyalgia
+35,Fibromyalgia,41386013.0,203082005.0,311662010.0,N248,N248.00,Fibromyalgia
+36,Hyperprolactinaemia and prolactinoma,258562011.0,131008004.0,210653017.0,44351,4435100,Increased prolactin level
+37,Hyperprolactinaemia and prolactinoma,1228164013.0,34337008.0,1228163019.0,BB5y4,BB5y400,[M] Prolactinoma
+38,Hyperprolactinaemia and prolactinoma,356195018.0,237662005.0,356195018.0,C1310,C131000,Hyperprolactinaemia
+39,Hypopituitarism,496407019.0,52699005.0,496407019.0,7100,7100.00,Excision of pituitary gland
+40,Hypopituitarism,266290016.0,52699005.0,87695016.0,7100y,7100y00,Other specified excision of pituitary gland
+41,Hypopituitarism,410873011.0,52699005.0,87695016.0,7100z,7100z00,Excision of pituitary gland NOS
+42,Hypopituitarism,505703019.0,83646004.0,505703019.0,7101,7101.00,Destruction of pituitary gland
+43,Hypopituitarism,54086011.0,32390006.0,54086011.0,C132,C132.00,Panhypopituitarism
+44,Hypopituitarism,356224019.0,74728003.0,124098019.0,C132-1,C132.11,Hypopituitarism
+45,Hypopituitarism,356227014.0,237684005.0,356227014.0,C132-2,C132.12,Sheehan's syndrome
+46,Hypopituitarism,292709019.0,190470005.0,292709019.0,C1320,C132000,Idiopathic panhypopituitarism
+47,Hypopituitarism,292710012.0,190471009.0,292710012.0,C1321,C132100,Post-birth injury panhypopituitarism
+48,Hypopituitarism,211291000006112.0,190472002.0,292711011.0,C1322,C132200,Postinfarction panhypopituitarism
+49,Hypopituitarism,211361000006114.0,271386001.0,406156010.0,C1323,C132300,Postinfective panhypopituitarism
+50,Hypopituitarism,292713014.0,32390006.0,54086011.0,C132y,C132y00,Other specified panhypopituitarism
+51,Hypopituitarism,292714015.0,32390006.0,54086011.0,C132z,C132z00,Panhypopituitarism NOS
+52,Hypopituitarism,492180012.0,367460001.0,492180012.0,C133,C133.00,Pituitary dwarfism
+53,Hypopituitarism,721901000006110.0,2109003.0,4651014.0,C1330,C133000,Isolated growth hormone deficiency
+54,Hypopituitarism,398800015.0,367460001.0,492180012.0,C133y,C133y00,Other specified pituitary dwarfism
+55,Hypopituitarism,292723017.0,367460001.0,492180012.0,C133z,C133z00,Pituitary dwarfism NOS
+56,Hypopituitarism,292724011.0,51742006.0,86162019.0,C134,C134.00,Disorder of anterior pituitary
+58,Hypopituitarism,133724019.0,80599001.0,133724019.0,C1344,C134400,Isolated ACTH deficiency
+59,Hypopituitarism,356242012.0,237692001.0,356242012.0,C1344-1,C134411,ACTH deficiency
+60,Hypopituitarism,356286019.0,2851000119101.0,3012752019.0,C134z-1,C134z11,Anterior pituitary hormone deficiency
+61,Hypopituitarism,494186019.0,45369008.0,494186019.0,C135-2,C135.12,Diabetes insipidus - pituitary
+62,Hypopituitarism,223331000000116.0,86842008.0,144020013.0,C137,C137.00,Iatrogenic pituitary disorder
+63,Hypopituitarism,356248011.0,237698002.0,356248011.0,C137-1,C137.11,Iatrogenic hypopituitarism
+64,Hypopituitarism,6203011.0,3072001.0,6203011.0,C1370,C137000,Hormone-induced hypopituitarism
+65,Hypopituitarism,508884019.0,90182005.0,508884019.0,C1371,C137100,Post-hypophysectomy hypopituitarism
+66,Hypopituitarism,508883013.0,90182005.0,508883013.0,C1371-1,C137111,Surgically-induced hypopituitarism
+68,Hypopituitarism,356276015.0,237722004.0,356276015.0,C138,C138.00,Empty sella syndrome
+69,Hypopituitarism,56637011.0,33927004.0,56637011.0,C139,C139.00,Hypogonadotropic hypogonadism
+70,Hypopituitarism,356251016.0,237701005.0,356251016.0,C13A,C13A.00,Pituitary apoplexy
+71,Hypopituitarism,510382019.0,93559003.0,510382019.0,C1721-1,C172111,Kallman's syndrome
+72,Hypopituitarism,682681000006115.0,14289006.0,24295012.0,F3952,F395200,Myopathy due to hypopituitarism
+74,Learning disability,2435151000000112.0,954731000000103.0,2435151000000112.0,13VC9,13VC900,Intellectual development disorder of unknown aetiology
+75,Learning disability,1140131000000110.0,512711000000104.0,1140131000000110.0,14g,14g..00,History of developmental disorder
+76,Learning disability,2388891000000118.0,716710007.0,3307284014.0,14g0,14g0.00,Early childhood developmental disability
+77,Learning disability,1939571000006115.0,954711000000106.0,2435131000000117.0,14g00,14g0000,Early childhood developmental disability of unknown aetiology
+78,Learning disability,1941111000006118.0,718440004.0,3312281015.0,38VB,38VB.00,Clinical Outcomes in Routine Evaluation Learning Disabilities
+79,Learning disability,2548475019.0,416075005.0,2548475019.0,918e,918e.00,On learning disability register
+80,Learning disability,1158321000000112.0,518741000000100.0,1158321000000112.0,94Z9,94Z9.00,Preferred place of death: learning disability unit
+85,Learning disability,2474674015.0,413126003.0,2474674015.0,9HB3,9HB3.00,Learning disabilities health assessment
+99,Learning disability,2249771000000115.0,870651000000103.0,2249771000000115.0,9Nh4,9Nh4.00,Under care of community learning disability team
+100,Learning disability,2403181000000114.0,716569003.0,3306662014.0,9Nlh,9Nlh.00,Seen by learning disability team
+101,Learning disability,295633011.0,161129001.0,251223010.0,E2F2,E2F2.00,Specific learning difficulty
+102,Learning disability,133891000006115.0,268672004.0,401825015.0,E2F3,E2F3.00,Disorder of speech and language development
+103,Learning disability,295642016.0,268672004.0,401825015.0,E2F3z,E2F3z00,Speech or language developmental disorder NOS
+104,Learning disability,295652017.0,5294002.0,9881017.0,E2Fz,E2Fz.00,Developmental disorder NOS
+105,Learning disability,151009017.0,110359009.0,3643707012.0,E3,E3...00,Mental retardation
+106,Learning disability,507246016.0,86765009.0,507246016.0,E30,E30..00,"Mild mental retardation, IQ in range 50-70"
+108,Learning disability,667621000006119.0,86765009.0,507246016.0,E30-2,E30..12,Feeble-minded
+109,Learning disability,215821000000119.0,86765009.0,507246016.0,E30-3,E30..13,Moron
+110,Learning disability,9881000006115.0,110359009.0,175156010.0,E31,E31..00,Other specified mental retardation
+111,Learning disability,700071000006118.0,61152003.0,3643518014.0,E310,E310.00,"Moderate mental retardation, IQ in range 35-49"
+112,Learning disability,785941000006115.0,61152003.0,3643518014.0,E310-1,E310.11,Imbecile
+113,Learning disability,146051000006113.0,40700009.0,3643515012.0,E311,E311.00,"Severe mental retardation, IQ in range 20-34"
+114,Learning disability,201751000006110.0,31216003.0,3643527010.0,E312,E312.00,Profound mental retardation with IQ less than 20
+115,Learning disability,787151000006113.0,31216003.0,3643527010.0,E312-1,E312.11,Idiocy
+116,Learning disability,295662012.0,110359009.0,175156010.0,E31z,E31z.00,Other specified mental retardation NOS
+117,Learning disability,295661017.0,110359009.0,175156010.0,E3y,E3y..00,Other specified mental retardation
+118,Learning disability,295664013.0,110359009.0,175156010.0,E3z,E3z..00,Intellectual disability
+119,Learning disability,398231000006111.0,110359009.0,3643707012.0,Eu7,Eu7..00,[X]Mental retardation
+120,Learning disability,398381000006119.0,86765009.0,507246016.0,Eu70,Eu70.00,[X]Mild mental retardation
+121,Learning disability,398411000006116.0,86765009.0,507246016.0,Eu70-2,Eu70.12,[X]Mild mental subnormality
+122,Learning disability,398661000006116.0,86765009.0,143892017.0,Eu700,Eu70000,[X]Mld mental retard with statement no or min impairm behav
+123,Learning disability,398651000006118.0,86765009.0,143892017.0,Eu701,Eu70100,[X]Mld mental retard sig impairment behav req attent/treatmt
+124,Learning disability,296557014.0,86765009.0,143892017.0,Eu70y,Eu70y00,"[X]Mild mental retardation, other impairments of behaviour"
+125,Learning disability,398391000006116.0,86765009.0,3643513017.0,Eu70z,Eu70z00,Mild intellectual disability
+126,Learning disability,398811000006118.0,61152003.0,3643518014.0,Eu71,Eu71.00,Moderate intellectual disability
+127,Learning disability,398821000006114.0,61152003.0,3643518014.0,Eu71-1,Eu71.11,[X]Moderate mental subnormality
+128,Learning disability,398771000006118.0,61152003.0,101619019.0,Eu710,Eu71000,[X]Mod mental retard with statement no or min impairm behav
+129,Learning disability,398761000006113.0,61152003.0,101619019.0,Eu711,Eu71100,[X]Mod mental retard sig impairment behav req attent/treatmt
+130,Learning disability,296565012.0,61152003.0,101619019.0,Eu71y,Eu71y00,[X]Mod retard oth behav impair
+131,Learning disability,398781000006115.0,61152003.0,3643518014.0,Eu71z,Eu71z00,[X]Mod mental retardation without mention impairment behav
+132,Learning disability,426591000006111.0,40700009.0,3643515012.0,Eu72,Eu72.00,Severe intellectual disability
+133,Learning disability,426611000006117.0,40700009.0,3643515012.0,Eu72-1,Eu72.11,[X]Severe mental subnormality
+134,Learning disability,426531000006112.0,40700009.0,67882016.0,Eu720,Eu72000,[X]Sev mental retard with statement no or min impairm behav
+135,Learning disability,426521000006114.0,40700009.0,67882016.0,Eu721,Eu72100,[X]Sev mental retard sig impairment behav req attent/treatmt
+136,Learning disability,296574014.0,40700009.0,67882016.0,Eu72y,Eu72y00,"[X]Severe mental retardation, other impairments of behaviour"
+137,Learning disability,426541000006119.0,40700009.0,3643515012.0,Eu72z,Eu72z00,[X]Sev mental retardation without mention impairment behav
+138,Learning disability,423501000006112.0,31216003.0,3643527010.0,Eu73,Eu73.00,Profound intellectual disability
+139,Learning disability,423521000006119.0,31216003.0,3643527010.0,Eu73-1,Eu73.11,[X]Profound mental subnormality
+140,Learning disability,423491000006116.0,31216003.0,52225019.0,Eu730,Eu73000,[X]Profound ment retrd wth statement no or min impairm behav
+141,Learning disability,423481000006119.0,31216003.0,52225019.0,Eu731,Eu73100,[X]Profound ment retard sig impairmnt behav req attent/treat
+142,Learning disability,423511000006110.0,31216003.0,52225019.0,Eu73y,Eu73y00,"[X]Profound mental retardation, other impairments of behavr"
+143,Learning disability,423361000006118.0,31216003.0,52225019.0,Eu73z,Eu73z00,[X]Prfnd mental retardation without mention impairment behav
+144,Learning disability,296586012.0,110359009.0,175156010.0,Eu7y,Eu7y.00,[X]Other mental retardation
+145,Learning disability,404861000006115.0,110359009.0,175156010.0,Eu7y0,Eu7y000,[X]Oth mental retard with statement no or min impairm behav
+146,Learning disability,404851000006117.0,110359009.0,175156010.0,Eu7y1,Eu7y100,[X]Oth mental retard sig impairment behav req attent/treatmt
+147,Learning disability,296592018.0,110359009.0,175156010.0,Eu7yy,Eu7yy00,"[X]Other mental retardation, other impairments of behaviour"
+148,Learning disability,411791000006118.0,110359009.0,175156010.0,Eu7yz,Eu7yz00,[X]Other mental retardation without mention impairment behav
+149,Learning disability,401902015.0,110359009.0,175156010.0,Eu7z,Eu7z.00,[X]Unspecified mental retardation
+150,Learning disability,398201000006115.0,110359009.0,175156010.0,Eu7z-1,Eu7z.11,[X]Mental deficiency NOS
+151,Learning disability,398251000006116.0,110359009.0,175156010.0,Eu7z-2,Eu7z.12,[X]Mental subnormality NOS
+152,Learning disability,430061000006113.0,110359009.0,175156010.0,Eu7z0,Eu7z000,[X]Unsp mental retard with statement no or min impairm behav
+153,Learning disability,430081000006115.0,110359009.0,175156010.0,Eu7z1,Eu7z100,[X]Unsp mentl retard sig impairment behav req attent/treatmt
+154,Learning disability,431231000006115.0,110359009.0,175156010.0,Eu7zy,Eu7zy00,"[X]Unspecified mental retardatn, other impairments of behav"
+155,Learning disability,430071000006118.0,110359009.0,175156010.0,Eu7zz,Eu7zz00,[X]Unsp mental retardation without mention impairment behav
+156,Learning disability,427261000006119.0,268672004.0,401825015.0,Eu80,Eu80.00,[X]Specific developmental disorders of speech and language
+157,Learning disability,401906017.0,268672004.0,401825015.0,Eu80y,Eu80y00,[X]Other developmental disorders of speech and language
+158,Learning disability,376891000006117.0,268672004.0,401825015.0,Eu80z,Eu80z00,[X]Developmental disorder of speech and language unspecified
+159,Learning disability,296643017.0,1855002.0,4203013.0,Eu81,Eu81.00,[X]Specific developmental disorders of scholastic skills
+160,Learning disability,1129811000000119.0,984671000000103.0,2504061000000114.0,Eu814,Eu81400,Moderate learning disability
+161,Learning disability,1129781000000117.0,508171000000105.0,1129801000000116.0,Eu815,Eu81500,Severe learning disability
+162,Learning disability,1550041000000110.0,984661000000105.0,2504041000000113.0,Eu816,Eu81600,Mild learning disability
+163,Learning disability,1550051000000113.0,984681000000101.0,2504081000000117.0,Eu817,Eu81700,Profound learning disability
+164,Learning disability,1887331000006119.0,889211000000104.0,2290291000000110.0,Eu818,Eu81800,Specific learning disability
+165,Learning disability,401909012.0,1855002.0,4203013.0,Eu81y,Eu81y00,[X]Other developmental disorders of scholastic skills
+166,Learning disability,296657015.0,1855002.0,478661012.0,Eu81z,Eu81z00,Developmental disorder of scholastic skill
+167,Learning disability,395061000006117.0,1855002.0,478664016.0,Eu81z-1,Eu81z11,Learning disability
+168,Learning disability,395071000006112.0,1855002.0,478661012.0,Eu81z-2,Eu81z12,[X]Learning disorder NOS
+169,Learning disability,395051000006119.0,110359009.0,3643707012.0,Eu81z-3,Eu81z13,[X]Learn acquisition disab NOS
+170,Learning disability,1495285013.0,268674003.0,401828018.0,Eu82,Eu82.00,[X]Specific developmental disorder of motor function
+171,Learning disability,296663012.0,442059001.0,2819191012.0,Eu83,Eu83.00,Mixed developmental disorder
+172,Learning disability,420581000006111.0,35919005.0,3078949014.0,Eu84,Eu84.00,Autism spectrum disorder
+173,Learning disability,398241000006118.0,231536004.0,347022013.0,Eu841-2,Eu84112,[X]Mental retardation with autistic features
+174,Learning disability,417681000006116.0,35919005.0,59939011.0,Eu844,Eu84400,[X]Overactive disorder assoc mental retard/stereotype movts
+175,Learning disability,296678017.0,35919005.0,59939011.0,Eu84y,Eu84y00,[X]Other pervasive developmental disorders
+176,Learning disability,296679013.0,35919005.0,3078949014.0,Eu84z,Eu84z00,"[X]Pervasive developmental disorder, unspecified"
+177,Learning disability,424181000006111.0,192562009.0,296607011.0,Eu8z-1,Eu8z.11,[X]Psychological developmental disorder NOS
+178,Learning disability,2900005013.0,448045004.0,2900005013.0,F1y0,F1y0.00,Fragile X associated tremor ataxia syndrome
+179,Learning disability,628281000006114.0,41040004.0,598021000000114.0,PJ0,PJ0..00,Down's syndrome
+180,Learning disability,68472012.0,41040004.0,598021000000114.0,PJ0-1,PJ0..11,Mongolism
+181,Learning disability,222121000000113.0,41040004.0,68470016.0,PJ0-2,PJ0..12,Trisomy 21
+182,Learning disability,378493013.0,41040004.0,598021000000114.0,PJ0z,PJ0z.00,Down's syndrome NOS
+183,Learning disability,1224878018.0,41040004.0,222121000000113.0,PJ0z-1,PJ0z.11,Trisomy 21 NOS
+184,Learning disability,239991000006111.0,21111006.0,35483012.0,PJ1,PJ1..00,Patau syndrome
+185,Learning disability,378500015.0,254268004.0,378500015.0,PJ12-1,PJ12.11,Partial trisomy 13 in Patau's syndrome
+186,Learning disability,378499012.0,21111006.0,35482019.0,PJ1z,PJ1z.00,Patau's syndrome NOS
+187,Learning disability,636711000006113.0,51500006.0,85776017.0,PJ2,PJ2..00,Edward's syndrome - trisomy 18
+188,Learning disability,378497014.0,254266000.0,378497014.0,PJ22-1,PJ22.11,Partial trisomy 18 in Edward's syndrome
+189,Learning disability,378496017.0,51500006.0,85775018.0,PJ2z,PJ2z.00,Edward's syndrome NOS
+190,Learning disability,315486012.0,205720009.0,315486012.0,PJyy2,PJyy200,Fragile X chromosome
+191,Learning disability,2090010.0,613003.0,2090010.0,PJyy4,PJyy400,Fragile X syndrome
+192,Learning disability,342177013.0,228156007.0,342177013.0,13VCA,,Intellectual functioning disability
+193,Learning disability,1821361000006110.0,228156007.0,1821361000006110.0,EMISNQIN133,,Intellectual functioning disability
+194,Learning disability,296657015.0,1855002.0,478661012.0,Eu81z,Eu81z00,Developmental disorder of scholastic skill
+195,Learning disability,395061000006117.0,1855002.0,478664016.0,Eu81z-1,Eu81z11,Learning disability
+196,Learning disability,1620441000006116.0,1620441000006100.0,1620441000006116.0,EMISNQLE5,,Learning disability
+197,Learning disability,6762801000006118.0,408468001.0,2163986010.0,,,Learning disability
+211,Nasal polyp,255593013.0,736499003.0,3517886017.0,2D33,2D33.00,O/E - nasal polyp present
+212,Nasal polyp,451074013.0,307723009.0,451074013.0,74029,7402900,Excision of polyp of nasal septum
+213,Nasal polyp,451073019.0,307723009.0,451073019.0,74029-1,7402911,Nasal septum polypectomy
+214,Nasal polyp,267569019.0,172825008.0,267569019.0,74060,7406000,Nasal polypectomy
+215,Nasal polyp,456346011.0,312595006.0,456346011.0,74067,7406700,Nasal polypectomy using auto-debrider
+216,Nasal polyp,912771000006112.0,401307002.0,1780494010.0,7416F,7416F00,Functional endoscopic sinus surgery - polypectomy of nasal sinus
+217,Nasal polyp,681691000006114.0,736499003.0,3517886017.0,H11,H11..00,Polyp of nasal cavity and/or nasal sinus
+218,Nasal polyp,87782018.0,736499003.0,3517886017.0,H110,H110.00,Polyp of nasal cavity
+219,Nasal polyp,51348012.0,30677002.0,51348012.0,H1100,H110000,Choanal polyp
+220,Nasal polyp,51349016.0,30677002.0,51349016.0,H1101,H110100,Nasopharyngeal polyp
+221,Nasal polyp,301156010.0,32307003.0,53968018.0,H110z,H110z00,Polyp of nasal cavity NOS
+222,Nasal polyp,44865016.0,26808007.0,44865016.0,H111,H111.00,Polypoid sinus degeneration
+223,Nasal polyp,301158011.0,195756009.0,301158011.0,H1110,H111000,Woakes' ethmoiditis
+224,Nasal polyp,301159015.0,26808007.0,44865016.0,H111z,H111z00,Polypoid sinus degeneration NOS
+225,Nasal polyp,396094010.0,32307003.0,53968018.0,H11y,H11y.00,Other polyp of sinus
+226,Nasal polyp,681821000006111.0,32307003.0,53968018.0,H11y-1,H11y.11,Nasal sinus polyps
+227,Nasal polyp,301163010.0,195759002.0,301163010.0,H11y0,H11y000,Polyp of frontal sinus
+228,Nasal polyp,40240015.0,23966000.0,40240015.0,H11y1,H11y100,Polyp of ethmoidal sinus
+229,Nasal polyp,48663018.0,29074008.0,48663018.0,H11y2,H11y200,Polyp of maxillary sinus
+230,Nasal polyp,484189011.0,29074008.0,484189011.0,H11y2-1,H11y211,Antral (maxillary) polyp
+231,Nasal polyp,150282011.0,90685008.0,150282011.0,H11y3,H11y300,Polyp of sphenoidal sinus
+232,Nasal polyp,301170010.0,32307003.0,53968018.0,H11yz,H11yz00,Other polyp of sinus NOS
+233,Nasal polyp,301171014.0,32307003.0,53968018.0,H11z,H11z.00,Polyp of nasal sinus
+234,Nasal polyp,301826015.0,32307003.0,53968018.0,Hyu23,Hyu2300,Polyp of nasal sinus
+237,Other anaemias,257182019.0,165396004.0,257182019.0,4234,4234.00,Haemoglobin very low
+238,Other anaemias,257185017.0,165397008.0,257185017.0,4235,4235.00,Haemoglobin low
+239,Other anaemias,399193019.0,267513007.0,399193019.0,D0,D0...00,Deficiency anaemias
+240,Other anaemias,789001000006115.0,44666001.0,493975011.0,D00-1,D00..11,Hypochromic - microcytic anaemia
+241,Other anaemias,703501000006114.0,44666001.0,493975011.0,D00-2,D00..12,Microcytic - hypochromic anaemia
+242,Other anaemias,493975011.0,44666001.0,493975011.0,D00y1,D00y100,Microcytic hypochromic anaemia
+243,Other anaemias,293885013.0,191136008.0,293885013.0,D00z2,D00z200,Idiopathic hypochromic anaemia
+244,Other anaemias,399196010.0,267513007.0,399193019.0,D01,D01..00,Other deficiency anaemias
+245,Other anaemias,496576014.0,53165003.0,496576014.0,D01-1,D01..11,Megaloblastic anaemia
+246,Other anaemias,351101015.0,234358000.0,351101015.0,D0121-2,D012112,Megaloblastic anaemia due to dietary causes
+247,Other anaemias,731981000006116.0,83414005.0,505602015.0,D0125,D012500,Macrocytic anaemia
+248,Other anaemias,293946019.0,53165003.0,88429014.0,D013,D013.00,Other specified megaloblastic anaemia NEC
+249,Other anaemias,293949014.0,53165003.0,88429014.0,D013z,D013z00,Other specified megaloblastic anaemia NEC NOS
+250,Other anaemias,293952018.0,85746008.0,142125016.0,D014,D014.00,Protein-deficiency anaemia
+251,Other anaemias,479141000006117.0,85746008.0,142125016.0,D0140,D014000,Amino-acid deficiency anaemia
+252,Other anaemias,41521000006112.0,47641009.0,79408019.0,D0141,D014100,Orotic aciduria
+253,Other anaemias,293956015.0,85746008.0,142125016.0,D014z,D014z00,Anemia due to protein deficiency
+254,Other anaemias,293959010.0,267513007.0,399192012.0,D01y,D01y.00,Other specified nutritional deficiency anaemia
+255,Other anaemias,293961018.0,191161006.0,293961018.0,D01y0,D01y000,Vitamin C deficiency anaemia
+256,Other anaemias,293965010.0,24962009.0,482070013.0,D01y1,D01y100,Anaemia due to vitamin E deficiency
+257,Other anaemias,293966011.0,267513007.0,399192012.0,D01yy,D01yy00,Other specified other nutritional deficiency anaemia
+258,Other anaemias,293969016.0,267513007.0,399192012.0,D01yz,D01yz00,Other specified nutritional deficiency anaemia NOS
+259,Other anaemias,399205010.0,267513007.0,399193019.0,D01z,D01z.00,Other deficiency anaemias NOS
+260,Other anaemias,351100019.0,53165003.0,496576014.0,D01z-1,D01z.11,Megaloblastic anaemia NOS
+261,Other anaemias,293977017.0,53165003.0,496576014.0,D01z0,D01z000,[X]Megaloblastic anaemia NOS
+262,Other anaemias,293978010.0,267513007.0,399193019.0,D0y,D0y..00,Other specified deficiency anaemias
+263,Other anaemias,293981017.0,267513007.0,399193019.0,D0z,D0z..00,Deficiency anaemias NOS
+264,Other anaemias,294021010.0,19442009.0,2770070012.0,D1041,D104100,Thalassaemia minor
+265,Other anaemias,294032010.0,191187006.0,294032010.0,D1044,D104400,Alpha trait thalassaemia
+266,Other anaemias,510131000006116.0,269175006.0,402962015.0,D1045,D104500,Beta thalassaemia trait
+267,Other anaemias,501116019.0,269175006.0,402962015.0,D1048,D104800,Beta minor thalassaemia
+268,Other anaemias,294148013.0,271737000.0,406636013.0,D2,D2...00,Aplastic and other anaemias
+269,Other anaemias,38181000006111.0,271737000.0,406638014.0,D21,D21..00,Other and unspecified anaemias
+270,Other anaemias,493120017.0,41841004.0,493120017.0,D210,D210.00,Sideroblastic anaemia
+272,Other anaemias,508873014.0,90175006.0,508873014.0,D2101,D210100,Acquired sideroblastic anaemia
+273,Other anaemias,294231010.0,191260004.0,294231010.0,D2102,D210200,Pyridoxine-responsive sideroblastic anaemia
+274,Other anaemias,294232015.0,191261000.0,294232015.0,D2103,D210300,Secondary sideroblastic anaemia due to disease
+275,Other anaemias,294235018.0,191262007.0,294235018.0,D2104,D210400,Secondary sideroblastic anaemia due to drugs and toxins
+276,Other anaemias,294236017.0,41841004.0,493120017.0,D210z,D210z00,Sideroblastic anaemia NOS
+279,Other anaemias,294245016.0,191265009.0,294245016.0,D212,D212.00,Anaemia in neoplastic disease
+281,Other anaemias,344913019.0,109996008.0,344913019.0,D213,D213.00,Refractory anaemia
+282,Other anaemias,294251014.0,191268006.0,294251014.0,D214,D214.00,Chronic anaemia
+283,Other anaemias,454255014.0,310647000.0,454255014.0,D215,D215.00,Anaemia secondary to renal failure
+284,Other anaemias,480871000006117.0,49708008.0,495474017.0,D2150,D215000,Anaemia of chronic renal failure
+285,Other anaemias,15581000006119.0,271737000.0,406638014.0,D21y,D21y.00,Other specified anaemias
+289,Other anaemias,745101000006113.0,2694001.0,483387010.0,D21y2,D21y200,Leukoerythroblastic anaemia
+291,Other anaemias,294275014.0,271737000.0,406638014.0,D21yy,D21yy00,Other specified other anaemia
+292,Other anaemias,294278011.0,271737000.0,406636013.0,D21yz,D21yz00,Other specified anaemia NOS
+293,Other anaemias,399230013.0,271737000.0,406638014.0,D21z,D21z.00,Anaemia
+294,Other anaemias,351071018.0,271737000.0,406638014.0,D21z-1,D21z.11,Anaemia
+295,Other anaemias,351067016.0,300980002.0,442184016.0,D21z-2,D21z.12,Normocytic anaemia
+296,Other anaemias,351097012.0,83414005.0,505602015.0,D21z-3,D21z.13,Macrocytic anemia
+297,Other anaemias,294290013.0,271737000.0,406638014.0,D2y,D2y..00,Other specified anaemias
+298,Other anaemias,294291012.0,271737000.0,406638014.0,D2z,D2z..00,Anaemia
+299,Other anaemias,294564014.0,66612000.0,500483015.0,Dyu0,Dyu0.00,Nutritional anaemia
+300,Other anaemias,294603013.0,234347009.0,351077019.0,Dyu22,Dyu2200,Anaemia of chronic disease
+301,Other anaemias,294607014.0,271737000.0,406636013.0,Dyu24,Dyu2400,[X]Other specified anaemias
+303,Other anaemias,494753011.0,47100003.0,494753011.0,Q456,Q456.00,Anaemia of prematurity
+305,Respiratory failure,345396012.0,230499002.0,345396012.0,Fy04,Fy04.00,Sleep-related respiratory failure
+306,Respiratory failure,2471399010.0,409622000.0,2471399010.0,H59,H59..00,Respiratory failure
+307,Respiratory failure,67242018.0,39871006.0,67242018.0,H591,H591.00,Chronic respiratory failure
+308,Respiratory failure,618361000000112.0,428173007.0,3038448017.0,H592,H592.00,Chronic type 1 respiratory failure
+309,Respiratory failure,618371000000117.0,426896000.0,3038584014.0,H593,H593.00,Chronic type 2 respiratory failure
+310,Respiratory failure,317954010.0,409622000.0,2471399010.0,R2y1,R2y1.00,[D]Respiratory failure
+311,Respiratory failure,317957015.0,409622000.0,2471399010.0,R2y1z,R2y1z00,[D]Respiratory failure NOS
+313,Chronic ulcer of the skin,254880016.0,163634008.0,254880016.0,2924,2924.00,O/E - trophic skin ulceration
+314,Chronic ulcer of the skin,255854010.0,46742003.0,77912013.0,2FF,2FF..00,O/E - skin ulcer
+315,Chronic ulcer of the skin,255856012.0,164397002.0,255856012.0,2FF2,2FF2.00,O/E - skin ulcer present
+316,Chronic ulcer of the skin,255857015.0,46742003.0,77912013.0,2FFZ,2FFZ.00,O/E - skin ulcer NOS
+317,Chronic ulcer of the skin,261398014.0,168307001.0,261398014.0,4JG3,4JG3.00,Skin ulcer swab taken
+318,Chronic ulcer of the skin,1864241000006110.0,1864241000006106.0,1864241000006110.0,EMISREQ|4JG3.,4JG3.00,Test request : Skin ulcer swab taken
+319,Chronic ulcer of the skin,275047016.0,302434002.0,444109012.0,7G2E5,7G2E500,Dressing of skin ulcer
+320,Chronic ulcer of the skin,456401011.0,312647006.0,456401011.0,7G2EA,7G2EA00,Two layer compression bandage for skin ulcer
+321,Chronic ulcer of the skin,456402016.0,312648001.0,456402016.0,7G2EB,7G2EB00,Four layer compression bandaging for skin ulcer
+322,Chronic ulcer of the skin,458425010.0,314129003.0,458425010.0,7G2EC,7G2EC00,Three layer compression bandage for skin ulcer
+324,Chronic ulcer of the skin,1783736011.0,400086005.0,1783736011.0,A056,A056.00,Amoebic skin ulceration
+330,Chronic ulcer of the skin,5466011.0,2622007.0,5466011.0,M07z-2,M07z.12,Infected skin ulcer
+331,Chronic ulcer of the skin,308932015.0,95320005.0,157887011.0,M22,M22..00,Dermatosis
+332,Chronic ulcer of the skin,479493015.0,19429009.0,479493015.0,M27,M27..00,Chronic skin ulcer
+333,Chronic ulcer of the skin,608941000006119.0,399912005.0,1787031010.0,M270,M270.00,Pressure ulcer
+334,Chronic ulcer of the skin,1787140012.0,399912005.0,1787031010.0,M270-1,M270.11,Bed sore
+335,Chronic ulcer of the skin,1628013.0,324007.0,1628013.0,M270-2,M270.12,Plaster ulcer
+336,Chronic ulcer of the skin,1779199011.0,399912005.0,1779199011.0,M270-3,M270.13,Pressure sore
+337,Chronic ulcer of the skin,1816831000006112.0,399912005.0,1787031010.0,M270-4,M270.14,Decubitus ulcer and pressure area
+338,Chronic ulcer of the skin,1647721000000110.0,446261004.0,2883380010.0,M2700,M270000,Hospital acquired pressure ulcer
+339,Chronic ulcer of the skin,1647741000000115.0,446262006.0,2883911013.0,M2701,M270100,Nursing home acquired pressure ulcer
+340,Chronic ulcer of the skin,1647761000000119.0,447471009.0,2883282017.0,M2702,M270200,Community hospital acquired pressure ulcer
+341,Chronic ulcer of the skin,1647781000000111.0,446260003.0,2883283010.0,M2703,M270300,Hospice acquired pressure ulcer
+342,Chronic ulcer of the skin,1816841000006119.0,376951000000105.0,741781000000112.0,M2704,M270400,Stage I decubitus ulcer and pressure area
+343,Chronic ulcer of the skin,1816851000006117.0,376961000000108.0,741801000000113.0,M2705,M270500,Stage II decubitus ulcer
+344,Chronic ulcer of the skin,1816861000006115.0,376971000000101.0,741821000000116.0,M2706,M270600,Stage III decubitus ulcer
+345,Chronic ulcer of the skin,1816871000006110.0,376981000000104.0,741841000000111.0,M2707,M270700,Stage IV decubitus ulcer
+346,Chronic ulcer of the skin,1816881000006113.0,399912005.0,1787031010.0,M270z,M270z00,Decubitus ulcer and pressure area NOS
+347,Chronic ulcer of the skin,399941017.0,267816005.0,399941017.0,M271,M271.00,Non-pressure ulcer lower limb
+348,Chronic ulcer of the skin,512081010.0,95345008.0,512081010.0,M271-1,M271.11,Foot ulcer
+350,Chronic ulcer of the skin,357890015.0,95344007.0,512080011.0,M271-3,M271.13,Leg ulcer
+351,Chronic ulcer of the skin,486094011.0,35222003.0,486094011.0,M271-4,M271.14,Neurogenic leg ulcer
+352,Chronic ulcer of the skin,88521000006110.0,35222003.0,486092010.0,M271-5,M271.15,Trophic leg ulcer
+355,Chronic ulcer of the skin,66891000006111.0,402863005.0,1781953019.0,M2715,M271500,Venous ulcer of leg
+356,Chronic ulcer of the skin,309185018.0,201256000.0,309185018.0,M2716,M271600,Traumatic leg ulcer
+358,Chronic ulcer of the skin,77910017.0,46742003.0,77912013.0,M272,M272.00,Skin ulcer
+359,Chronic ulcer of the skin,2152971000000114.0,828001000000105.0,2152971000000114.0,M273,M273.00,Non-healing leg ulcer
+360,Chronic ulcer of the skin,2153151000000114.0,828101000000106.0,2153151000000114.0,M274,M274.00,Recurrent leg ulcer
+361,Chronic ulcer of the skin,309187014.0,19429009.0,32731010.0,M27y,M27y.00,Chronic ulcer of skin
+362,Chronic ulcer of the skin,309188016.0,19429009.0,479493015.0,M27z,M27z.00,Chronic skin ulcer NOS
+363,Chronic ulcer of the skin,1219787019.0,11263005.0,1219787019.0,M2y0,M2y0.00,Vascular disorders of skin
+364,Chronic ulcer of the skin,7237551000006115.0,440461005.0,2790977018.0,,,Skin ulcer care
+365,Chronic ulcer of the skin,275047016.0,302434002.0,444109012.0,7G2E5,7G2E500,Dressing of skin ulcer
+366,"Thrombocytopaenia - primary, secondary and other",1227080015.0,302215000.0,1227080015.0,42P2,42P2.00,Thrombocytopenia
+367,"Thrombocytopaenia - primary, secondary and other",1490557013.0,128091003.0,194685017.0,42P2-1,42P2.11,Autoimmune thrombocytopenia
+368,"Thrombocytopaenia - primary, secondary and other",2159799011.0,1003111000000109.0,2585401000000118.0,42P8,42P8.00,Heparin induced thrombocytopenia screening test
+369,"Thrombocytopaenia - primary, secondary and other",53821000006111.0,36070007.0,60191017.0,C3912,C391200,Wiskott-Aldrich syndrome
+371,"Thrombocytopaenia - primary, secondary and other",399233010.0,267534000.0,399233010.0,D313,D313.00,Primary thrombocytopenia
+372,"Thrombocytopaenia - primary, secondary and other",649701000006117.0,302873008.0,444860010.0,D313-1,D313.11,Evan's syndrome
+373,"Thrombocytopaenia - primary, secondary and other",786681000006113.0,32273002.0,53913017.0,D313-2,D313.12,Idiopathic thrombocytopenic purpura
+374,"Thrombocytopaenia - primary, secondary and other",786601000006116.0,32273002.0,53913017.0,D313-3,D313.13,Idiopathic purpura
+375,"Thrombocytopaenia - primary, secondary and other",473369018.0,302873008.0,444860010.0,D313-4,D313.14,Megakaryocytic hypoplasia
+376,"Thrombocytopaenia - primary, secondary and other",444860010.0,302873008.0,444860010.0,D313-5,D313.15,Thrombocytopenic purpura
+377,"Thrombocytopaenia - primary, secondary and other",53913017.0,32273002.0,53913017.0,D3130,D313000,Idiopathic thrombocytopenic purpura
+378,"Thrombocytopaenia - primary, secondary and other",53918014.0,32273002.0,53913017.0,D3130-1,D313011,Idiopathic purpura
+379,"Thrombocytopaenia - primary, secondary and other",758831000006117.0,32273002.0,3452119018.0,D3130-2,D313012,ITP - idiopathic thrombocytopenic purpura
+382,"Thrombocytopaenia - primary, secondary and other",294375012.0,302215000.0,443796011.0,D3133,D313300,[X]Essential thrombocytopenia NOS
+383,"Thrombocytopaenia - primary, secondary and other",294376013.0,302873008.0,444860010.0,D313y,D313y00,Other specified primary thrombocytopenia
+384,"Thrombocytopaenia - primary, secondary and other",399235015.0,267534000.0,399233010.0,D313z,D313z00,Primary thrombocytopenia NOS
+385,"Thrombocytopaenia - primary, secondary and other",351315014.0,267534000.0,399233010.0,D313z-1,D313z11,Essential thrombocytopenia NOS
+386,"Thrombocytopaenia - primary, secondary and other",123869011.0,154826009.0,240835016.0,D314,D314.00,Secondary thrombocytopenia
+387,"Thrombocytopaenia - primary, secondary and other",450586010.0,307342006.0,450586010.0,D3140-1,D314011,Thrombocytopenia due to massive blood transfusion
+388,"Thrombocytopaenia - primary, secondary and other",294383018.0,191322006.0,294383018.0,D3141,D314100,Thrombocytopenia due to drugs
+389,"Thrombocytopaenia - primary, secondary and other",1887321000006117.0,73397007.0,121892018.0,D3143,D314300,Heparin-induced thrombocytopenia
+390,"Thrombocytopaenia - primary, secondary and other",294385013.0,74576004.0,123868015.0,D314y,D314y00,Other specified secondary thrombocytopenia
+391,"Thrombocytopaenia - primary, secondary and other",399236019.0,74576004.0,123868015.0,D314z,D314z00,Secondary thrombocytopenia NOS
+392,"Thrombocytopaenia - primary, secondary and other",294389019.0,302215000.0,1227080015.0,D315,D315.00,Thrombocytopenia NOS
+393,"Thrombocytopaenia - primary, secondary and other",294614011.0,267534000.0,399233010.0,Dyu32,Dyu3200,[X]Other primary thrombocytopenia
+394,"Thrombocytopaenia - primary, secondary and other",129661016.0,78129009.0,129661016.0,G7561,G756100,Thrombotic thrombocytopenic purpura
+396,Urolithiasis,12699010.0,7093002.0,12699010.0,1A52,1A52.00,Renal colic
+397,Urolithiasis,176671000006112.0,7093002.0,12699010.0,1A52-1,1A52.11,"Renal colic, symptom"
+398,Urolithiasis,261016018.0,168041003.0,261016018.0,4G4,4G4..00,O/E: renal calculus
+399,Urolithiasis,261017010.0,168041003.0,261017010.0,4G4-1,4G4..11,O/E: kidney stone
+400,Urolithiasis,261018017.0,168042005.0,261018017.0,4G41,4G41.00,O/E: oxalate renal calculus
+401,Urolithiasis,404562010.0,269914004.0,404562010.0,4G42,4G42.00,O/E: phosphate -staghorn-stone
+402,Urolithiasis,411861016.0,275893001.0,411861016.0,4G42-1,4G42.11,Phosphate kidney stone
+403,Urolithiasis,261022010.0,168044006.0,261022010.0,4G43,4G43.00,O/E: uric acid renal calculus
+404,Urolithiasis,261023017.0,168045007.0,261023017.0,4G44,4G44.00,O/E: cystine renal calculus
+405,Urolithiasis,261024011.0,168041003.0,261017010.0,4G4Z,4G4Z.00,O/E: renal stone NOS
+406,Urolithiasis,261029018.0,168051002.0,261029018.0,4G6,4G6..00,O/E - ureteric calculus
+407,Urolithiasis,261030011.0,168052009.0,261030011.0,4G7,4G7..00,O/E - urethral calculus
+408,Urolithiasis,261031010.0,168053004.0,261031010.0,4G8,4G8..00,O/E - bladder calculus
+409,Urolithiasis,404563017.0,269915003.0,404563017.0,4G81,4G81.00,O/E - vesical oxalate calculus
+410,Urolithiasis,406706014.0,271778003.0,406706014.0,4G81-1,4G81.11,Oxalate bladder stone
+411,Urolithiasis,404564011.0,269916002.0,404564011.0,4G82,4G82.00,O/E-vesical uric acid calculus
+412,Urolithiasis,406707017.0,271779006.0,406707017.0,4G82-1,4G82.11,Uric acid bladder stone
+413,Urolithiasis,404565012.0,269917006.0,404565012.0,4G83,4G83.00,O/E-vesical phosphate calculus
+414,Urolithiasis,406708010.0,271780009.0,406708010.0,4G83-1,4G83.11,Phosphate bladder stone
+415,Urolithiasis,261042018.0,168053004.0,261031010.0,4G8Z,4G8Z.00,O/E - bladder calculus NOS
+416,Urolithiasis,272375016.0,287734006.0,427287019.0,7B050,7B05000,Nephrotomy with calculus removal
+417,Urolithiasis,239331000006111.0,386200002.0,1491474016.0,7B07,7B07.00,Percutaneous nephrolithotomy
+418,Urolithiasis,678201000006116.0,386200002.0,1491474016.0,7B07-1,7B07.11,Nephroscopic percutaneous lithotripsy of renal calculus
+419,Urolithiasis,239211000006114.0,386198008.0,1491473010.0,7B07-2,7B07.12,PCL - Percutaneous lithotripsy of renal calculus
+420,Urolithiasis,272394014.0,175951002.0,272394014.0,7B070,7B07000,Nephroscopy and ultrasound lithotripsy of renal calculus
+421,Urolithiasis,272393015.0,175951002.0,272393015.0,7B070-1,7B07011,Endoscopic ultrasound fragmentation of renal calculus
+422,Urolithiasis,677391000006118.0,175952009.0,272395010.0,7B071,7B07100,Nephroscopy and electrohydraulic lithotripsy of renal calculus
+423,Urolithiasis,677411000006118.0,175953004.0,272396011.0,7B072,7B07200,Nephroscopy and laser lithotripsy of renal calculus
+424,Urolithiasis,272396011.0,175953004.0,272396011.0,7B072-1,7B07211,Endoscopic laser fragmentation of renal calculus
+425,Urolithiasis,1488616013.0,450516001.0,2915897018.0,7B074,7B07400,Endoscopic extraction of calculus of kidney
+426,Urolithiasis,272399016.0,386200002.0,1480380019.0,7B07y,7B07y00,Other specified percutaneous renal stone surgery
+427,Urolithiasis,272400011.0,386200002.0,1480380019.0,7B07z,7B07z00,Percutaneous renal stone surgery NOS
+428,Urolithiasis,481900014.0,393072009.0,1487042014.0,7B0B,7B0B.00,Extracorporeal shockwave lithotripsy for renal calculus
+429,Urolithiasis,481901013.0,393072009.0,1487042014.0,7B0B-1,7B0B.11,Extracorporeal fragmentation of renal calculus
+430,Urolithiasis,649111000006118.0,393072009.0,1487042014.0,7B0B0,7B0B000,ESWL for renal calculus of unspecified size
+431,Urolithiasis,649101000006116.0,175977005.0,272434012.0,7B0B1,7B0B100,Extracorporeal shockwave lithotripsy for renal calculus less than 2 cm in diameter
+432,Urolithiasis,649091000006110.0,175978000.0,272436014.0,7B0B2,7B0B200,Extracorporeal shockwave treatment for renal calculus of 2 cm or more in diameter
+433,Urolithiasis,659701000006115.0,393072009.0,1487042014.0,7B0By,7B0By00,Extracorporeal shockwave lithotripsy for renal calculus OS
+434,Urolithiasis,272438010.0,393072009.0,1487042014.0,7B0Bz,7B0Bz00,Extracorporeal shockwave lithotripsy for renal calculus NOS
+435,Urolithiasis,678191000006119.0,176050007.0,272542011.0,7B170,7B17000,Nephroscopic laser lithotripsy of ureteric calculus
+436,Urolithiasis,272542011.0,176050007.0,272542011.0,7B170-1,7B17011,Nephroscopic laser fragmentation of ureteric calculus
+437,Urolithiasis,272543018.0,236172004.0,354018019.0,7B171,7B17100,Other nephroscopic fragmentation of ureteric calculus
+438,Urolithiasis,1221571017.0,236172004.0,354018019.0,7B171-1,7B17111,Nephroscopic lithotripsy of ureteric calculus
+439,Urolithiasis,678161000006110.0,176052004.0,272544012.0,7B172,7B17200,Nephroscopic extraction of ureteric calculus
+440,Urolithiasis,73521000006110.0,297932004.0,438520013.0,7B18,7B18.00,Ureteroscopic operation for ureteric calculus
+441,Urolithiasis,272556013.0,176058000.0,272556013.0,7B180,7B18000,Ureteroscopic laser lithotripsy of ureteric calculus
+442,Urolithiasis,272557016.0,176058000.0,272557016.0,7B180-1,7B18011,Ureteroscopic laser fragmentation of ureteric calculus
+443,Urolithiasis,272558014.0,236179008.0,354032017.0,7B181,7B18100,Ureteroscopic fragmentation of ureteric calculus
+444,Urolithiasis,73491000006113.0,265561004.0,394380019.0,7B182,7B18200,Ureteroscopic removal of ureteric calculus
+445,Urolithiasis,607041000006119.0,176063001.0,272562015.0,7B19,7B19.00,Cystoscopic removal of ureteric calculus
+446,Urolithiasis,272563013.0,176064007.0,272563013.0,7B190,7B19000,Cystoscopic laser lithotripsy of ureteric calculus
+447,Urolithiasis,272564019.0,236190003.0,354044019.0,7B191,7B19100,Other cystoscopic fragmentation of ureteric calculus
+448,Urolithiasis,394381015.0,265562006.0,394381015.0,7B192,7B19200,Cystoscopic extraction of ureteric calculus
+449,Urolithiasis,503901000006116.0,302361003.0,444002018.0,7B192-1,7B19211,Basket extraction of ureteric calculus
+450,Urolithiasis,444002018.0,302361003.0,444002018.0,7B192-2,7B19212,Dormia basket extraction of ureteric calculus
+451,Urolithiasis,272569012.0,176067000.0,272569012.0,7B193,7B19300,Cystoscopic catheter drainage for ureteric calculus
+452,Urolithiasis,272571012.0,176068005.0,272571012.0,7B194,7B19400,Cystoscopic dilation of ureter for drainage of calculus
+453,Urolithiasis,272572017.0,176063001.0,272562015.0,7B19y,7B19y00,Other specified cystoscopic removal of ureteric calculus
+454,Urolithiasis,272573010.0,795181000000104.0,1777501000000117.0,7B19z,7B19z00,Cystoscopic removal of ureteric calculus
+455,Urolithiasis,480263010.0,20042009.0,480263010.0,7B1C,7B1C.00,Extracorporeal shockwave lithotripsy of ureteric calculus
+456,Urolithiasis,659581000006117.0,20042009.0,33733018.0,7B1C0,7B1C000,Extracorporeal shockwave lithotripsy of ureter
+458,Urolithiasis,272605010.0,176092002.0,272605010.0,7B1C2,7B1C200,Extracorporeal shockwave lithotripsy for stone in mid-ureter
+459,Urolithiasis,659741000006118.0,176093007.0,272606011.0,7B1C3,7B1C300,Extracorporeal shockwave lithotripsy for stone in lower ureter
+460,Urolithiasis,659731000006111.0,20042009.0,33733018.0,7B1Cy,7B1Cy00,Extracorporeal shockwave lithotripsy of ureteric calculus OS
+461,Urolithiasis,659751000006116.0,20042009.0,33733018.0,7B1Cz,7B1Cz00,Extracorporeal shockwave lithotripsy ureteric calculus NOS
+462,Urolithiasis,490291000000113.0,284301000000102.0,490291000000113.0,7B1F0,7B1F000,Endoscopic extraction of calculus of urinary diversion
+463,Urolithiasis,1490829012.0,370984003.0,1490829012.0,7B250,7B25000,Open removal of bladder calculus
+464,Urolithiasis,272732012.0,287712009.0,427262014.0,7B291,7B29100,Other endoscopic extraction of bladder calculus
+465,Urolithiasis,453179011.0,309708008.0,453179011.0,7B294,7B29400,Electrokinetic lithotripsy of bladder calculus
+466,Urolithiasis,272768019.0,176194004.0,272768019.0,7B2B4,7B2B400,Removal of bladder calculus by urethral catheter suction
+467,Urolithiasis,480970019.0,21272003.0,480970019.0,7B423,7B42300,Open urethrotomy and removal of calculus
+468,Urolithiasis,368981000000111.0,21272003.0,758741000000110.0,7B424,7B42400,Open extraction of calculus from urethra
+469,Urolithiasis,459826012.0,315318003.0,459826012.0,7B439,7B43900,Endoscopic removal of urethral calculus
+470,Urolithiasis,398876010.0,274401005.0,3036817010.0,C3411,C341100,Uric acid nephrolithiasis
+471,Urolithiasis,177221000006111.0,274401005.0,410199019.0,C3411-1,C341111,Uric acid renal calculus
+472,Urolithiasis,39884018.0,23754003.0,39884018.0,K1006,K100600,Calculous pyelonephritis
+473,Urolithiasis,304094012.0,736640009.0,3520573015.0,K112,K112.00,Hydronephrosis co-occurrent and due to calculus of kidney and ureter
+474,Urolithiasis,396716015.0,266556005.0,396716015.0,K12,K12..00,Calculus of kidney and ureter
+475,Urolithiasis,512195010.0,95570007.0,512195010.0,K12-1,K12..11,Kidney calculus
+476,Urolithiasis,1229051019.0,95566004.0,158289015.0,K12-2,K12..12,Urinary calculus
+477,Urolithiasis,512193015.0,95570007.0,512193015.0,K120,K120.00,Calculus of kidney
+478,Urolithiasis,354793016.0,95570007.0,512194014.0,K120-1,K120.11,Nephrolithiasis
+479,Urolithiasis,158299013.0,95570007.0,158299013.0,K120-2,K120.12,Renal calculus
+480,Urolithiasis,158297010.0,95570007.0,158297010.0,K120-3,K120.13,Renal stone
+481,Urolithiasis,304112014.0,197794008.0,304112014.0,K1200,K120000,Staghorn calculus
+482,Urolithiasis,304113016.0,95570007.0,158299013.0,K120z,K120z00,Renal calculus NOS
+483,Urolithiasis,484765012.0,31054009.0,484765012.0,K121,K121.00,Calculus of ureter
+484,Urolithiasis,51972013.0,31054009.0,51972013.0,K121-1,K121.11,Ureteric calculus
+485,Urolithiasis,51969018.0,31054009.0,51969018.0,K121-2,K121.12,Ureteric stone
+486,Urolithiasis,51973015.0,31054009.0,51973015.0,K121-3,K121.13,Ureterolithiasis
+487,Urolithiasis,396715016.0,266556005.0,396715016.0,K122,K122.00,Calculus of kidney with calculus of ureter
+488,Urolithiasis,304115011.0,95566004.0,158289015.0,K12z,K12z.00,Urinary calculus NOS
+489,Urolithiasis,2478855015.0,79509009.0,2478855015.0,K14,K14..00,Lower urinary tract calculus
+490,Urolithiasis,117365011.0,70650003.0,117365011.0,K140,K140.00,Bladder calculus
+491,Urolithiasis,117363016.0,70650003.0,117363016.0,K140-1,K140.11,Bladder stone
+492,Urolithiasis,30590019.0,18109005.0,1221671010.0,K1400,K140000,Calculus in diverticulum of bladder
+493,Urolithiasis,304172018.0,70650003.0,117361019.0,K1401,K140100,Other calculus in bladder
+494,Urolithiasis,304173011.0,70650003.0,117365011.0,K140z,K140z00,Bladder calculus NOS
+495,Urolithiasis,34208010.0,20342001.0,34208010.0,K141,K141.00,Calculus in urethra
+496,Urolithiasis,304174017.0,79509009.0,131902017.0,K14y,K14y.00,Calculus of lower urinary tract
+497,Urolithiasis,304175016.0,79509009.0,131902017.0,K14z,K14z.00,Lower urinary tract calculus NOS
+498,Urolithiasis,304368014.0,197954003.0,304368014.0,K1A,K1A..00,Urinary calculus in schistosomiasis
+499,Urolithiasis,431601000006114.0,95566004.0,158289015.0,Kyu3,Kyu3.00,Urolithiasis
+500,Urolithiasis,305194016.0,95566004.0,158289015.0,Kyu30,Kyu3000,[X]Other lower urinary tract calculus
+501,Urolithiasis,369131000006110.0,95566004.0,158289015.0,Kyu31,Kyu3100,[X]Calculus of urinary tract in other diseases CE
+502,Urolithiasis,317507016.0,7093002.0,12699010.0,R080,R080.00,[D]Renal colic
+503,Urolithiasis,317508014.0,7093002.0,12699010.0,R0800,R080000,"[D]Renal colic, unspecified"
+504,Urolithiasis,317509018.0,17329003.0,478111016.0,R0801,R080100,[D]Ureteric colic
+505,Urolithiasis,317510011.0,7093002.0,12699010.0,R080z,R080z00,[D]Renal colic NOS
+506,Urticaria,272521000006113.0,164361006.0,255812012.0,2F8,2F8..00,O/E - weals present
+507,Urticaria,255812012.0,164361006.0,255812012.0,2F82,2F82.00,O/E - weals present
+508,Urticaria,255815014.0,164361006.0,255812012.0,2F8Z,2F8Z.00,O/E - weals NOS
+509,Urticaria,18017016.0,10347006.0,18017016.0,M12A2,M12A200,Solar urticaria
+510,Urticaria,81555016.0,126485001.0,81555016.0,M28,M28..00,Urticaria
+511,Urticaria,63796016.0,40178009.0,63796016.0,M280,M280.00,Allergic urticaria
+512,Urticaria,221431000000110.0,89322006.0,148117010.0,M280-1,M280.11,Drug-induced urticaria
+513,Urticaria,70518019.0,42265009.0,70518019.0,M281,M281.00,Idiopathic urticaria
+514,Urticaria,309192011.0,201261003.0,309192011.0,M282,M282.00,Urticaria due to cold and heat
+515,Urticaria,502810013.0,74774004.0,502810013.0,M2820,M282000,Cold urticaria
+516,Urticaria,103389013.0,62211002.0,103389013.0,M2821,M282100,Thermal urticaria
+517,Urticaria,819121000006110.0,62211002.0,103389013.0,M2821-1,M282111,Heat urticaria
+518,Urticaria,309193018.0,201261003.0,309192011.0,M282z,M282z00,Urticaria due to cold and heat NOS
+519,Urticaria,13601014.0,7632005.0,503254015.0,M283,M283.00,Dermographic urticaria
+520,Urticaria,13608015.0,402410006.0,1781553014.0,M283-1,M283.11,Factitial urticaria
+521,Urticaria,85377012.0,51247001.0,85377012.0,M284,M284.00,Vibratory urticaria
+522,Urticaria,121407011.0,73098005.0,121407011.0,M285,M285.00,Cholinergic urticaria
+523,Urticaria,32639018.0,402305008.0,1781466012.0,M286,M286.00,Contact urticaria
+524,Urticaria,13612014.0,402601007.0,1781718016.0,M287,M287.00,Physical urticaria
+525,Urticaria,399942012.0,126485001.0,81555016.0,M28y,M28y.00,Other specified urticaria
+526,Urticaria,106893016.0,126485001.0,81555016.0,M28y-1,M28y.11,Nettle rash
+527,Urticaria,309203019.0,201268009.0,309203019.0,M28y0,M28y000,Urticaria geographica
+528,Urticaria,309204013.0,201269001.0,309204013.0,M28y1,M28y100,Menstrual urticaria
+529,Urticaria,71051000006113.0,123584008.0,192073011.0,M28y2,M28y200,Urticaria perstans
+530,Urticaria,309206010.0,126485001.0,81555016.0,M28yz,M28yz00,Other specified urticaria NOS
+531,Urticaria,399943019.0,126485001.0,81555016.0,M28z,M28z.00,Urticaria NOS
+532,Urticaria,369546013.0,247472004.0,369546013.0,M28z-1,M28z.11,Hives
+533,Urticaria,309337013.0,462821000000106.0,938921000000110.0,Myu4,Myu4.00,[X]Urticaria and erythema
+534,Urticaria,309338015.0,126485001.0,81555016.0,Myu40,Myu4000,[X]Other urticaria
+535,Urticaria,130662013.0,78745000.0,130662013.0,PH321,PH32100,Urticaria pigmentosa
+536,Chronic Fatigue Syndrome,1.2717621000006114e+16,495791000000106.0,1093981000000119.0,^ESCT1271762,^ESCT1271762,[d]postviral (asthenic) syndrome
+537,Chronic Fatigue Syndrome,854791000006116.0,854791000006100.0,854791000006116.0,EGTONMY1,EGTONMY1,myalgic encephalomyelitis
+542,Chronic Fatigue Syndrome,677321000006115.0,78667006.0,130532011.0,E205,E205,Neurasthenia - nervous debility
+543,Chronic Fatigue Syndrome,399841000006110.0,78667006.0,130532011.0,Eu460,Eu460,[X]Neurasthenia
+544,Chronic Fatigue Syndrome,386731000006116.0,84229001.0,139690015.0,Eu460-1,Eu460-1,[X]Fatigue syndrome
+545,Chronic Fatigue Syndrome,684221000006112.0,52702003.0,496413011.0,F03y-2,F03y-2,Myalgic encephalomyelitis
+546,Chronic Fatigue Syndrome,87704019.0,52702003.0,87704019.0,F286,F286,Chronic fatigue syndrome
+547,Chronic Fatigue Syndrome,496414017.0,52702003.0,496414017.0,F286-1,F286-1,CFS - Chronic fatigue syndrome
+548,Chronic Fatigue Syndrome,496412018.0,51771007.0,86205014.0,F286-2,F286-2,Postviral fatigue syndrome
+549,Chronic Fatigue Syndrome,195091000006116.0,51771007.0,86205014.0,F286-3,F286-3,PVFS - Postviral fatigue syn
+550,Chronic Fatigue Syndrome,217451000006111.0,51771007.0,86205014.0,F286-4,F286-4,Post-viral fatigue syndrome
+551,Chronic Fatigue Syndrome,496413011.0,52702003.0,496413011.0,F286-5,F286-5,Myalgic encephalomyelitis
+552,Chronic Fatigue Syndrome,496410014.0,52702003.0,496410014.0,F286-6,F286-6,ME - Myalgic encephalomyelitis
+553,Chronic Fatigue Syndrome,742341000000111.0,377181000000104.0,742341000000111.0,F2860,F2860,Mild chronic fatigue syndrome
+554,Chronic Fatigue Syndrome,742321000000116.0,377171000000101.0,742321000000116.0,F2861,F2861,Moderate chronic fatigue syndrome
+555,Chronic Fatigue Syndrome,742301000000113.0,377161000000108.0,742301000000113.0,F2862,F2862,Severe chronic fatigue syndrome
+556,Chronic Fatigue Syndrome,709441000006113.0,203082005.0,311662010.0,N239,N239,Fibromyalgia
+557,Chronic Fatigue Syndrome,311689017.0,56557000.0,94059016.0,N2401,N2401,Fibrositis unspecified
+558,Chronic Fatigue Syndrome,311692018.0,203104007.0,311692018.0,N2405,N2405,Fibrositis of neck
+559,Chronic Fatigue Syndrome,311693011.0,203105008.0,311693011.0,N2406,N2406,Fibrositis arm
+560,Chronic Fatigue Syndrome,41386013.0,203082005.0,311662010.0,N248,N248,Fibromyalgia
+561,Chronic Fatigue Syndrome,317068017.0,51771007.0,86205014.0,R0074,R0074,[D]Postviral (asthenic) syndrome
+562,Chronic Fatigue Syndrome,301351000006117.0,51771007.0,86205014.0,R0074-1,R0074-1,[D]Post viral debility
+565,Coeliac disease,1747701000006119.0,1747701000006103.0,1747701000006119.0,EMISNQCO84,EMISNQCO84,coeliac disease monitoring
+566,Coeliac disease,1689381000000112.0,703970007.0,3011518017.0,6648,6648,Coeliac disease monitoring
+571,Coeliac disease,1772803017.0,396331005.0,1772803017.0,J690,J690,Coeliac disease
+572,Coeliac disease,411383013.0,275404008.0,411383013.0,J690-1,J690-1,Coeliac rickets
+573,Coeliac disease,221181000000119.0,45259000.0,75457010.0,J690-2,J690-2,Gee - Herter disease
+574,Coeliac disease,1785538011.0,396331005.0,1785538011.0,J690-3,J690-3,Gluten enteropathy
+575,Coeliac disease,131661000006114.0,396331005.0,1772803017.0,J690-4,J690-4,Sprue - nontropical
+576,Coeliac disease,125791000006113.0,66187002.0,500339013.0,J690-5,J690-5,Steatorrhea - idiopathic
+578,Coeliac disease,303687018.0,197479008.0,303687018.0,J6901,J6901,Acquired coeliac disease
+579,Coeliac disease,303690012.0,396331005.0,1772803017.0,J690z,J690z,Coeliac disease NOS
+581,Obstructive and reflux uropathy,1.2489211000006116e+16,736640009.0,830021000006113.0,^ESCT1248921,^ESCT1248921,hydronephrosis with renal and ureteral calculous obstruction
+582,Obstructive and reflux uropathy,71850014.0,43064006.0,71850014.0,K11,K11,Hydronephrosis
+583,Obstructive and reflux uropathy,118091018.0,71110009.0,118091018.0,K110,K110,Hydrocalycosis
+584,Obstructive and reflux uropathy,66749015.0,40068008.0,66749015.0,K111,K111,Hydroureteronephrosis
+585,Obstructive and reflux uropathy,304094012.0,736640009.0,3520573015.0,K112,K112,Hydronephrosis with renal and ureteral calculous obstruction
+586,Obstructive and reflux uropathy,454285016.0,310670008.0,454285016.0,K113,K113,Hydronephrosis with ureteropelvic junction obstruction
+587,Obstructive and reflux uropathy,454284017.0,310670008.0,454284017.0,K113-1,K113-1,Hydronephrosis with pelviureteric junction obstruction
+588,Obstructive and reflux uropathy,830031000006111.0,43064006.0,71850014.0,K11X,K11X,Hydronephrosis with ureteral stricture NEC
+589,Obstructive and reflux uropathy,304097017.0,43064006.0,71850014.0,K11z,K11z,Hydronephrosis NOS
+590,Obstructive and reflux uropathy,42488011.0,25341005.0,42488011.0,K133,K133,Stricture of ureter
+591,Obstructive and reflux uropathy,304129012.0,197805009.0,304129012.0,K1330,K1330,Postoperative ureteric constriction
+592,Obstructive and reflux uropathy,60725010.0,36388008.0,60725010.0,K1331,K1331,Stricture of pelviureteric junction
+593,Obstructive and reflux uropathy,304131015.0,25341005.0,42488011.0,K133z,K133z,Stricture of ureter NOS
+594,Obstructive and reflux uropathy,304132010.0,20018005.0,33693011.0,K134,K134,Other ureteric obstruction
+595,Obstructive and reflux uropathy,81833016.0,197808006.0,304135012.0,K1340,K1340,Idiopathic retroperitoneal fibrosis
+596,Obstructive and reflux uropathy,304136013.0,20018005.0,33693011.0,K134z,K134z,Occlusion of ureter NOS
+597,Obstructive and reflux uropathy,512205011.0,69758005.0,115874017.0,K135,K135,Hydroureter
+598,Obstructive and reflux uropathy,304138014.0,197811007.0,304138014.0,K137,K137,Vesicoureteric reflux
+599,Obstructive and reflux uropathy,304140016.0,197811007.0,304140016.0,K137-1,K137-1,Ureteric reflux
+600,Obstructive and reflux uropathy,396728011.0,7163005.0,12812019.0,K196,K196,Urinary obstruction unspecified
+601,Obstructive and reflux uropathy,267921000006110.0,7163005.0,12812019.0,K196-1,K196-1,"Obstructive uropathy, unspecified"
+602,Obstructive and reflux uropathy,305173019.0,43064006.0,71850014.0,Kyu11,Kyu11,[X]Other and unspecified hydronephrosis
+603,Obstructive and reflux uropathy,305174013.0,7163005.0,12812019.0,Kyu12,Kyu12,[X]Other obstructive and reflux uropathy
+604,Obstructive and reflux uropathy,305175014.0,7163005.0,12812019.0,Kyu13,Kyu13,"[X]Obstructive and reflux uropathy, unspecified"
+605,Obstructive and reflux uropathy,305189016.0,43064006.0,71850014.0,Kyu1F,Kyu1F,[X]Hydronephrosis with ureteral stricture NEC
+606,Personality disorders,230091000006118.0,33449004.0,55821010.0,E21,E21,Personality disorders
+607,Personality disorders,675911000006115.0,33449004.0,55821010.0,E21-1,E21-1,Neurotic personality disorder
+608,Personality disorders,23211011.0,13601005.0,23211011.0,E210,E210,Paranoid personality disorder
+609,Personality disorders,88108012.0,52954000.0,88108012.0,E212,E212,Schizoid personality disorder
+610,Personality disorders,295049014.0,52954000.0,88108012.0,E2120,E2120,Unspecified schizoid personality disorder
+611,Personality disorders,746351000006118.0,268633003.0,401784013.0,E2121,E2121,Introverted personality
+612,Personality disorders,155281000006119.0,31027006.0,51933014.0,E2122,E2122,Schizotypal personality
+613,Personality disorders,295052018.0,52954000.0,88108012.0,E212z,E212z,Schizoid personality disorder NOS
+614,Personality disorders,347011014.0,231527003.0,347011014.0,E213,E213,Explosive personality disorder
+615,Personality disorders,474121000006111.0,286798002.0,426255014.0,E213-1,E213-1,Aggressive personality
+616,Personality disorders,195991000006117.0,231527003.0,347011014.0,E213-2,E213-2,Quarrelsome personality
+617,Personality disorders,577931000006110.0,473456000.0,2957161013.0,E214,E214,Compulsive personality disorders
+618,Personality disorders,481471000006112.0,1376001.0,475486014.0,E214-1,E214-1,Anancastic personality
+619,Personality disorders,481481000006110.0,1376001.0,475488010.0,E2140,E2140,Anankastic personality
+620,Personality disorders,475487017.0,1376001.0,475487017.0,E2141,E2141,Obsessional personality
+621,Personality disorders,295063015.0,473456000.0,2957161013.0,E214z,E214z,Compulsive personality disorder NOS
+622,Personality disorders,824751000006111.0,55341008.0,92006017.0,E215,E215,Histrionic personality disorders
+623,Personality disorders,787571000006113.0,55341008.0,497204019.0,E215-1,E215-1,Hysterical personality disorders
+624,Personality disorders,295064014.0,55341008.0,92006017.0,E2150,E2150,Unspecified histrionic personality disorder
+625,Personality disorders,640481000006113.0,191765005.0,295065010.0,E2152,E2152,Emotionally unstable personality
+627,Personality disorders,295067019.0,55341008.0,92006017.0,E215z,E215z,Histrionic personality disorder NOS
+628,Personality disorders,782871000006113.0,84466009.0,140060016.0,E216,E216,Inadequate personality disorder
+629,Personality disorders,496091000006112.0,84466009.0,140060016.0,E216-1,E216-1,Asthenic personality
+630,Personality disorders,223661000000115.0,84466009.0,140060016.0,E216-2,E216-2,Dependent personality
+631,Personality disorders,735811000006119.0,191765005.0,295065010.0,E216-3,E216-3,Labile personality
+632,Personality disorders,487991000006113.0,26665006.0,44645013.0,E217,E217,Antisocial or sociopathic personality disorder
+633,Personality disorders,480071000006112.0,26665006.0,483298014.0,E217-1,E217-1,Amoral personality
+634,Personality disorders,295077017.0,33449004.0,55821010.0,E21y,E21y,Other personality disorders
+635,Personality disorders,133885012.0,80711002.0,133885012.0,E21y0,E21y0,Narcissistic personality disorder
+636,Personality disorders,62962010.0,37746008.0,62962010.0,E21y1,E21y1,Avoidant personality disorder
+637,Personality disorders,33677019.0,20010003.0,33677019.0,E21y2,E21y2,Borderline personality disorder
+638,Personality disorders,1230168015.0,44966003.0,1230168015.0,E21y3,E21y3,Passive-aggressive personality disorder
+639,Personality disorders,295079019.0,191772006.0,295079019.0,E21y4,E21y4,Eccentric personality disorder
+640,Personality disorders,295080016.0,191773001.0,295080016.0,E21y5,E21y5,Immature personality disorder
+641,Personality disorders,295081017.0,191774007.0,295081017.0,E21y6,E21y6,Masochistic personality disorder
+642,Personality disorders,401785014.0,268634009.0,401785014.0,E21y7,E21y7,Psychoneurotic personality disorder
+643,Personality disorders,675901000006118.0,33449004.0,55821010.0,E21y7-1,E21y7-1,Neurotic personality
+644,Personality disorders,401786010.0,33449004.0,55821010.0,E21yz,E21yz,Other personality disorder NOS
+645,Personality disorders,453182018.0,309711009.0,453182018.0,E21yz-1,E21yz-1,Manipulative personality
+646,Personality disorders,401787018.0,33449004.0,55821010.0,E21z,E21z,Personality disorder NOS
+647,Personality disorders,199821000006114.0,26665006.0,483297016.0,E21z-1,E21z-1,Psychopathic personality
+648,Personality disorders,295568017.0,192097003.0,295568017.0,E2C35,E2C35,Isolated explosive disorder
+649,Personality disorders,296460017.0,33449004.0,55821010.0,Eu60,Eu60,[X]Specific personality disorders
+650,Personality disorders,418201000006111.0,13601005.0,23211011.0,Eu600,Eu600,[X]Paranoid personality disorder
+651,Personality disorders,424331000006112.0,13601005.0,23211011.0,Eu600-3,Eu600-3,[X]Querulant personality disorder
+652,Personality disorders,425911000006118.0,13601005.0,23211011.0,Eu600-4,Eu600-4,[X]Sensitive paranoid personality disorder
+653,Personality disorders,425591000006118.0,52954000.0,88108012.0,Eu601,Eu601,[X]Schizoid personality disorder
+654,Personality disorders,378071000006112.0,26665006.0,483298014.0,Eu602,Eu602,[X]Dissocial personality disorder
+655,Personality disorders,363081000006112.0,26665006.0,483298014.0,Eu602-1,Eu602-1,[X]Amoral personality disorder
+656,Personality disorders,363561000006112.0,26665006.0,44645013.0,Eu602-2,Eu602-2,[X]Antisocial personality disorder
+657,Personality disorders,363921000006112.0,26665006.0,483298014.0,Eu602-3,Eu602-3,[X]Asocial personality disorder
+658,Personality disorders,424211000006110.0,26665006.0,483297016.0,Eu602-4,Eu602-4,[X]Psychopathic personality disorder
+659,Personality disorders,427091000006119.0,26665006.0,483299018.0,Eu602-5,Eu602-5,[X]Sociopathic personality disorder
+660,Personality disorders,379701000006110.0,191765005.0,295065010.0,Eu603,Eu603,[X]Emotionally unstable personality disorder
+661,Personality disorders,362851000006118.0,191765005.0,295065010.0,Eu603-1,Eu603-1,[X]Aggressive personality disorder
+662,Personality disorders,367941000006111.0,20010003.0,33677019.0,Eu603-2,Eu603-2,[X]Borderline personality disorder
+663,Personality disorders,380611000006117.0,191765005.0,295065010.0,Eu603-3,Eu603-3,[X]Explosive personality disorder
+664,Personality disorders,388871000006111.0,55341008.0,92006017.0,Eu604,Eu604,[X]Histrionic personality disorder
+665,Personality disorders,389441000006113.0,55341008.0,497204019.0,Eu604-1,Eu604-1,[X]Hysterical personality disorder
+667,Personality disorders,363221000006116.0,1376001.0,475488010.0,Eu605,Eu605,[X]Anankastic personality disorder
+668,Personality disorders,371341000006110.0,1376001.0,475488010.0,Eu605-1,Eu605-1,[X]Compulsive personality disorder
+669,Personality disorders,400311000006117.0,473457009.0,2957127011.0,Eu605-2,Eu605-2,[X]Obsessional personality disorder
+670,Personality disorders,400351000006116.0,1376001.0,475488010.0,Eu605-3,Eu605-3,[X]Obsessive-compulsive personality disorder
+671,Personality disorders,363691000006117.0,231528008.0,347013012.0,Eu606,Eu606,[X]Anxious [avoidant] personality disorder
+672,Personality disorders,376671000006117.0,84466009.0,140060016.0,Eu607,Eu607,[X]Dependent personality disorder
+673,Personality disorders,366421000006114.0,84466009.0,140060016.0,Eu607-1,Eu607-1,[X]Asthenic personality disorder
+674,Personality disorders,389581000006115.0,84466009.0,140060016.0,Eu607-2,Eu607-2,[X]Inadequate personality disorder
+675,Personality disorders,418531000006117.0,84466009.0,140060016.0,Eu607-3,Eu607-3,[X]Passive personality disorder
+676,Personality disorders,425841000006112.0,84466009.0,140060016.0,Eu607-4,Eu607-4,[X]Self defeating personality disorder
+677,Personality disorders,2160091013.0,404684003.0,2156578010.0,Eu608,Eu608,[X]Addictive personality
+678,Personality disorders,401898014.0,33449004.0,55821010.0,Eu60y,Eu60y,[X]Other specific personality disorders
+679,Personality disorders,379511000006118.0,33449004.0,55821010.0,Eu60y-1,Eu60y-1,[X]Eccentric personality disorder
+680,Personality disorders,388391000006117.0,33449004.0,55821010.0,Eu60y-2,Eu60y-2,[X]Haltlose type personality disorder
+681,Personality disorders,389491000006116.0,33449004.0,55821010.0,Eu60y-3,Eu60y-3,[X]Immature personality disorder
+682,Personality disorders,399451000006114.0,80711002.0,133885012.0,Eu60y-4,Eu60y-4,[X]Narcissistic personality disorder
+683,Personality disorders,424201000006112.0,268634009.0,401785014.0,Eu60y-6,Eu60y-6,[X]Psychoneurotic personality disorder
+684,Personality disorders,296488011.0,33449004.0,55821010.0,Eu60z,Eu60z,"[X]Personality disorder, unspecified"
+685,Personality disorders,1222259010.0,33449004.0,55821010.0,Eu60z-1,Eu60z-1,[X]Character neurosis NOS
+686,Personality disorders,418571000006119.0,33449004.0,55821010.0,Eu60z-2,Eu60z-2,[X]Pathological personality NOS
+687,Personality disorders,296489015.0,33449004.0,55821010.0,Eu61,Eu61,[X]Mixed and other personality disorders
+688,Trigeminal neuralgia,211241000006115.0,17974002.0,30355011.0,A5312,A5312,Postherpetic trigeminal neuralgia
+689,Trigeminal neuralgia,30355011.0,17974002.0,30355011.0,F300,F300,Post-herpetic trigeminal neuralgia
+690,Trigeminal neuralgia,297427010.0,31681005.0,52933011.0,F301,F301,Other specified trigeminal neuralgia
+691,Trigeminal neuralgia,52935016.0,31681005.0,52935016.0,F3010,F3010,Tic douloureux
+692,Trigeminal neuralgia,297428017.0,31681005.0,52933011.0,F301z,F301z,Trigeminal neuralgia NOS
+693,Vitiligo,145353016.0,87666009.0,145353016.0,F4E53-1,F4E53-1,Vitiligo of eyelid
+694,Vitiligo,94346015.0,56727007.0,94346015.0,M2951,M2951,Vitiligo
+695,Spondylolisthesis,527151000006116.0,265717009.0,394583018.0,7J341-2,7J341-2,Buck fusion of lumbar spine for spondylolisthesis
+696,Spondylolisthesis,394592015.0,265726007.0,394592015.0,7J485,7J485,Spondylolisthesis operation
+697,Spondylolisthesis,802211000006119.0,265726007.0,394592015.0,7J485-1,7J485-1,Gill excision of spondylolisthesis
+698,Spondylolisthesis,276668012.0,178805003.0,276668012.0,7J48K,7J48K,Reduction of spondylolisthesis and fusion
+699,Spondylolisthesis,276669016.0,178806002.0,276669016.0,7J48L,7J48L,Fusion spondylolisthesis in situ
+700,Spondylolisthesis,312465016.0,203681002.0,312465016.0,N384,N384,Acquired spondylolisthesis
+701,Spondylolisthesis,312466015.0,203682009.0,312466015.0,N3840,N3840,Dysplastic spondylolisthesis
+702,Spondylolisthesis,312467012.0,203683004.0,312467012.0,N3841,N3841,Isthmic spondylolisthesis
+703,Spondylolisthesis,7967011.0,4046000.0,7967011.0,N3842,N3842,Degenerative spondylolisthesis
+704,Spondylolisthesis,312469010.0,203685006.0,312469010.0,N3843,N3843,Pedicular spondylolisthesis
+705,Spondylolisthesis,461579014.0,44494000.0,74198015.0,Zw046,Zw046,[Q] Spondylolisthesis grade 1
+706,Spondylolisthesis,461580012.0,62620001.0,104078019.0,Zw047,Zw047,[Q] Spondylolisthesis grade 2
+707,Spondylolisthesis,461581011.0,13131000.0,22470010.0,Zw048,Zw048,[Q] Spondylolisthesis grade 3
+708,Spondylolisthesis,461582016.0,3472009.0,6855017.0,Zw049,Zw049,[Q] Spondylolisthesis grade 4
+709,Alopecia areata,113328010.0,68225006.0,113328010.0,M2401,M2401,Alopecia areata
+710,Alopecia areata,44741000006112.0,5860009.0,10759012.0,M2401-1,M2401-1,Ophiasis
+711,Alopecia areata,33266015.0,19754005.0,33266015.0,M240B,M240B,Alopecia totalis
+712,Alopecia areata,142888018.0,86166000.0,142888018.0,M240K,M240K,Alopecia universalis
+713,Alopecia areata,10759012.0,5860009.0,10759012.0,M240U,M240U,Ophiasis
+714,Alopecia areata,309354017.0,68225006.0,113328010.0,Myu62,Myu62,[X]Other alopecia areata
+716,Aplastic anaemias,448863016.0,306058006.0,448863016.0,D20,D20,Aplastic anaemia
+717,Aplastic anaemias,590121000006115.0,28975000.0,484030019.0,D200,D200,Constitutional aplastic anaemia
+718,Aplastic anaemias,514811000006112.0,5315003.0,496572011.0,D200-3,D200-3,Blackfan - Diamond syndrome
+723,Aplastic anaemias,1216339013.0,30575002.0,1216339013.0,D2001-1,D2001-1,Fanconi's hypoplastic anaemia
+725,Aplastic anaemias,411515013.0,275523003.0,411515013.0,D2002-1,D2002-1,Pancytopenia-dysmelia
+726,Aplastic anaemias,399219010.0,267525005.0,399219010.0,D2003,D2003,Constitutional red cell aplasia and hypoplasia
+727,Aplastic anaemias,514821000006116.0,5315003.0,496572011.0,D2003-1,D2003-1,Blackfan - Diamond syndrome
+729,Aplastic anaemias,351130010.0,234373004.0,351130010.0,D2003-3,D2003-3,Constitutional red cell hypoplasia
+731,Aplastic anaemias,294178016.0,88854002.0,3664231018.0,D2004,D2004,Erythrogenesis imperfecta
+732,Aplastic anaemias,294179012.0,267525005.0,399219010.0,D200y,D200y,Other specified constitutional aplastic anaemia
+733,Aplastic anaemias,497451015.0,55907008.0,497451015.0,D201,D201,Acquired aplastic anaemia
+734,Aplastic anaemias,351070017.0,234343008.0,351070017.0,D201-1,D201-1,Normocytic anaemia due to aplasia
+735,Aplastic anaemias,294190019.0,191244003.0,294190019.0,D2010,D2010,Aplastic anaemia due to chronic disease
+736,Aplastic anaemias,399223019.0,267527002.0,399223019.0,D2011,D2011,Aplastic anaemia due to drugs
+737,Aplastic anaemias,787861000006116.0,267527002.0,399223019.0,D2011-1,D2011-1,Hypoplastic anaemia due to drug or chemical substance
+738,Aplastic anaemias,294198014.0,191246001.0,294198014.0,D2012,D2012,Aplastic anaemia due to infection
+739,Aplastic anaemias,787871000006111.0,191246001.0,294198014.0,D2012-1,D2012-1,Hypoplastic anaemia due to infection
+740,Aplastic anaemias,294201016.0,191247005.0,294201016.0,D2013-1,D2013-1,Radiation aplastic anaemia
+741,Aplastic anaemias,294203018.0,191248000.0,294203018.0,D2014,D2014,Aplastic anaemia due to toxic cause
+742,Aplastic anaemias,787891000006112.0,191248000.0,294203018.0,D2014-2,D2014-2,Hypoplastic anaemia due to toxic cause
+743,Aplastic anaemias,2478769014.0,5876000.0,2478769014.0,D2015,D2015,Pancytopenia - acquired
+744,Aplastic anaemias,399224013.0,127034005.0,322010.0,D2016,D2016,Pancytopenia NOS
+746,Aplastic anaemias,351123016.0,234367000.0,351123016.0,D2016-2,D2016-2,Pancytopenia with pancreatitis
+747,Aplastic anaemias,294211011.0,191251007.0,294211011.0,D2017,D2017,Transient hypoplastic anaemia
+748,Aplastic anaemias,424321000006114.0,50715003.0,84523015.0,D2018,D2018,[X]Pure red cell aplasia
+749,Aplastic anaemias,399225014.0,55907008.0,497451015.0,D201z,D201z,Acquired aplastic anaemia NOS
+750,Aplastic anaemias,495763010.0,50715003.0,495763010.0,D201z-2,D201z-2,Red cell hypoplasia
+751,Aplastic anaemias,152091000006116.0,50715003.0,84523015.0,D201z-3,D201z-3,Secondary red cell hypoplasia NEC
+752,Aplastic anaemias,351126012.0,50715003.0,84523015.0,D201z-4,D201z-4,Secondary red cell aplasia NEC
+753,Aplastic anaemias,149842011.0,90414007.0,149842011.0,D202,D202,Chronic acquired pure red cell aplasia
+754,Aplastic anaemias,294222010.0,191255003.0,294222010.0,D203,D203,Transient acquired pure red cell aplasia
+755,Aplastic anaemias,351132019.0,234375006.0,351132019.0,D2030,D2030,Transient erythroblastopenia of childhood
+756,Aplastic anaemias,294223017.0,191256002.0,294223017.0,D204,D204,Idiopathic aplastic anaemia
+757,Aplastic anaemias,454501000006110.0,234370001.0,351127015.0,D20X,D20X,"Acquired pure red cell aplasia, unspecified"
+758,Aplastic anaemias,294227016.0,306058006.0,448863016.0,D20z,D20z,Aplastic anaemia NOS
+759,Barrett's oesophagus,444916014.0,302914006.0,444916014.0,J1016-1,J1016-1,Barrett's oesophagus
+760,Barrett's oesophagus,302387019.0,196609006.0,302387019.0,J1025,J1025,Barrett's ulcer of oesophagus
+761,Barrett's oesophagus,1743031000006119.0,302914006.0,444916014.0,J10y6,J10y6,Barrett's oesophagus
+762,Autonomic Neuropathy,1773241000006118.0,1773241000006102.0,1773241000006118.0,EMISNQAU90,EMISNQAU90,autonomic dysreflexia
+763,Autonomic Neuropathy,3512092015.0,734947007.0,3512092015.0,^ESCT1164904,^ESCT1164904,complex regional pain syndrome type i
+764,Autonomic Neuropathy,2702531000006114.0,12731000.0,21857010.0,^ESCTHO270253,^ESCTHO270253,horner's syndrome
+765,Autonomic Neuropathy,1.1903461000006116e+16,15743005.0,119301000006112.0,^ESCT1190346,^ESCT1190346,sudek's atrophy
+766,Autonomic Neuropathy,255372014.0,164018003.0,255372014.0,2BE3,2BE3,O/E - Horner's syndrome
+767,Autonomic Neuropathy,500291000006112.0,15241006.0,477252016.0,F17,F17,Autonomic nervous system disorders
+768,Autonomic Neuropathy,143436010.0,86489003.0,143436010.0,F170,F170,Idiopathic peripheral autonomic neuropathy
+769,Autonomic Neuropathy,86133015.0,51723007.0,86133015.0,F1700,F1700,Carotid sinus syndrome
+770,Autonomic Neuropathy,297161015.0,192915005.0,297161015.0,F1701,F1701,Cervical sympathetic paralysis
+771,Autonomic Neuropathy,297162010.0,86489003.0,143436010.0,F170z,F170z,Idiopathic peripheral autonomic neuropathy NOS
+772,Autonomic Neuropathy,297163017.0,128123007.0,194717012.0,F171,F171,Peripheral autonomic neuropathy disease EC
+773,Autonomic Neuropathy,297164011.0,192918007.0,297164011.0,F1710,F1710,Autonomic neuropathy due to amyloid
+775,Autonomic Neuropathy,297165012.0,11060002.0,19167016.0,F171z,F171z,Peripheral autonomic neuropathy due to disease NOS
+776,Autonomic Neuropathy,358981000006112.0,271730003.0,406625018.0,F172,F172,[X] Horners syndrome
+777,Autonomic Neuropathy,4637014.0,712537009.0,3082984014.0,F173,F173,Shoulder-hand syndrome
+778,Autonomic Neuropathy,208437018.0,129618003.0,208437018.0,F175,F175,Autonomic dysreflexia
+779,Autonomic Neuropathy,399402010.0,15241006.0,25864017.0,F17z,F17z,Autonomic nervous system disorder NOS
+780,Autonomic Neuropathy,21857010.0,271730003.0,406625018.0,F17z-1,F17z-1,Horner's syndrome
+781,Autonomic Neuropathy,506064012.0,84438001.0,506064012.0,F17z-2,F17z-2,Autonomic failure
+782,Autonomic Neuropathy,2477180015.0,408751001.0,2477180015.0,F347,F347,Complex regional pain syndrome type II
+783,Autonomic Neuropathy,206425010.0,128200000.0,206425010.0,F369,F369,Complex regional pain syndrome
+784,Autonomic Neuropathy,366601000006119.0,15241006.0,25864017.0,FyuAC,FyuAC,[X]Autonomic neuropathy/endocrine+metabolic diseases CE
+785,Autonomic Neuropathy,409661000006115.0,15241006.0,25864017.0,FyuAD,FyuAD,[X]Other disordrs/autonomic nervous system/other diseases CE
+789,Autonomic Neuropathy,2475469012.0,15743005.0,26677017.0,N3371,N3371,Sudek's atrophy
+795,Autonomic Neuropathy,495737017.0,128200000.0,206425010.0,N33C,N33C,Complex regional pain syndrome type I
+797,Autonomic Neuropathy,163861000006115.0,29159009.0,48793017.0,P2x5,P2x5,Riley - Day syndrome
+798,Folate deficiency anaemia,506650011.0,85649008.0,881951000006119.0,D012-99,D012-99,Folate deficiency anaemia
+799,Folate deficiency anaemia,3892461000006113.0,85649008.0,506651010.0,^ESCTFO389246,^ESCTFO389246,folic acid deficiency anaemia
+800,Folate deficiency anaemia,293006011.0,190633005.0,293006011.0,C2620,C2620,Folic acid deficiency
+801,Folate deficiency anaemia,763221000006115.0,85649008.0,506649011.0,D012,D012,Folate-deficiency anaemia
+802,Folate deficiency anaemia,506651010.0,85649008.0,506649011.0,D012-1,D012-1,Folic acid deficiency anaemia
+803,Folate deficiency anaemia,763231000006117.0,267518003.0,399202013.0,D0121,D0121,Folate-deficiency anaemia due to dietary causes
+804,Folate deficiency anaemia,804971000006111.0,15332004.0,26006014.0,D0121-1,D0121-1,Goat's milk anaemia
+805,Folate deficiency anaemia,763271000006119.0,191148006.0,293935017.0,D0122,D0122,"Folate-deficiency anaemia, drug induced"
+806,Folate deficiency anaemia,763251000006112.0,191149003.0,293938015.0,D0123,D0123,Folate-deficiency anaemia due to malabsorption
+807,Folate deficiency anaemia,763241000006110.0,191150003.0,293939011.0,D0124,D0124,Folate-deficiency anaemia due to liver disorders
+808,Folate deficiency anaemia,763261000006114.0,85649008.0,506650011.0,D012z,D012z,Folate-deficiency anaemia NOS
+809,Folate deficiency anaemia,293948018.0,191154007.0,293948018.0,D0130,D0130,Combined B12 and folate deficiency anaemia
+810,Folate deficiency anaemia,294572011.0,85649008.0,506650011.0,Dyu03,Dyu03,[X]Other folate deficiency anaemias
+811,Glomerulonephritis,1.1904541000006116e+16,281860005.0,189231000006110.0,^ESCT1190454,^ESCT1190454,"recurrent and persistent haematuria, dense deposit disease"
+812,Glomerulonephritis,354514013.0,236504007.0,354514013.0,D3101,D3101,Henoch-Schonlein nephritis
+813,Glomerulonephritis,354518011.0,236506009.0,354518011.0,G7521-1,G7521-1,Antiglomerular basement membrane disease
+814,Glomerulonephritis,2214081000000112.0,236506009.0,2214081000000112.0,G7521-2,G7521-2,Anti GBM disease - Antiglomerular basement membrane disease
+816,Glomerulonephritis,354351015.0,61503006.0,102173012.0,K00-2,K00-2,Bright's disease
+818,Glomerulonephritis,354363013.0,236398000.0,354363013.0,K0001,K0001,Crescentic glomerulonephritis
+819,Glomerulonephritis,354364019.0,236398000.0,354364019.0,K0001-1,K0001-1,CGN - Crescentic glomerulonephritis
+825,Glomerulonephritis,86957016.0,52254009.0,86957016.0,K01,K01,Nephrotic syndrome
+826,Glomerulonephritis,303825013.0,197589005.0,303825013.0,K010,K010,Nephrotic syndrome with proliferative glomerulonephritis
+827,Glomerulonephritis,303826014.0,197590001.0,303826014.0,K011,K011,Nephrotic syndrome with membranous glomerulonephritis
+828,Glomerulonephritis,677621000006112.0,197591002.0,303827017.0,K012,K012,Nephrotic syndrome+membranoproliferative glomerulonephritis
+829,Glomerulonephritis,396706011.0,266549004.0,396706011.0,K013,K013,Nephrotic syndrome with minimal change glomerulonephritis
+830,Glomerulonephritis,74720014.0,44785005.0,74720014.0,K013-1,K013-1,Lipoid nephrosis
+831,Glomerulonephritis,127091000006118.0,236380004.0,354331019.0,K013-2,K013-2,Steroid sensitive nephrotic syndrome
+832,Glomerulonephritis,303832016.0,197593004.0,303832016.0,K014,K014,"Nephrotic syndrome, minor glomerular abnormality"
+833,Glomerulonephritis,303833014.0,197594005.0,303833014.0,K015,K015,"Nephrotic syndrome, focal and segmental glomerular lesions"
+834,Glomerulonephritis,303834015.0,197595006.0,303834015.0,K016,K016,"Nephrotic syndrome, diffuse membranous glomerulonephritis"
+835,Glomerulonephritis,677461000006115.0,197596007.0,303835019.0,K017,K017,Nephrotic syn difus mesangial prolifertiv glomerulonephritis
+836,Glomerulonephritis,677481000006113.0,197597003.0,303836018.0,K018,K018,"Nephrotic syn,difus endocapilary proliftv glomerulonephritis"
+837,Glomerulonephritis,677471000006110.0,197598008.0,303837010.0,K019,K019,"Nephrotic syn,diffuse mesangiocapillary glomerulonephritis"
+838,Glomerulonephritis,303838017.0,197599000.0,303838017.0,K01A,K01A,"Nephrotic syndrome, dense deposit disease"
+839,Glomerulonephritis,303839013.0,197600002.0,303839013.0,K01B,K01B,"Nephrotic syndrome, diffuse crescentic glomerulonephritis"
+840,Glomerulonephritis,303844018.0,197603000.0,303844018.0,K01x,K01x,Nephrotic syndrome in diseases EC
+841,Glomerulonephritis,303845017.0,197604006.0,303845017.0,K01x0,K01x0,Nephrotic syndrome in amyloidosis
+842,Glomerulonephritis,303848015.0,197606008.0,303848015.0,K01x2,K01x2,Nephrotic syndrome in malaria
+843,Glomerulonephritis,303849011.0,197607004.0,303849011.0,K01x3,K01x3,Nephrotic syndrome in polyarteritis nodosa
+846,Glomerulonephritis,303854019.0,52254009.0,86957016.0,K01y,K01y,Nephrotic syndrome with other pathological kidney lesions
+847,Glomerulonephritis,303855018.0,52254009.0,86957016.0,K01z,K01z,Nephrotic syndrome NOS
+848,Glomerulonephritis,35171019.0,20917003.0,35171019.0,K02,K02,Chronic glomerulonephritis
+849,Glomerulonephritis,556211000006112.0,197613008.0,303862010.0,K020,K020,Chronic proliferative glomerulonephritis
+850,Glomerulonephritis,555201000006116.0,77182004.0,128137019.0,K021,K021,Chronic membranous glomerulonephritis
+851,Glomerulonephritis,555191000006119.0,80321008.0,133282018.0,K022,K022,Chronic membranoproliferative glomerulonephritis
+853,Glomerulonephritis,303864011.0,20917003.0,35171019.0,K02y,K02y,Other chronic glomerulonephritis
+854,Glomerulonephritis,554481000006111.0,197616000.0,303865012.0,K02y0,K02y0,Chronic glomerulonephritis + diseases EC
+855,Glomerulonephritis,303867016.0,197618004.0,303867016.0,K02y2,K02y2,Chronic focal glomerulonephritis
+856,Glomerulonephritis,303868014.0,197619007.0,303868014.0,K02y3,K02y3,Chronic diffuse glomerulonephritis
+857,Glomerulonephritis,303869018.0,20917003.0,35171019.0,K02yz,K02yz,Other chronic glomerulonephritis NOS
+858,Glomerulonephritis,303870017.0,20917003.0,35171019.0,K02z,K02z,Chronic glomerulonephritis NOS
+859,Glomerulonephritis,303874014.0,52845002.0,87940013.0,K030,K030,Proliferative nephritis unspecified
+860,Glomerulonephritis,303875010.0,77182004.0,128137019.0,K031,K031,Membranous nephritis unspecified
+861,Glomerulonephritis,303876011.0,52845002.0,87940013.0,K032,K032,Membranoproliferative nephritis unspecified
+862,Glomerulonephritis,303877019.0,197626007.0,303877019.0,K0320,K0320,Focal membranoproliferative glomerulonephritis
+863,Glomerulonephritis,303878012.0,197627003.0,303878012.0,K0321,K0321,Recurrent benign haematuria syndrome
+864,Glomerulonephritis,763111000006117.0,36171008.0,60355017.0,K0322,K0322,Focal glomerulon + focal recurr macroscop glomerulonephritis
+865,Glomerulonephritis,303881019.0,197629000.0,303881019.0,K0323,K0323,Anaphylactoid glomerulonephritis
+866,Glomerulonephritis,303884010.0,197632002.0,303884010.0,K0326,K0326,Berger's IgA or IgG nephropathy
+867,Glomerulonephritis,677981000006115.0,52845002.0,87940013.0,K032y,K032y,Nephritis unsp+OS membranoprolif glomerulonephritis lesion
+868,Glomerulonephritis,354349019.0,197613008.0,303860019.0,K032y-1,K032y-1,Hypocomplementaemic persistent glomerulonephritis NEC
+869,Glomerulonephritis,354347017.0,197613008.0,303860019.0,K032y-3,K032y-3,Mesangioproliferative glomerulonephritis NEC
+870,Glomerulonephritis,354380012.0,80321008.0,133280014.0,K032y-4,K032y-4,Mesangiocapillary glomerulonephritis NEC
+871,Glomerulonephritis,354346014.0,52845002.0,87940013.0,K032y-5,K032y-5,Mixed membranous and proliferative glomerulonephritis NEC
+872,Glomerulonephritis,677971000006118.0,52845002.0,87940013.0,K032z,K032z,Nephritis unsp+membranoprolif glomerulonephritis lesion NOS
+874,Glomerulonephritis,81581000006119.0,64212008.0,106739010.0,K03U,K03U,"Unspecif nephr synd, diff concentric glomerulonephritis"
+875,Glomerulonephritis,77541000006113.0,462181000000102.0,891521000000111.0,K03V,K03V,"Unspecified nephritic syndrome, dense deposit disease"
+876,Glomerulonephritis,81251000006113.0,3704008.0,7243014.0,K03W,K03W,"Unsp nephrit synd, diff endocap prolif glomerulonephritis"
+877,Glomerulonephritis,81261000006110.0,197679002.0,303967017.0,K03X,K03X,"Unsp nephrit synd, diff mesang prolif glomerulonephritis"
+878,Glomerulonephritis,303907019.0,36171008.0,60355017.0,K03z,K03z,Unspecified glomerulonephritis NOS
+879,Glomerulonephritis,303938018.0,197661001.0,303938018.0,K072,K072,Glomerulosclerosis
+880,Glomerulonephritis,303967017.0,197679002.0,303967017.0,K0A,K0A,Glomerular disease
+885,Glomerulonephritis,455321000006114.0,197684008.0,303972014.0,K0A03,K0A03,"Acut neph syn, diffuse mesangial prolifrative glomnephritis"
+886,Glomerulonephritis,440031000006117.0,197685009.0,303973016.0,K0A04,K0A04,Ac neph syn difus endocaplry prolifrative glomerulonephritis
+893,Glomerulonephritis,165061000006114.0,197693009.0,303981015.0,K0A13,K0A13,Rpd prog neph syn df mesangial prolifratv glomerulonephritis
+897,Glomerulonephritis,303986013.0,281860005.0,419991013.0,K0A2,K0A2,Recurrent and persistent haematuria
+898,Glomerulonephritis,183201000006117.0,714823009.0,3300550011.0,K0A20,K0A20,Recurrent+persistnt haematuria minor glomerular abnormality
+899,Glomerulonephritis,189151000006111.0,714827005.0,3300562010.0,K0A21,K0A21,"Recur+persist haematuria, focal+segmental glomerular lesions"
+900,Glomerulonephritis,189141000006114.0,714821006.0,3300544018.0,K0A22,K0A22,Recur+persist haematuria difus membranous glomerulonephritis
+901,Glomerulonephritis,189171000006118.0,714825002.0,3300556017.0,K0A23,K0A23,Recur+persist haemuria df mesangial prolif glomerulnephritis
+902,Glomerulonephritis,189181000006115.0,714819001.0,3300538017.0,K0A25,K0A25,Recur+persist hmuria df mesangiocapilary glomerulonephritis
+903,Glomerulonephritis,304001012.0,714813000.0,3300520015.0,K0A26,K0A26,"Recurrent and persistent haematuria, dense deposit disease"
+904,Glomerulonephritis,189131000006116.0,714815007.0,3300526014.0,K0A27,K0A27,Recur+persist haematuria difus crescentic glomerulonephritis
+905,Glomerulonephritis,354379014.0,236407003.0,354379014.0,K0A28,K0A28,IgA nephropathy
+906,Glomerulonephritis,304004016.0,197707007.0,304004016.0,K0A3,K0A3,Chronic nephritic syndrome
+907,Glomerulonephritis,304005015.0,197708002.0,304005015.0,K0A30,K0A30,"Chronic nephritic syndrome, minor glomerular abnormality"
+908,Glomerulonephritis,555391000006117.0,197709005.0,304006019.0,K0A31,K0A31,Chronic nephritic syndrm focal+segmental glomerular lesions
+909,Glomerulonephritis,553201000006117.0,77182004.0,1234074010.0,K0A32,K0A32,Chron nephritic syndrom difuse membranous glomerulonephritis
+910,Glomerulonephritis,553181000006118.0,197613008.0,303861015.0,K0A33,K0A33,Chron neph syn difus mesangial prolifrtiv glomerulonephritis
+911,Glomerulonephritis,555371000006118.0,197713003.0,304010016.0,K0A35,K0A35,Chronic neph syn difus mesangiocapillary glomerulonephritis
+912,Glomerulonephritis,304011017.0,197714009.0,304011017.0,K0A36,K0A36,"Chronic nephritic syndrome, dense deposit disease"
+913,Glomerulonephritis,555381000006115.0,197715005.0,304012012.0,K0A37,K0A37,Chronic nephritic syn diffuse crescentic glomerulonephritis
+914,Glomerulonephritis,304013019.0,197716006.0,304013019.0,K0A4,K0A4,Isolated proteinuria with specified morphological lesion
+915,Glomerulonephritis,715441000006113.0,197719004.0,304016010.0,K0A41,K0A41,Isolatd proteinur/specifd morphlgcl les foc+seg glom lesn
+916,Glomerulonephritis,712841000006115.0,197720005.0,304017018.0,K0A42,K0A42,Isolatd proteinur/specfd morphlgcl les df membrn glomneph
+917,Glomerulonephritis,742241000006111.0,197721009.0,304018011.0,K0A43,K0A43,Isoltd prteinur/spcfd morph lesn df mesngl prolf glomneph
+918,Glomerulonephritis,745481000006111.0,197723007.0,304020014.0,K0A45,K0A45,Isoltd prteinur+specfd morph les df mesangiocap glomnephr
+919,Glomerulonephritis,739121000006119.0,390361000000103.0,891551000000118.0,K0A4W,K0A4W,"Isolated proteinuria, with unspecified morpholog changes"
+920,Glomerulonephritis,736981000006111.0,197679002.0,303967017.0,K0A4X,K0A4X,"Isolated proteinuria, with oth specif morpholog changes"
+921,Glomerulonephritis,803321000006112.0,197739000.0,304037019.0,K0A7,K0A7,Glom disordr in blood diseas+disordr invlvg imun mechansm
+923,Glomerulonephritis,430101000006111.0,197679002.0,303967017.0,Kyu09,Kyu09,"[X]Unsp nephrit synd, diff mesang prolif glomerulonephritis"
+924,Hidradenitis suppurativa,855271000006114.0,855271000006105.0,855271000006114.0,EGTON66,EGTON66,Hydradenitis suppurativa
+925,Hidradenitis suppurativa,115847018.0,69741000.0,115847018.0,M25y1,M25y1,Hidradenitis
+926,Hidradenitis suppurativa,98642019.0,59393003.0,98642019.0,M25y1-1,M25y1-1,Hidradenitis suppurativa
+927,Hypertrophic Nasal Turbinates,681901000006112.0,17467004.0,29523013.0,H1y0,H1y0,Nasal turbinate hypertrophy
+928,Hyposplenism,3848571000006113.0,82893001.0,137496011.0,^ESCTSP384857,^ESCTSP384857,splenic atrophy
+929,Hyposplenism,2866521000006111.0,22996003.0,38632019.0,^ESCTSP286652,^ESCTSP286652,splenic infarction
+930,Hyposplenism,270732017.0,174776001.0,270732017.0,7840,7840,Total excision of spleen
+931,Hyposplenism,98381000006117.0,174776001.0,270731012.0,7840-1,7840-1,Total splenectomy
+932,Hyposplenism,270731012.0,174776001.0,270731012.0,78401,78401,Total splenectomy
+933,Hyposplenism,270738018.0,234319005.0,351029019.0,78403,78403,Splenectomy NEC
+934,Hyposplenism,458412019.0,314118002.0,458412019.0,78404,78404,Laparoscopic total splenectomy
+935,Hyposplenism,270740011.0,174776001.0,270731012.0,7840y,7840y,Other specified total excision of spleen
+936,Hyposplenism,270741010.0,174776001.0,270731012.0,7840z,7840z,Total excision of spleen NOS
+937,Hyposplenism,270742015.0,234319005.0,351029019.0,7841,7841,Other excision of spleen
+938,Hyposplenism,270743013.0,234319005.0,351029019.0,7841y,7841y,Other specified other excision of spleen
+939,Hyposplenism,270744019.0,234319005.0,351029019.0,7841z,7841z,Other excision of spleen NOS
+940,Hyposplenism,137496011.0,82893001.0,1234749016.0,D4154,D4154,Splenic atrophy
+941,Hyposplenism,93688010.0,56338005.0,93688010.0,D4156,D4156,Splenic fibrosis
+942,Hyposplenism,38632019.0,22996003.0,1223010014.0,D4157,D4157,Splenic infarction
+943,Hyposplenism,1229978015.0,43325004.0,1229978015.0,D4158,D4158,Non-traumatic rupture of spleen
+944,Hyposplenism,39894011.0,23761004.0,39894011.0,D415A,D415A,Hyposplenism
+945,Hyposplenism,222151000000115.0,300564004.0,441642013.0,PK01,PK01,Absent spleen
+946,Hyposplenism,215631000000118.0,707147002.0,3028874013.0,PK01-1,PK01-1,Asplenia
+947,Hyposplenism,315505011.0,205735005.0,315505011.0,PK06,PK06,Hypoplasia of spleen
+948,Immunodeficiencies,398902012.0,267459007.0,398902012.0,C390,C390,Deficiencies of humoral immunity
+949,Immunodeficiencies,452781013.0,119249001.0,452781013.0,C390-1,C390-1,Agammaglobulinaemia
+950,Immunodeficiencies,293658016.0,119250001.0,452792014.0,C3900,C3900,Hypogammaglobulinaemia NOS
+951,Immunodeficiencies,293660019.0,190979003.0,293660019.0,C3901,C3901,Selective IgA immunodeficiency
+952,Immunodeficiencies,293662010.0,190980000.0,293662010.0,C3902,C3902,Selective IgM immunodeficiency
+953,Immunodeficiencies,293665012.0,190981001.0,293665012.0,C3903,C3903,Selective IgG immunodeficiency
+954,Immunodeficiencies,293666013.0,234535004.0,351402018.0,C3904,C3904,Other selective immunoglobulin deficiency
+956,Immunodeficiencies,500241011.0,65880007.0,500241011.0,C3905-1,C3905-1,Bruton's agammaglobulinaemia
+958,Immunodeficiencies,1216993016.0,82286005.0,1216993016.0,C3906,C3906,Immunodeficiency with IgM hypergammaglobulinaemia
+959,Immunodeficiencies,574941000006114.0,23238000.0,481559011.0,C3907,C3907,Common variable immunodeficiency
+960,Immunodeficiencies,96071000006117.0,88714009.0,508154013.0,C3908,C3908,Transient infant hypogammaglobulinaemia
+961,Immunodeficiencies,293678012.0,119249001.0,452781013.0,C3909,C3909,Agammaglobulinaemia NEC
+962,Immunodeficiencies,293679016.0,103075007.0,166572019.0,C390A,C390A,Dysimmunoglobulinaemia NEC
+963,Immunodeficiencies,633031000006112.0,103075007.0,166572019.0,C390A-1,C390A-1,Dysgammaglobulinaemia NEC
+964,Immunodeficiencies,487321000006110.0,190986006.0,293682014.0,C390B,C390B,Antibod def wth nr-norm imunoglob/or wth hyperimunoglobaemia
+965,Immunodeficiencies,293683016.0,103075007.0,166572019.0,C390y,C390y,Other specified deficiency of humoral immunity
+966,Immunodeficiencies,293684010.0,103075007.0,166572019.0,C390z,C390z,Deficiency of humoral immunity NOS
+967,Immunodeficiencies,1786202010.0,398293003.0,1786202010.0,C391,C391,Deficiencies of cell-mediated immunity
+968,Immunodeficiencies,398905014.0,398293003.0,1777833015.0,C3910,C3910,Predominantly T-cell immuno-deficiency NOS
+969,Immunodeficiencies,1777625018.0,398055000.0,1777625018.0,C3910-1,C3910-1,T-lymphocyte deficiency
+970,Immunodeficiencies,540601000006112.0,398271008.0,1777815014.0,C3910-2,C3910-2,Cellular immunity syndrome
+971,Immunodeficiencies,616061000006115.0,767263007.0,3670122015.0,C3911,C3911,Di George syndrome
+972,Immunodeficiencies,53821000006111.0,36070007.0,60191017.0,C3912,C3912,Wiskott - Aldrich syndrome
+974,Immunodeficiencies,574381000006116.0,31323000.0,484843018.0,C392,C392,Combined immunity deficiency
+975,Immunodeficiencies,484842011.0,31323000.0,484842011.0,C3921,C3921,Severe combined immunodeficiency
+976,Immunodeficiencies,111721000006119.0,765145001.0,3657185019.0,C3921-1,C3921-1,Swiss type agammaglobulinaemia
+977,Immunodeficiencies,293704019.0,190996002.0,293704019.0,C3923,C3923,Severe combined immunodefiency with reticular dysgenesis
+978,Immunodeficiencies,146011000006112.0,190997006.0,293705018.0,C3924,C3924,Severe combined immunodef with low T- and B-cell numbers
+979,Immunodeficiencies,146001000006114.0,190998001.0,293706017.0,C3925,C3925,Severe combined immunodef with low or normal B-cell numbers
+980,Immunodeficiencies,74969018.0,44940001.0,74969018.0,C3926,C3926,Adenosine deaminase deficiency
+981,Immunodeficiencies,198990011.0,60743005.0,198990011.0,C3927,C3927,Purine nucleoside phosphorylase deficiency
+982,Immunodeficiencies,293709012.0,191001007.0,293709012.0,C3928,C3928,Major histocompatibility complex class I deficiency
+983,Immunodeficiencies,293710019.0,191002000.0,293710019.0,C3929,C3929,Major histocompatibility complex class II deficiency
+984,Immunodeficiencies,293711015.0,31323000.0,52382015.0,C392z,C392z,Combined immunity deficiency NOS
+985,Immunodeficiencies,293714011.0,234532001.0,351393018.0,C393,C393,Unspecified immunity deficiency
+986,Immunodeficiencies,482838012.0,25109007.0,482838012.0,C395,C395,Immunodeficiency with short-limbed stature
+988,Immunodeficiencies,495839010.0,50926003.0,495839010.0,C397,C397,Hyperimmunoglobulin E syndrome
+989,Immunodeficiencies,481559011.0,23238000.0,481559011.0,C398,C398,Common variable immunodeficiency
+990,Immunodeficiencies,574181000006118.0,191011000.0,293720012.0,C3980,C3980,Com var immunodef with predom abn B-cell numbers and functns
+991,Immunodeficiencies,574931000006116.0,191013002.0,293722016.0,C3982,C3982,Common variable immunodef wth autoantibod to B- or T-cells
+992,Immunodeficiencies,784731000006112.0,234631003.0,351566015.0,C39X,C39X,"Immunodeficiency associated+major defect, unspecified"
+993,Immunodeficiencies,293727010.0,191018006.0,293727010.0,C39y0,C39y0,Lymphocyte function antigen-1 defect
+994,Immunodeficiencies,411031000006119.0,234532001.0,351393018.0,Cyu00,Cyu00,[X]Other immunodeficiencies+predominantly antibody defects
+995,Immunodeficiencies,293740017.0,234532001.0,351393018.0,Cyu04,Cyu04,[X]Other common variable immunodeficiencies
+996,Immunodeficiencies,293741018.0,234532001.0,351393018.0,Cyu05,Cyu05,[X]Other specified immunodeficiency disorders
+997,Idiopathic Intracranial Hypertension,3610791000006116.0,68267002.0,500972019.0,^ESCTPS361079,^ESCTPS361079,pseudotumour cerebri
+998,Idiopathic Intracranial Hypertension,113392018.0,68267002.0,113392018.0,F282,F282,Benign intracranial hypertension
+999,Idiopathic Intracranial Hypertension,500972019.0,68267002.0,1233031015.0,F282-1,F282-1,Pseudotumour cerebri
+1000,Motor neuron disease,908821000006116.0,908821000006100.0,908821000006116.0,HNG0604,HNG0604,[RFC] Motor neurone disease
+1001,Motor neuron disease,351861000000110.0,221551000000100.0,351861000000110.0,7Q041,7Q041,Amyotrophic lateral sclerosis drugs Band 1
+1002,Motor neuron disease,142016013.0,85672005.0,142016013.0,F15,F15,Anterior horn cell disease
+1003,Motor neuron disease,486695013.0,37340000.0,486695013.0,F152,F152,Motor neurone disease
+1004,Motor neuron disease,142653015.0,86044005.0,142653015.0,F1520,F1520,Amyotrophic lateral sclerosis
+1005,Motor neuron disease,147444011.0,88923002.0,147444011.0,F1521,F1521,Progressive muscular atrophy
+1006,Motor neuron disease,631811000006111.0,88923002.0,147444011.0,F1521-1,F1521-1,Duchenne Aran muscular atrophy
+1007,Motor neuron disease,90263012.0,54304004.0,90263012.0,F1522,F1522,Progressive bulbar palsy
+1008,Motor neuron disease,13165015.0,7379000.0,13165015.0,F1523,F1523,Pseudobulbar palsy
+1009,Motor neuron disease,134744017.0,81211007.0,134744017.0,F1524,F1524,Primary lateral sclerosis
+1010,Motor neuron disease,297130012.0,37340000.0,486695013.0,F152z,F152z,Motor neurone disease NOS
+1011,Motor neuron disease,297131011.0,85672005.0,142016013.0,F15y,F15y,Other anterior horn cell disease
+1012,Motor neuron disease,297132016.0,85672005.0,142016013.0,F15z,F15z,Anterior horn cell disease NOS
+1013,Myasthenia gravis,151829017.0,91637004.0,151829017.0,F380,F380,Myasthenia gravis
+1015,Myasthenia gravis,297582016.0,91637004.0,151829017.0,F380z,F380z,Myasthenia gravis NOS
+1016,Neuropahtic Bladder,497251000006113.0,197870000.0,304231013.0,F2461-1,F2461-1,Atonic bladder
+1017,Neuropahtic Bladder,676521000006111.0,398064005.0,1777632010.0,F2461-2,F2461-2,Neurogenic bladder
+1018,Neuropahtic Bladder,675651000006110.0,398064005.0,1786083014.0,F2461-3,F2461-3,Neuropathic bladder
+1019,Neuropahtic Bladder,304232018.0,197870000.0,304232018.0,K164,K164,Atony of bladder
+1020,Neuropahtic Bladder,304231013.0,197870000.0,304231013.0,K164-1,K164-1,Atonic bladder
+1021,Neuropahtic Bladder,304235016.0,197871001.0,304235016.0,K1640,K1640,Hypotonic bladder
+1022,Neuropahtic Bladder,304236015.0,197872008.0,304236015.0,K1641,K1641,Bladder inertia
+1023,Neuropahtic Bladder,304237012.0,197870000.0,304232018.0,K164z,K164z,Atony of bladder NOS
+1024,Neuropahtic Bladder,304238019.0,236632007.0,354696015.0,K165,K165,Other functional disorder of bladder
+1025,Neuropahtic Bladder,726691000006119.0,9009001.0,15876016.0,K1650,K1650,Hypertonic bladder sphincter
+1026,Neuropahtic Bladder,304240012.0,197876006.0,304240012.0,K1651,K1651,Bladder sphincter paralysis
+1027,Neuropahtic Bladder,615711000006112.0,61033006.0,2164085015.0,K1653,K1653,Detrusor instability
+1028,Neuropahtic Bladder,72601000006110.0,61033006.0,101427019.0,K1654,K1654,Unstable bladder
+1029,Neuropahtic Bladder,304244015.0,236632007.0,354695016.0,K165z,K165z,Other bladder function disorder NOS
+1030,Neuropahtic Bladder,676861000006115.0,236632007.0,354696015.0,K16V,K16V,"Neuromuscular dysfunction of bladder, unspecified"
+1031,Neuropahtic Bladder,1786083014.0,398064005.0,1786083014.0,K16V0,K16V0,Neuropathic bladder
+1032,Neuropahtic Bladder,1777632010.0,398064005.0,1777632010.0,K16V0-1,K16V0-1,Neurogenic bladder
+1033,Neuropahtic Bladder,2579202017.0,236633002.0,2579202017.0,K16V1,K16V1,Overactive bladder
+1034,Neuropahtic Bladder,186191000006111.0,368311000119105.0,3013158015.0,K16W,K16W,"Reflex neuropathic bladder, not elsewhere classified"
+1035,Neuropahtic Bladder,81021000006113.0,397732007.0,1777342015.0,K16X,K16X,"Uninhibited neuropathic bladder, NEC"
+1036,Neuropahtic Bladder,2162415015.0,61033006.0,101427019.0,K16y4,K16y4,Irritable bladder
+1037,Neuropahtic Bladder,2164085015.0,61033006.0,2164085015.0,K16y4-1,K16y4-1,Detrusor instability
+1038,Neuropahtic Bladder,2162416019.0,61033006.0,101427019.0,K16y4-2,K16y4-2,Unstable bladder
+1039,Neuropahtic Bladder,354696015.0,236632007.0,354696015.0,K16y8,K16y8,Functional disorder of bladder
+1040,Neuropahtic Bladder,354695016.0,236632007.0,354695016.0,K16y8-1,K16y8-1,Functional voiding disorder
+1041,Neuropahtic Bladder,305204015.0,397732007.0,1777342015.0,Kyu52,Kyu52,[X]Other neuromuscular dysfunction of bladder
+1042,Neuropahtic Bladder,305216014.0,236632007.0,354696015.0,Kyu5E,Kyu5E,"[X]Neuromuscular dysfunction of bladder, unspecified"
+1043,Chronic Cystitis,886751000006113.0,647611000000106.0,886751000006113.0,K152y-99,K152y-99,Chronic cystitis
+1044,Chronic Cystitis,1.2729331000006116e+16,647611000000106.0,1424771000000119.0,^ESCT1272933,^ESCT1272933,chronic cystitis unspecified
+1045,Chronic Cystitis,304177012.0,197834003.0,304177012.0,K151,K151,Chronic interstitial cystitis
+1046,Chronic Cystitis,131354016.0,79160001.0,131354016.0,K1510,K1510,Hunner's ulcer
+1047,Chronic Cystitis,304182017.0,197837005.0,304182017.0,K1512,K1512,Submucous cystitis
+1048,Chronic Cystitis,304183010.0,197834003.0,304177012.0,K151z,K151z,Chronic interstitial cystitis NOS
+1049,Chronic Cystitis,304184016.0,33655002.0,56180018.0,K152,K152,Other chronic cystitis
+1051,Chronic Cystitis,304186019.0,33655002.0,56180018.0,K152y,K152y,Chronic cystitis unspecified
+1052,Chronic Cystitis,304187011.0,33655002.0,56180018.0,K152z,K152z,Other chronic cystitis NOS
+1053,Chronic Cystitis,107972012.0,64956000.0,107972012.0,K153-1,K153-1,Follicular cystitis
+1054,Chronic Cystitis,22733019.0,13285005.0,22733019.0,K15y0,K15y0,Cystitis cystica
+1055,Chronic Cystitis,305202016.0,33655002.0,56180018.0,Kyu50,Kyu50,[X]Other chronic cystitis
+1056,Other haemolytic anaemias,1.1989621000006112e+16,80141007.0,1.1989621000006112e+16,^ESCT1198962,^ESCT1198962,[x]other haemoglobinopathies
+1057,Other haemolytic anaemias,1.2723661000006116e+16,597931000000109.0,1324801000000114.0,^ESCT1272366,^ESCT1272366,acquired haemolytic anaemia nos
+1059,Other haemolytic anaemias,813861000006112.0,61261009.0,498963016.0,D1,D1,Haemolytic anaemias
+1063,Other haemolytic anaemias,701811000006113.0,55995005.0,93126010.0,D100-2,D100-2,Minkowski - Chauffard syndrome
+1066,Other haemolytic anaemias,293986010.0,191170009.0,293986010.0,D102,D102,Haemolytic anaemia due to glutathione metabolism disorder
+1067,Other haemolytic anaemias,499268014.0,62403005.0,499268014.0,D1020,D1020,Glucose-6-phosphate dehydrogenase deficiency anaemia
+1068,Other haemolytic anaemias,293989015.0,191172001.0,293989015.0,D1021,D1021,Favism
+1069,Other haemolytic anaemias,477268010.0,15276008.0,477268010.0,D1022,D1022,Drug-induced enzyme deficiency anaemia
+1070,Other haemolytic anaemias,293999013.0,191177007.0,293999013.0,D1030,D1030,Haemolytic anaemia due to hexokinase deficiency
+1071,Other haemolytic anaemias,294000010.0,191178002.0,294000010.0,D1031,D1031,Haemolytic anaemia due to pyruvate kinase deficiency
+1072,Other haemolytic anaemias,294004018.0,191180008.0,294004018.0,D1033,D1033,Anaemia due to disorders of nucleotide metabolism
+1073,Other haemolytic anaemias,294007013.0,38911009.0,65264014.0,D103z,D103z,Enzyme deficiency haemolytic anaemia NOS
+1074,Other haemolytic anaemias,294066018.0,80141007.0,504350016.0,D107,D107,Other haemoglobinopathies
+1077,Other haemolytic anaemias,294068017.0,191201002.0,294068017.0,D1071-1,D1071-1,Hb F disease
+1078,Other haemolytic anaemias,496520018.0,5300004.0,496520018.0,D1072,D1072,Haemoglobin Bart's disease
+1079,Other haemolytic anaemias,813711000006117.0,51053007.0,495889019.0,D1073,D1073,Haemoglobin-C disease
+1080,Other haemolytic anaemias,813721000006113.0,66729008.0,500509016.0,D1074,D1074,Haemoglobin-D disease
+1081,Other haemolytic anaemias,813731000006111.0,25065001.0,482565014.0,D1075,D1075,Haemoglobin-E disease
+1082,Other haemolytic anaemias,294074017.0,191202009.0,294074017.0,D1076,D1076,Haemoglobin Zurich disease
+1083,Other haemolytic anaemias,813741000006118.0,48553001.0,495133013.0,D1077,D1077,Haemoglobin-H disease
+1084,Other haemolytic anaemias,294075016.0,80141007.0,504350016.0,D107y,D107y,Other specified other haemoglobinopathy
+1085,Other haemolytic anaemias,294078019.0,80141007.0,504350016.0,D107z,D107z,Other haemoglobinopathy NOS
+1087,Other haemolytic anaemias,6528016.0,3272007.0,6528016.0,D10y0,D10y0,Stomatocytosis
+1090,Other haemolytic anaemias,454071000006113.0,4854004.0,495128014.0,D11,D11,Acquired haemolytic anaemias
+1091,Other haemolytic anaemias,500191000006115.0,413603009.0,2533078010.0,D110,D110,Autoimmune haemolytic anaemias
+1092,Other haemolytic anaemias,594781000006111.0,413603009.0,2533078010.0,D110-1,D110-1,Coombs positive haemolysis
+1093,Other haemolytic anaemias,294093015.0,191210005.0,294093015.0,D1100,D1100,Primary cold-type haemolytic anaemia
+1094,Other haemolytic anaemias,294094014.0,191211009.0,294094014.0,D1101,D1101,Primary warm-type haemolytic anaemia
+1095,Other haemolytic anaemias,294097019.0,191212002.0,294097019.0,D1102,D1102,Secondary cold-type haemolytic anaemia
+1096,Other haemolytic anaemias,453221019.0,309742004.0,453221019.0,D1104,D1104,Drug-induced autoimmune haemolytic anaemia
+1097,Other haemolytic anaemias,294102016.0,413603009.0,2533078010.0,D110z,D110z,Autoimmune haemolytic anaemia NOS
+1098,Other haemolytic anaemias,294105019.0,191216004.0,294105019.0,D111,D111,Non-autoimmune haemolytic anaemia
+1099,Other haemolytic anaemias,294106018.0,191217008.0,294106018.0,D1110,D1110,Mechanical haemolytic anaemia
+1100,Other haemolytic anaemias,495896017.0,51071000.0,495896017.0,D1111,D1111,Microangiopathic haemolytic anaemia
+1101,Other haemolytic anaemias,813941000006115.0,111407006.0,362056017.0,D1113,D1113,Haemolytic-uraemic syndrome
+1102,Other haemolytic anaemias,504771011.0,81711008.0,504771011.0,D1114,D1114,Drug-induced haemolytic anaemia
+1103,Other haemolytic anaemias,294111016.0,38689004.0,491727016.0,D1115,D1115,Infective haemolytic anaemia
+1104,Other haemolytic anaemias,294112011.0,191216004.0,294104015.0,D111y,D111y,Other specified non-autoimmune haemolytic anaemia
+1105,Other haemolytic anaemias,294115013.0,191216004.0,294105019.0,D111z,D111z,Non-autoimmune haemolytic anaemia NOS
+1106,Other haemolytic anaemias,294116014.0,191222008.0,294116014.0,D112,D112,Haemoglobinuria due to haemolysis from external causes
+1107,Other haemolytic anaemias,1490208011.0,387744007.0,1490208011.0,D1120,D1120,Haemoglobinuria from exertion
+1108,Other haemolytic anaemias,1476204014.0,387744007.0,1476204014.0,D1120-1,D1120-1,March haemoglobinuria
+1109,Other haemolytic anaemias,717901000006114.0,387744007.0,1476204014.0,D1120-2,D1120-2,Marchiafava - Micheli syndrome
+1110,Other haemolytic anaemias,479750016.0,1963002.0,479750016.0,D1121,D1121,Paroxysmal nocturnal haemoglobinuria
+1111,Other haemolytic anaemias,474048019.0,127057004.0,474048019.0,D1122,D1122,Paroxysmal cold haemoglobinuria
+1112,Other haemolytic anaemias,399210014.0,191222008.0,294116014.0,D112z,D112z,Haemoglobinuria due to haemolysis from external cause NOS
+1113,Other haemolytic anaemias,571901000006110.0,127057004.0,345016.0,D112z-1,D112z-1,Cold haemoglobinuria
+1114,Other haemolytic anaemias,351137013.0,191222008.0,294116014.0,D112z-2,D112z-2,Acquired haemolytic anaemia with haemoglobinuria NEC
+1115,Other haemolytic anaemias,351136016.0,191222008.0,294116014.0,D112z-3,D112z-3,Paroxysmal haemoglobinuria NOS
+1116,Other haemolytic anaemias,294139015.0,4854004.0,495128014.0,D11z,D11z,Acquired haemolytic anaemia NOS
+1117,Other haemolytic anaemias,294141019.0,191228007.0,294141019.0,D11z0,D11z0,Acquired spherocytosis
+1119,Other haemolytic anaemias,294144010.0,61261009.0,101791014.0,D1y,D1y,Other specified haemolytic anaemias
+1120,Other haemolytic anaemias,294145011.0,61261009.0,498963016.0,D1z,D1z,Haemolytic anaemias NOS
+1121,Other haemolytic anaemias,294582012.0,61261009.0,498963016.0,Dyu1,Dyu1,[X]Haemolytic anaemias
+1122,Other haemolytic anaemias,294589015.0,80141007.0,178831017.0,Dyu13,Dyu13,[X]Other haemoglobinopathies
+1123,Other haemolytic anaemias,294593014.0,413603009.0,2533077017.0,Dyu15,Dyu15,[X]Other autoimmune haemolytic anaemias
+1127,Polycystic ovarian syndrome,223381000000117.0,69878008.0,116050013.0,C164-2,C164-2,Stein - Leventhal syndrome
+1128,Polycystic ovarian syndrome,2478811014.0,69878008.0,2478811014.0,C165,C165,Polycystic ovarian syndrome
+1129,Primary pulmonary hypertension,3654631000006113.0,70995007.0,117919017.0,^ESCTPU365463,^ESCTPU365463,Pulmonary hypertension
+1130,Primary pulmonary hypertension,905451000006118.0,905451000006102.0,905451000006118.0,HNG0019,HNG0019,[RFC] Pulmonary embolism/pulmonary hypertension
+1131,Primary pulmonary hypertension,43850011.0,11399002.0,2968228010.0,G410,G410,Primary pulmonary hypertension
+1132,Retinal vascular occlusions,122485015.0,73757007.0,122485015.0,F423,F423,Retinal vascular occlusion
+1133,Retinal vascular occlusions,297783012.0,73757007.0,122485015.0,F4230,F4230,Unspecified retinal vascular occlusion
+1134,Retinal vascular occlusions,64469014.0,38742007.0,64469014.0,F4231,F4231,Central retinal artery occlusion
+1135,Retinal vascular occlusions,169751000006113.0,50821009.0,1230906015.0,F4232,F4232,Retinal arterial branch occlusion
+1136,Retinal vascular occlusions,1230906015.0,50821009.0,1230906015.0,F4232-1,F4232-1,Branch retinal artery occlusion
+1137,Retinal vascular occlusions,169951000006111.0,76975009.0,127782012.0,F4233,F4233,Retinal microembolism
+1138,Retinal vascular occlusions,2537044017.0,404670008.0,2537044017.0,F4234,F4234,Hollenhorst plaque
+1139,Retinal vascular occlusions,297786016.0,232035005.0,347674010.0,F4235,F4235,Retinal partial arterial occlusion NOS
+1140,Retinal vascular occlusions,297787013.0,87224000.0,144637019.0,F4237,F4237,Retinal transient arterial occlusion NOS
+1141,Retinal vascular occlusions,113737013.0,68478007.0,113737013.0,F4238,F4238,Central retinal vein occlusion
+1142,Retinal vascular occlusions,494431010.0,46085004.0,494431010.0,F4238-1,F4238-1,Retinal vein thrombosis
+1143,Retinal vascular occlusions,170141000006114.0,24596005.0,481961010.0,F4239,F4239,Retinal venous branch occlusion
+1144,Retinal vascular occlusions,481961010.0,24596005.0,481961010.0,F4239-1,F4239-1,Branch retinal vein occlusion
+1145,Retinal vascular occlusions,297791015.0,193379006.0,297791015.0,F423A,F423A,Retinal venous engorgement
+1146,Retinal vascular occlusions,297792010.0,73757007.0,122485015.0,F423z,F423z,Retinal vascular occlusion NOS
+1147,Retinal vascular occlusions,67167012.0,39832008.0,67167012.0,F42y7,F42y7,Retinal cotton wool spots
+1148,Retinal vascular occlusions,299476010.0,232035005.0,347674010.0,FyuF5,FyuF5,[X]Other retinal artery occlusions
+1149,Retinal vascular occlusions,299477018.0,73757007.0,122485015.0,FyuF6,FyuF6,[X]Other retinal vascular occlusions
+1150,Rosacea,889291000006117.0,398909004.0,889291000006117.0,M1530-99,M1530-99,Acne roscea
+1151,Rosacea,889281000006115.0,398909004.0,889281000006115.0,M153-99,M153-99,Rosacea Of Face
+1152,Rosacea,17666017.0,371097007.0,1209805012.0,F4C31,F4C31,Rosacea conjunctivitis
+1153,Rosacea,1778393010.0,398909004.0,1778393010.0,M153,M153,Rosacea
+1154,Rosacea,1786588010.0,398909004.0,1786588010.0,M1530,M1530,Acne rosacea
+1155,Rosacea,33456014.0,19877001.0,33456014.0,M1531,M1531,Rhinophyma
+1156,Rosacea,308692019.0,200931008.0,308692019.0,M1532,M1532,Rosacea hypertrophica
+1157,Rosacea,308693012.0,200932001.0,308693012.0,M1533,M1533,Lupoid rosacea
+1158,Rosacea,308694018.0,200933006.0,308694018.0,M1534,M1534,Ocular rosacea
+1159,Rosacea,308696016.0,398909004.0,1778393010.0,M153z,M153z,Rosacea NOS
+1160,Rosacea,309362013.0,398909004.0,1778393010.0,Myu69,Myu69,[X]Other rosacea
+1161,Sarcoidosis,52728016.0,31541009.0,52728016.0,AD5,AD5,Sarcoidosis
+1162,Sarcoidosis,1223250017.0,24369008.0,1223250017.0,AD50,AD50,Sarcoidosis of lung
+1163,Sarcoidosis,1232607019.0,64757003.0,1232607019.0,AD51,AD51,Sarcoidosis of lymph nodes
+1164,Sarcoidosis,287930013.0,187233002.0,287930013.0,AD52,AD52,Sarcoidosis of lung with sarcoidosis of lymph nodes
+1165,Sarcoidosis,1231546012.0,55941000.0,1231546012.0,AD53,AD53,Sarcoidosis of skin
+1166,Sarcoidosis,502127019.0,72470008.0,502127019.0,AD530,AD530,Lupus pernio
+1167,Sarcoidosis,454209012.0,310607007.0,454209012.0,AD54,AD54,Sarcoidosis of inferior turbinates
+1168,Sarcoidosis,477671011.0,361197009.0,477671011.0,AD55,AD55,Sarcoid arthropathy
+1169,Sarcoidosis,293742013.0,31541009.0,52728016.0,Cyu06,Cyu06,[X]Sarcoidosis of other and combined sites
+1170,Sarcoidosis,296819018.0,192673008.0,296819018.0,F013,F013,Meningitis due to sarcoidosis
+1171,Sarcoidosis,297440017.0,193101001.0,297440017.0,F3263,F3263,Multiple cranial nerve palsies in sarcoidosis
+1173,Sarcoidosis,297643013.0,193251003.0,297643013.0,F3965,F3965,Myopathy due to sarcoidosis
+1174,Sarcoidosis,161591000006114.0,195033009.0,300056015.0,G5583,G5583,Sarcoid heart disease
+1175,Sarcoidosis,1494958019.0,195033009.0,1494958019.0,G5y7,G5y7,Sarcoid myocarditis
+1176,Sarcoidosis,40879015.0,24369008.0,40879015.0,H57y2,H57y2,Pulmonary sarcoidosis
+1177,Sarcoidosis,303525019.0,197368002.0,303525019.0,J63A,J63A,Hepatic granulomas in sarcoidosis
+1178,Sarcoidosis,311616019.0,203042003.0,311616019.0,N2332,N2332,Myositis in sarcoidosis
+1179,Secondary polycythaemia,494050018.0,44865000.0,494050018.0,D410,D410,Secondary polycythaemia
+1180,Secondary polycythaemia,486571018.0,36874002.0,486571018.0,D4100,D4100,Stress polycythaemia
+1181,Secondary polycythaemia,131691000006118.0,389147003.0,1490224012.0,D4100-1,D4100-1,Spurious polycythaemia
+1182,Secondary polycythaemia,483065013.0,25881005.0,483065013.0,D4101,D4101,High altitude polycythaemia
+1183,Secondary polycythaemia,294491014.0,191372008.0,294491014.0,D4102,D4102,Polycythaemia due to cyanotic heart disease
+1184,Secondary polycythaemia,294492019.0,191373003.0,294492019.0,D4103,D4103,Polycythaemia due to cyanotic respiratory disease
+1185,Secondary polycythaemia,1216509016.0,367328005.0,1216509016.0,D4104,D4104,Renal polycythaemia
+1186,Secondary polycythaemia,294495017.0,44865000.0,494050018.0,D410z,D410z,Secondary polycythaemia NOS
+1187,Spinal stenosis,138588018.0,83561009.0,138588018.0,N130,N130,Cervical spinal stenosis
+1188,Spinal stenosis,311194016.0,202760001.0,311194016.0,N1300,N1300,Idiopathic cervical spinal stenosis
+1189,Spinal stenosis,311195015.0,202761002.0,311195015.0,N1301,N1301,Degenerative cervical spinal stenosis
+1190,Spinal stenosis,311197011.0,83561009.0,138587011.0,N1303,N1303,Cervical spinal stenosis secondary to other disease
+1191,Spinal stenosis,400282015.0,267980005.0,400282015.0,N140,N140,"Spinal stenosis, excluding cervical region"
+1192,Spinal stenosis,126406018.0,76107001.0,126406018.0,N140-1,N140-1,Spinal stenosis
+1193,Spinal stenosis,311229014.0,76107001.0,126406018.0,N1400,N1400,Spinal stenosis of unspecified region
+1194,Spinal stenosis,68961012.0,41341006.0,68961012.0,N1401,N1401,Thoracic spinal stenosis
+1195,Spinal stenosis,30978014.0,18347007.0,30978014.0,N1402,N1402,Lumbar spinal stenosis
+1196,Spinal stenosis,311230016.0,202782008.0,311230016.0,N1403,N1403,Idiopathic thoracic spinal stenosis
+1197,Spinal stenosis,311231017.0,202783003.0,311231017.0,N1404,N1404,Degenerative thoracic spinal stenosis
+1198,Spinal stenosis,311236010.0,41341006.0,68960013.0,N1406,N1406,Thoracic spinal stenosis secondary to other disease
+1199,Spinal stenosis,311237018.0,202787002.0,311237018.0,N1407,N1407,Idiopathic lumbar spinal stenosis
+1200,Spinal stenosis,311238011.0,202788007.0,311238011.0,N1408,N1408,Degenerative lumbar spinal stenosis
+1201,Spinal stenosis,311239015.0,202789004.0,311239015.0,N1409,N1409,Iatrogenic lumbar spinal stenosis
+1202,Spinal stenosis,311240018.0,18347007.0,30977016.0,N140A,N140A,Lumbar spinal stenosis secondary to other disease
+1203,Spinal stenosis,311241019.0,76107001.0,126406018.0,N140z,N140z,Spinal stenosis NOS
+1204,Spinal stenosis,461576019.0,76107001.0,126406018.0,Zw043,Zw043,[Q] Central spinal stenosis
+1205,Spinal stenosis,461577011.0,76107001.0,126406018.0,Zw044,Zw044,[Q] Lateral spinal stenosis
+1206,Spinal stenosis,461578018.0,76107001.0,126406018.0,Zw045,Zw045,[Q] Central and lateral spinal stenosis
+1207,Thrombophilia,1858421000006115.2,1858421000006104.0,1858421000006115.2,EMISNQLU11,EMISNQLU11,lupus anticoagulant positive
+1208,Thrombophilia,257494018.0,993351000000100.0,2554781000000111.0,42Qc,42Qc,Plasma activated protein C resistance
+1209,Thrombophilia,257497013.0,993371000000109.0,2567831000000115.0,42Qe,42Qe,Factor V Leiden genotype
+1210,Thrombophilia,927311000006111.0,999311000000101.0,2555611000000111.0,42jH,42jH,Activated protein C with factor V deficient plasma
+1211,Thrombophilia,2267501000000115.0,878791000000101.0,2267501000000115.0,43GE1,43GE1,Lupus anticoagulant positive
+1212,Thrombophilia,450270016.0,307091009.0,450270016.0,D3037,D3037,Factor V Leiden mutation
+1213,Thrombophilia,450295015.0,307115002.0,450295015.0,D3038,D3038,Homozygous factor V Leiden mutation
+1214,Thrombophilia,450296019.0,307116001.0,450296019.0,D3039,D3039,Heterozygous factor V Leiden mutation
+1215,Thrombophilia,1221214016.0,1563006.0,1221214016.0,D309,D309,Protein S deficiency
+1216,Thrombophilia,351300013.0,234467004.0,351300013.0,D30A,D30A,Thrombophilia
+1217,Thrombophilia,2871986010.0,439698008.0,2871986010.0,D30A0,D30A0,Primary thrombophilia
+1218,Thrombophilia,1233987014.0,76407009.0,1233987014.0,D30B,D30B,Protein C deficiency
+1219,Thrombophilia,44918014.0,26843008.0,44918014.0,N006,N006,Antiphospholipid syndrome
+1220,Tinnitus,4547941000006111.0,162349004.0,1221317014.0,^ESCTOB454794,^ESCTOB454794,observation of tinnitus
+1221,Tinnitus,102721000006110.0,60862001.0,101130017.0,1C2,1C2,Tinnitus symptoms
+1222,Tinnitus,253173014.0,162352007.0,253173014.0,1C23,1C23,Ringing in ear
+1223,Tinnitus,253174015.0,162353002.0,253174015.0,1C24,1C24,Hissing in ear
+1224,Tinnitus,253176018.0,60862001.0,101130017.0,1C2Z,1C2Z,Tinnitus symptom NOS
+1225,Tinnitus,101130017.0,60862001.0,101130017.0,F583,F583,Tinnitus
+1226,Tinnitus,299212019.0,60862001.0,101130017.0,F5830,F5830,Unspecified tinnitus
+1227,Tinnitus,103798013.0,62452009.0,103798013.0,F5831,F5831,Subjective tinnitus
+1228,Tinnitus,48076013.0,28715001.0,48076013.0,F5832,F5832,Objective tinnitus
+1229,Tinnitus,299214018.0,60862001.0,101130017.0,F583z,F583z,Tinnitus NOS
+1232,Vitamin B12 deficiency anaemia,881941000006116.0,49472006.0,881941000006116.0,D011-99,D011-99,Other vit B12 defic. anaemia
+1233,Vitamin B12 deficiency anaemia,1842071000006112.0,1842071000006108.0,1842071000006112.0,EMISNQVI18,EMISNQVI18,Vitamin B12 injection due
+1234,Vitamin B12 deficiency anaemia,906551000006112.0,906551000006108.0,906551000006112.0,HNG0130,HNG0130,[RFC] Pernicious anaemia
+1235,Vitamin B12 deficiency anaemia,1.2451821000006116e+16,170824004.0,264786019.0,^ESCT1245182,^ESCT1245182,reticulcytosis after b12
+1236,Vitamin B12 deficiency anaemia,264780013.0,170818005.0,264780013.0,66E,66E,B12 deficiency monitoring
+1237,Vitamin B12 deficiency anaemia,501111000006119.0,170819002.0,264781012.0,66E1,66E1,B12 defic. initial assessment
+1239,Vitamin B12 deficiency anaemia,264783010.0,170821007.0,264783010.0,66E3,66E3,B12 injections started
+1240,Vitamin B12 deficiency anaemia,264784016.0,170822000.0,264784016.0,66E4,66E4,B12 injections - at home
+1241,Vitamin B12 deficiency anaemia,264785015.0,170823005.0,264785015.0,66E5,66E5,B12 injections - at surgery
+1242,Vitamin B12 deficiency anaemia,264786019.0,170824004.0,3076147019.0,66E6,66E6,Reticulcytosis after B12
+1243,Vitamin B12 deficiency anaemia,501101000006117.0,170825003.0,264787011.0,66E7,66E7,B12 def.-dubious diag.criteria
+1244,Vitamin B12 deficiency anaemia,264788018.0,170826002.0,264788018.0,66E8,66E8,B12 injections stopped
+1245,Vitamin B12 deficiency anaemia,501121000006110.0,170818005.0,264780013.0,66EZ,66EZ,B12 defic. monitoring NOS
+1246,Vitamin B12 deficiency anaemia,293008012.0,190634004.0,293008012.0,C2621,C2621,Vitamin B12 deficiency
+1247,Vitamin B12 deficiency anaemia,505888017.0,84027009.0,505888017.0,D010,D010,Pernicious anaemia
+1248,Vitamin B12 deficiency anaemia,223491000000112.0,84027009.0,505888017.0,D010-1,D010-1,Addison's anaemia
+1251,Vitamin B12 deficiency anaemia,399198011.0,49472006.0,495412014.0,D011,D011,Other vitamin B12 deficiency anaemias
+1252,Vitamin B12 deficiency anaemia,62261000006118.0,49472006.0,1216683014.0,D011-1,D011-1,Vitamin B12 deficiency anaemia
+1253,Vitamin B12 deficiency anaemia,399201018.0,267517008.0,399201018.0,D0110,D0110,Vitamin B12 deficiency anaemia due to dietary causes
+1254,Vitamin B12 deficiency anaemia,223501000000118.0,234363001.0,351115018.0,D0110-1,D0110-1,Imerslund - Grasbeck syndrome
+1255,Vitamin B12 deficiency anaemia,351104011.0,234360003.0,351104011.0,D0110-3,D0110-3,Vegan's anaemia
+1256,Vitamin B12 deficiency anaemia,62031000006117.0,191142007.0,293918016.0,D0111,D0111,Vit B12 defic anaemia due to malabsorption with proteinuria
+1257,Vitamin B12 deficiency anaemia,356607016.0,237934001.0,356607016.0,D0112,D0112,Transcobalamin II deficiency
+1258,Vitamin B12 deficiency anaemia,62281000006111.0,49472006.0,495414010.0,D011X,D011X,"Vitamin B12 deficiency anaemia, unspecified"
+1259,Vitamin B12 deficiency anaemia,293924010.0,49472006.0,495412014.0,D011z,D011z,Other vitamin B12 deficiency anaemia NOS
+1260,Vitamin B12 deficiency anaemia,293948018.0,191154007.0,293948018.0,D0130,D0130,Combined B12 and folate deficiency anaemia
+1261,Vitamin B12 deficiency anaemia,294568012.0,267517008.0,399201018.0,Dyu01,Dyu01,[X]Other dietary vitamin B12 deficiency anaemia
+1262,Vitamin B12 deficiency anaemia,294571016.0,49472006.0,495412014.0,Dyu02,Dyu02,[X]Other vitamin B12 deficiency anaemias
+1263,Vitamin B12 deficiency anaemia,294579019.0,49472006.0,495414010.0,Dyu06,Dyu06,"[X]Vitamin B12 deficiency anaemia, unspecified"
+1264,Vitamin B12 deficiency anaemia,297018015.0,192817003.0,297018015.0,F11x6,F11x6,Cerebral degeneration due to vitamin B12 deficiency
+1266,Vitamin B12 deficiency anaemia,297589013.0,193213003.0,297589013.0,F3815,F3815,Myasthenic syndrome due to pernicious anaemia

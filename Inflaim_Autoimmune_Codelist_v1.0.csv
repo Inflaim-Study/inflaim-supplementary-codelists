@@ -1,0 +1,490 @@
+,autoimmune_site,cprd_readcode,description,OriginalReadCode,CleansedReadCode,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,Term
+0,seronegative arthritis,M160.00,Psoriatic arthropathy,M160,M160.00,55627011.0,33339001.0,55627011.0,Psoriatic arthropathy
+1,inflammatory bowel disease,J40..11,Crohn's disease,J40-1,J40..11,56765016.0,34000006.0,56765016.0,Crohn's disease
+2,inflammatory bowel disease,J410100,Ulcerative colitis,J4101,J410100,107644019.0,64766004.0,107644019.0,Ulcerative colitis
+3,cardiovascular,G0...00,Rheumatic fever without mention of heart involvement,G0,G0...00,44257011.0,26424001.0,44257011.0,Acute rheumatic fever
+4,scleroderma,M210300,Morphoea,M2103,M210300,308867019.0,201049004.0,308867019.0,Morphoea
+5,rheumatoid,N040.00,Rheumatoid arthritis,N040,N040.00,116082011.0,69896004.0,116082011.0,Rheumatoid arthritis
+6,polymyalgia,N20..00,Polymyalgia rheumatica,N20,N20..00,108529013.0,65323003.0,108529013.0,Polymyalgia rheumatica
+7,vasculitis,D310000,Henoch-Schonlein purpura,D3100,D310000,294337012.0,191306005.0,294337012.0,Henoch-Schonlein purpura
+8,vasculitis,G76B.00,Vasculitis,G76B,G76B.00,53457013.0,31996006.0,53457013.0,Vasculitis
+9,vasculitis,G750.00,Polyarteritis nodosa,G750,G750.00,242065019.0,155441006.0,242065019.0,Polyarteritis nodosa
+10,inflammatory bowel disease,J4...11,Colitis - noninfective,J4-1,J4...11,572041000006116.0,14066009.0,23955011.0,Colitis - noninfective
+11,inflammatory bowel disease,J41..12,Ulcerative colitis and/or proctitis,J41-2,J41..12,85931000006112.0,295046003.0,435370011.0,Ulcerative colitis and/or proctitis
+12,inflammatory bowel disease,J4...12,Inflammatory bowel disease,J4-2,J4...12,41137017.0,24526004.0,41137017.0,Inflammatory bowel disease
+13,renal,K011.00,Nephrotic syndrome with membranous glomerulonephritis,K011,K011.00,303826014.0,197590001.0,303826014.0,Nephrotic syndrome with membranous glomerulonephritis
+14,seronegative arthritis,N10z.00,Spondylitis NOS,N10z,N10z.00,311045018.0,84172003.0,139589017.0,Spondylitis NOS
+15,renal,K00..00,Acute glomerulonephritis,K00,K00..00,32619017.0,19351000.0,32619017.0,Acute glomerulonephritis
+16,seronegative arthritis,N100.00,Ankylosing spondylitis,N100,N100.00,16833013.0,9631008.0,16833013.0,Ankylosing spondylitis
+17,seronegative arthritis,A993.11,Reiter's syndrome,A993-1,A993.11,111690011.0,67224007.0,111688010.0,Reiter's syndrome
+18,renal,K01x100,Nephrotic syndrome in diabetes mellitus,K01x1,K01x100,303846016.0,197605007.0,303846016.0,Nephrotic syndrome in diabetes mellitus
+19,renal,C104.11,Diabetic nephropathy,C104-1,C104.11,205225016.0,127013003.0,205225016.0,Diabetic nephropathy
+20,pemphigus & pemphigoid,M145.00,Pemphigoid,M145,M145.00,142845014.0,86142006.0,142845014.0,Pemphigoid
+21,renal,K0...00,"Nephritis, nephrosis and nephrotic syndrome",K0,K0...00,303806010.0,197577008.0,303806010.0,"Nephritis, nephrosis and nephrotic syndrome"
+22,renal,K01..00,Nephrotic syndrome,K01,K01..00,86957016.0,52254009.0,86957016.0,Nephrotic syndrome
+23,polymyalgia,N20..11,Polymyalgia,N20-1,N20..11,158050019.0,65323003.0,108529013.0,Polymyalgia
+24,polymyalgia,G755100,Temporal arteritis,G7551,G755100,1779388019.0,400130008.0,1779388019.0,Temporal arteritis
+25,scleroderma,N001.00,Scleroderma,N001,N001.00,309413012.0,89155008.0,147835019.0,Scleroderma
+26,sarcoid,AD5..00,Sarcoidosis,AD5,AD5..00,52728016.0,31541009.0,52728016.0,Sarcoidosis
+27,seronegative arthritis,N01w.00,"Reactive arthropathy, unspecified",N01w,N01w.00,309560018.0,239783001.0,359275015.0,"Reactive arthropathy, unspecified"
+28,lupus,M154.00,Lupus erythematosus,M154,M154.00,308697013.0,200936003.0,308697013.0,Lupus erythematosus
+29,rheumatoid,N043.00,Juvenile rheumatoid arthritis - Still's disease,N043,N043.00,755441000006119.0,410795001.0,2472447010.0,Juvenile rheumatoid arthritis - Still's disease
+30,vasculitis,G766.00,Arteritis unspecified,G766,G766.00,395799018.0,52089001.0,86704014.0,Arteritis unspecified
+31,renal,K02y200,Chronic focal glomerulonephritis,K02y2,K02y200,303867016.0,197618004.0,303867016.0,Chronic focal glomerulonephritis
+32,vasculitis,G754.00,Wegener's granulomatosis,G754,G754.00,300579010.0,195353004.0,300579010.0,Wegener's granulomatosis
+33,renal,K03..11,Nephritis and nephropathy unspecified,K03-1,K03..11,396707019.0,52845002.0,87940013.0,Nephritis and nephropathy unspecified
+34,dermatomyositis,N003.00,Dermatomyositis,N003,N003.00,1776211019.0,396230008.0,1776211019.0,Dermatomyositis
+35,inflammatory bowel disease,J41..00,Idiopathic proctocolitis,J41,J41..00,2579429013.0,64766004.0,2579429013.0,Idiopathic proctocolitis
+36,renal,K03z.00,Unspecified glomerulonephritis NOS,K03z,K03z.00,303907019.0,36171008.0,60355017.0,Unspecified glomerulonephritis NOS
+37,vasculitis,M152.11,Nodular vasculitis,M152-1,M152.11,91895012.0,55275006.0,91895012.0,Nodular vasculitis
+38,renal,K031.00,Membranous nephritis unspecified,K031,K031.00,303875010.0,77182004.0,128137019.0,Membranous nephritis unspecified
+39,cardiovascular,G02..00,Rheumatic chorea without heart involvement,G02,G02..00,78053017.0,46826000.0,78053017.0,Rheumatic chorea
+40,renal,K00..11,Acute nephritis,K00-1,K00..11,102173012.0,61503006.0,102173012.0,Acute nephritis
+41,inflammatory bowel disease,J4...00,Noninfective enteritis and colitis,J4,J4...00,585591000006118.0,307418008.0,450679011.0,Noninfective enteritis and colitis
+42,dermatomyositis,N241100,Myositis unspecified,N2411,N241100,311701010.0,26889001.0,44991019.0,Myositis unspecified
+43,liver,J616000,Primary biliary cirrhosis,J6160,J616000,52980015.0,31712002.0,52980015.0,Primary biliary cirrhosis
+44,rheumatoid,N042200,Rheumatoid nodule,N0422,N042200,485614018.0,33719002.0,485614018.0,Rheumatoid nodule
+45,vasculitis,G751000,Kawasaki disease,G7510,G751000,124653012.0,75053002.0,124653012.0,Kawasaki disease
+46,inflammatory bowel disease,J401z11,Crohn's colitis,J401z-1,J401z11,601031000006119.0,50440006.0,1230866018.0,Crohn's colitis
+47,inflammatory bowel disease,J410.00,Ulcerative proctocolitis,J410,J410.00,435370011.0,295046003.0,435370011.0,Ulcerative proctocolitis
+48,seronegative arthritis,N040P00,Seronegative rheumatoid arthritis,N040P,N040P00,359292012.0,239792003.0,359292012.0,Seronegative rheumatoid arthritis
+49,seronegative arthritis,N045.00,Other juvenile arthritis,N045,N045.00,309829012.0,239796000.0,359297018.0,Other juvenile arthritis
+50,vasculitis,N33z500,Relapsing polychondritis,N33z5,N33z500,120088018.0,72275000.0,120088018.0,Relapsing polychondritis
+51,lupus,M154z00,Lupus erythematosus NOS,M154z,M154z00,308709013.0,200936003.0,308697013.0,Lupus erythematosus NOS
+52,renal,K02..00,Chronic glomerulonephritis,K02,K02..00,35171019.0,20917003.0,35171019.0,Chronic glomerulonephritis
+53,lupus,N000.00,Systemic lupus erythematosus,N000,N000.00,92208011.0,55464009.0,92208011.0,Systemic lupus erythematosus
+54,liver,J614111,Autoimmune chronic active hepatitis,J6141-1,J614111,303404016.0,197284004.0,303404016.0,Autoimmune chronic active hepatitis
+55,seronegative arthritis,N013.00,Postdysenteric reactive arthropathy,N013,N013.00,217651000006113.0,56528004.0,497640014.0,Postdysenteric reactive arthropathy
+56,seronegative arthritis,A993.00,Reiter's disease / syndrome,A993,A993.00,179891000006115.0,67224007.0,111688010.0,Reiter's disease / syndrome
+57,inflammatory bowel disease,J4z3.00,Non-infective colitis NOS,J4z3,J4z3.00,303051014.0,14066009.0,23955011.0,Non-infective colitis NOS
+58,inflammatory bowel disease,J410300,Ulcerative proctitis,J4103,J410300,496249010.0,52231000.0,496249010.0,Ulcerative proctitis
+59,rheumatoid,N040T00,Flare of rheumatoid arthritis,N040T,N040T00,309816012.0,201791009.0,309816012.0,Flare of rheumatoid arthritis
+60,rheumatoid,N042000,Rheumatoid arthritis with involvement of oth organs and sys,N0420,N042000,39771016.0,23685000.0,39771016.0,Rheumatic carditis
+61,scleroderma,M210100,Localised dermatosclerosis,M2101,M210100,308864014.0,201048007.0,308864014.0,Localised dermatosclerosis
+62,inflammatory bowel disease,J400z00,Crohn's disease of the small bowel NOS,J400z,J400z00,302941017.0,56689002.0,94270018.0,Crohn's disease of the small bowel NOS
+63,renal,K08y500,Acute interstitial nephritis,K08y5,K08y500,47940012.0,28637003.0,47940012.0,Acute interstitial nephritis
+64,rheumatoid,N047.00,Seropositive errosive rheumatoid arthritis,N047,N047.00,451461014.0,308143008.0,3517964017.0,Seropositive errosive rheumatoid arthritis
+65,inflammatory bowel disease,J4z2.00,Non-infective ileitis NOS,J4z2,J4z2.00,303050010.0,51151007.0,85221013.0,Non-infective ileitis NOS
+66,renal,K010.00,Nephrotic syndrome with proliferative glomerulonephritis,K010,K010.00,303825013.0,197589005.0,303825013.0,Nephrotic syndrome with proliferative glomerulonephritis
+67,polymyalgia,G755000,Cranial arteritis,G7550,G755000,1787109017.0,400130008.0,1787109017.0,Cranial arteritis
+68,pemphigus & pemphigoid,M145000,Bullous pemphigoid,M1450,M145000,127980014.0,77090002.0,127980014.0,Bullous pemphigoid
+69,vasculitis,M2y0X00,"Vasculitis limited to skin, unspecified",M2y0X,M2y0X00,65971000006112.0,53312001.0,88651012.0,"Vasculitis limited to skin, unspecified"
+70,polymyalgia,G755.00,Giant cell arteritis,G755,G755.00,2534171012.0,414341000.0,2534171012.0,Giant cell arteritis
+71,renal,K02..11,Nephritis - chronic,K02-1,K02..11,677941000006114.0,197707007.0,304004016.0,Nephritis - chronic
+72,renal,K021.00,Chronic membranous glomerulonephritis,K021,K021.00,555201000006116.0,77182004.0,128137019.0,Chronic membranous glomerulonephritis
+73,inflammatory bowel disease,ZR3S.11,CDAI - Crohn's disease activity index,,,,,,
+74,inflammatory bowel disease,J40..00,Regional enteritis - Crohn's disease,J40,J40..00,179501000006113.0,34000006.0,485713019.0,Regional enteritis - Crohn's disease
+75,inflammatory bowel disease,ZR3S.00,Crohn's disease activity index,,,,,,
+76,scleroderma,M2y0500,Lipodermatosclerosis,M2y05,M2y0500,742821000006115.0,410016009.0,2471746019.0,Lipodermatosclerosis
+77,inflammatory bowel disease,J435.00,Pouchitis,J435,J435.00,198441000000117.0,426508001.0,2674151012.0,Pouchitis
+78,renal,K03..12,"Nephropathy, unspecified",K03-2,K03..12,354320010.0,90708001.0,150322011.0,"Nephropathy, unspecified"
+79,renal,K02..12,Nephropathy - chronic,K02-2,K02..12,678061000006111.0,90708001.0,150322011.0,Nephropathy - chronic
+80,lupus,N000400,Systemic lupus erythematosus with organ or sys involv,N0004,N000400,453243010.0,309762007.0,453243010.0,Systemic lupus erythematosus with pericarditis
+81,rheumatoid,N04X.00,"Seropositive rheumatoid arthritis, unspecified",N04X,N04X.00,149911000006117.0,239791005.0,359291017.0,"Seropositive rheumatoid arthritis, unspecified"
+82,renal,K032.00,Membranoproliferative nephritis unspecified,K032,K032.00,303876011.0,52845002.0,87940013.0,Membranoproliferative nephritis unspecified
+83,seronegative arthritis,M160z00,Psoriatic arthropathy NOS,M160z,M160z00,308730016.0,33339001.0,55627011.0,Psoriatic arthropathy NOS
+84,inflammatory bowel disease,N045300,Juvenile arthritis in Crohn's disease,N0453,N045300,309833017.0,201805000.0,309833017.0,Juvenile arthritis in Crohn's disease
+85,renal,C10FC00,Type 2 diabetes mellitus with nephropathy,C10FC,C10FC00,914261000006119.0,420279001.0,3035432019.0,Type 2 diabetes mellitus with nephropathy
+86,cardiovascular,G0z..00,Rheumatic fever without mention of heart involvement,G0z,G0z..00,299578013.0,26424001.0,44256019.0,Acute rheumatic fever NOS
+87,renal,K02z.00,Chronic glomerulonephritis NOS,K02z,K02z.00,303870017.0,20917003.0,35171019.0,Chronic glomerulonephritis NOS
+88,dermatomyositis,N231100,Progressive myositis ossificans,N2311,N231100,137233019.0,82725007.0,137233019.0,Progressive myositis ossificans
+89,cardiovascular,G14z.00,"Rheumatic diseases of endocardium, valve unspecified",G14z,G14z.00,395750017.0,48872007.0,81438018.0,Rheumatic endocarditis NOS
+90,inflammatory bowel disease,J41z.00,Idiopathic proctocolitis NOS,J41z,J41z.00,302962016.0,64766004.0,2579429013.0,Idiopathic proctocolitis NOS
+91,pemphigus & pemphigoid,M144.00,Pemphigus,M144,M144.00,108297019.0,65172003.0,108297019.0,Pemphigus
+92,liver,J661700,Primary sclerosing cholangitis,J6617,J661700,303614019.0,197441003.0,303614019.0,Primary sclerosing cholangitis
+93,dermatomyositis,N004.00,Polymyositis,N004,N004.00,52463013.0,31384009.0,52463013.0,Polymyositis
+94,pemphigus & pemphigoid,M07y200,Dermatitis vegetans,M07y2,M07y200,25148011.0,14800001.0,25148011.0,Dermatitis vegetans
+95,inflammatory bowel disease,J4z4.00,Non-infective sigmoiditis NOS,J4z4,J4z4.00,303052019.0,235765004.0,353430013.0,Non-infective sigmoiditis NOS
+96,inflammatory bowel disease,J402.00,Regional ileocolitis,J402,J402.00,302946010.0,196983007.0,302946010.0,Regional ileocolitis
+97,renal,K0z..00,"Nephritis, nephrosis and nephrotic syndrome NOS",K0z,K0z..00,304058013.0,90708001.0,150315015.0,"Nephritis, nephrosis and nephrotic syndrome NOS"
+98,renal,K030.00,Proliferative nephritis unspecified,K030,K030.00,303874014.0,52845002.0,87940013.0,Proliferative nephritis unspecified
+99,vasculitis,AD61.00,Behcet's syndrome,AD61,AD61.00,454287012.0,310701003.0,454287012.0,Behcet's syndrome
+100,dermatomyositis,F4G1200,Orbital myositis,F4G12,F4G1200,133866014.0,80698001.0,133866014.0,Orbital myositis
+101,renal,K01B.00,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",K01B,K01B.00,303839013.0,197600002.0,303839013.0,"Nephrotic syndrome, diffuse crescentic glomerulonephritis"
+102,rheumatoid,66H..13,Rheumatoid arthrit. monitoring,66H-3,66H..13,219021000000114.0,275902004.0,411871019.0,Rheumatoid arthrit. monitoring
+103,inflammatory bowel disease,N031000,Arthropathy in ulcerative colitis,N0310,N031000,309743013.0,201727001.0,309743013.0,Arthropathy in ulcerative colitis
+104,scleroderma,N001100,CREST syndrome,N0011,N001100,53211014.0,31848007.0,53211014.0,CREST syndrome
+105,pemphigus & pemphigoid,M145100,Benign pemphigus NOS,M1451,M145100,308661016.0,200902009.0,308653014.0,Benign pemphigus NOS
+106,pemphigus & pemphigoid,M142.11,Juvenile pemphigoid,M142-1,M142.11,358098014.0,238941009.0,358098014.0,Juvenile pemphigoid
+107,rheumatoid,N040Q00,Rheumatoid bursitis,N040Q,N040Q00,309812014.0,84017003.0,139318017.0,Rheumatoid bursitis
+108,vasculitis,G759.00,Juvenile polyarteritis,G759,G759.00,300593015.0,195363007.0,300593015.0,Juvenile polyarteritis
+109,liver,J63B.00,Autoimmune hepatitis,J63B,J63B.00,2159899016.0,408335007.0,2159899016.0,Autoimmune hepatitis
+110,vasculitis,G757.11,Aortic arch arteritis,G757-1,G757.11,475140019.0,359789008.0,475138012.0,Aortic arch arteritis
+111,renal,K016.00,"Nephrotic syndrome, diffuse membranous glomerulonephritis",K016,K016.00,303834015.0,197595006.0,303834015.0,"Nephrotic syndrome, diffuse membranous glomerulonephritis"
+112,lupus,N000000,Disseminated lupus erythematosus,N0000,N000000,92209015.0,55464009.0,92209015.0,Disseminated lupus erythematosus
+113,renal,K00y000,Acute glomerulonephritis in diseases EC,K00y0,K00y000,303816019.0,197582001.0,303816019.0,Acute glomerulonephritis in diseases EC
+114,renal,K00..12,Bright's disease,K00-2,K00..12,354351015.0,61503006.0,102173012.0,Bright's disease
+115,renal,K00z.00,Acute glomerulonephritis NOS,K00z,K00z.00,303824012.0,19351000.0,32619017.0,Acute glomerulonephritis NOS
+116,cardiovascular,G02..11,Rheumatic chorea without heart involvement,G02-1,G02..11,78055012.0,46826000.0,78055012.0,Sydenham's chorea
+117,inflammatory bowel disease,J43z.00,Other non-infective gastroenteritis and colitis NOS,J43z,J43z.00,396366011.0,25374005.0,42550011.0,Other non-infective gastroenteritis and colitis NOS
+118,vasculitis,C332100,Cryoglobulinaemic vasculitis,C3321,C332100,293373010.0,190815001.0,293373010.0,Cryoglobulinaemic vasculitis
+119,inflammatory bowel disease,N031100,Arthropathy in Crohn's disease,N0311,N031100,309744019.0,201728006.0,309744019.0,Arthropathy in Crohn's disease
+120,vasculitis,G752.00,Hypersensitivity angiitis,G752,G752.00,100606014.0,60555002.0,100606014.0,Hypersensitivity angiitis
+121,seronegative arthritis,N04..11,Inflammatory polyarthropathy,N04-1,N04..11,2548331017.0,417373000.0,2548331017.0,Inflammatory polyarthropathy
+122,inflammatory bowel disease,J401z00,Crohn's disease of the large bowel NOS,J401z,J401z00,396357012.0,7620006.0,13585013.0,Crohn's disease of the large bowel NOS
+123,renal,K0A3.00,Chronic nephritic syndrome,K0A3,K0A3.00,304004016.0,197707007.0,304004016.0,Chronic nephritic syndrome
+124,rheumatoid,N040200,Rheumatoid arthritis of shoulder,N0402,N040200,309789018.0,201766009.0,309789018.0,Rheumatoid arthritis of shoulder
+125,renal,K032600,Berger's IgA or IgG nephropathy,K0326,K032600,303884010.0,197632002.0,303884010.0,Berger's IgA or IgG nephropathy
+126,seronegative arthritis,M160200,Arthritis mutilans,M1602,M160200,32869011.0,19514005.0,32869011.0,Arthritis mutilans
+127,rheumatoid,N043200,Pauciarticular juvenile rheumatoid arthritis,N0432,N043200,123542016.0,74391003.0,502690012.0,Pauciarticular juvenile rheumatoid arthritis
+128,vasculitis,G758.00,Churg-Strauss vasculitis,G758,G758.00,557151000006115.0,82275008.0,136476013.0,Churg-Strauss vasculitis
+129,vasculitis,G756100,Thrombotic thrombocytopenic purpura,G7561,G756100,129661016.0,78129009.0,129661016.0,Thrombotic thrombocytopenic purpura
+130,renal,K017.00,Nephrotic syn difus mesangial prolifertiv glomerulonephritis,K017,K017.00,677461000006115.0,197596007.0,303835019.0,Nephrotic syn difus mesangial prolifertiv glomerulonephritis
+131,renal,K019.00,"Nephrotic syn,diffuse mesangiocapillary glomerulonephritis",K019,K019.00,677471000006110.0,197598008.0,303837010.0,"Nephrotic syn,diffuse mesangiocapillary glomerulonephritis"
+132,lupus,K01x411,Lupus nephritis,K01x4-1,K01x411,114310015.0,68815009.0,114310015.0,Lupus nephritis
+133,vasculitis,G674.00,Cerebral arteritis,G674,G674.00,47484015.0,28366008.0,47484015.0,Cerebral arteritis
+134,inflammatory bowel disease,J410400,Exacerbation of ulcerative colitis,J4104,J410400,2532953017.0,414156000.0,2532953017.0,Exacerbation of ulcerative colitis
+135,seronegative arthritis,N038.00,Reactive arthropathies,N038,N038.00,192631000006118.0,67224007.0,2841236015.0,Reactive arthropathies
+136,renal,K015.00,"Nephrotic syndrome, focal and segmental glomerular lesions",K015,K015.00,303833014.0,197594005.0,303833014.0,"Nephrotic syndrome, focal and segmental glomerular lesions"
+137,vasculitis,D310100,Henoch-Schonlein nephritis,D3101,D310100,354514013.0,236504007.0,354514013.0,Henoch-Schonlein nephritis
+138,vasculitis,G731000,Buerger's disease,G7310,G731000,87210015.0,52403007.0,87210015.0,Buerger's disease
+139,vasculitis,G766.11,Aortitis,G766-1,G766.11,117829013.0,70933002.0,117829013.0,Aortitis
+140,vasculitis,G752z00,Hypersensitivity angiitis NOS,G752z,G752z00,300577012.0,60555002.0,100606014.0,Hypersensitivity angiitis NOS
+141,cardiovascular,G01y000,Other acute rheumatic heart disease,G01y0,G01y000,106492016.0,64072006.0,106492016.0,Acute rheumatic pancarditis
+142,seronegative arthritis,N04yz00,Other specified inflammatory polyarthropathy NOS,N04yz,N04yz00,309849015.0,417373000.0,2548331017.0,Other specified inflammatory polyarthropathy NOS
+143,rheumatoid,N005.00,Adult Still's Disease,N005,N005.00,463281000006113.0,239920006.0,359482019.0,Adult Still's Disease
+144,renal,K014.00,"Nephrotic syndrome, minor glomerular abnormality",K014,K014.00,303832016.0,197593004.0,303832016.0,"Nephrotic syndrome, minor glomerular abnormality"
+145,inflammatory bowel disease,J41..11,Mucous colitis and/or proctitis,J41-1,J41..11,696071000006114.0,43752006.0,72962011.0,Mucous colitis and/or proctitis
+146,renal,K03T.00,"Tubulo-interstit nephritis, not specif as acute or chron",K03T,K03T.00,83331000006110.0,428255004.0,2694843016.0,"Tubulo-interstit nephritis, not specif as acute or chron"
+147,inflammatory bowel disease,J41y.00,Other idiopathic proctocolitis,J41y,J41y.00,302959019.0,418130002.0,2576688010.0,Other idiopathic proctocolitis
+148,cardiovascular,G010.00,Acute rheumatic pericarditis,G010,G010.00,26565015.0,15676002.0,26565015.0,Acute rheumatic pericarditis
+149,scleroderma,M210.00,Circumscribed scleroderma,M210,M210.00,308859010.0,201048007.0,308859010.0,Circumscribed scleroderma
+150,seronegative arthritis,N04z.00,Inflammatory polyarthropathy NOS,N04z,N04z.00,309850015.0,417373000.0,2548331017.0,Inflammatory polyarthropathy NOS
+151,renal,C109C12,Type 2 diabetes mellitus with nephropathy,C109C-2,C109C12,84551000006113.0,420279001.0,3035432019.0,Type 2 diabetes mellitus with nephropathy
+152,lupus,M154700,Subacute cutaneous lupus erythematosus,M1547,M154700,359447015.0,239891002.0,359447015.0,Subacute cutaneous lupus erythematosus
+153,scleroderma,M210400,Linear scleroderma,M2104,M210400,38247018.0,22784002.0,38247018.0,Linear scleroderma
+154,pemphigus & pemphigoid,M144600,Pemphigus vulgaris,M1446,M144600,82318018.0,49420001.0,82318018.0,Pemphigus vulgaris
+155,scleroderma,M210411,Linear morphoea,M2104-1,M210411,481428012.0,22784002.0,481428012.0,Linear morphoea
+156,seronegative arthritis,M160000,Psoriasis spondylitica,M1600,M160000,198881000006116.0,200956002.0,308727011.0,Psoriasis spondylitica
+157,sarcoid,J63A.00,Hepatic granulomas in sarcoidosis,J63A,J63A.00,303525019.0,197368002.0,303525019.0,Hepatic granulomas in sarcoidosis
+158,vasculitis,G752000,Goodpasture's syndrome,G7520,G752000,84262013.0,50581000.0,84262013.0,Goodpasture's syndrome
+159,renal,K03y000,Other nephritis and nephrosis in diseases EC,K03y0,K03y000,303903015.0,90708001.0,150315015.0,Other nephritis and nephrosis in diseases EC
+160,renal,K01z.00,Nephrotic syndrome NOS,K01z,K01z.00,303855018.0,52254009.0,86957016.0,Nephrotic syndrome NOS
+161,dermatomyositis,N241.00,Myalgia and myositis unspecified,N241,N241.00,311696015.0,203108005.0,311696015.0,Myalgia and myositis unspecified
+162,rheumatoid,N043z00,Juvenile rheumatoid arthritis NOS,N043z,N043z00,309828016.0,410795001.0,2472447010.0,Juvenile rheumatoid arthritis NOS
+163,rheumatoid,N04..00,Rheumatoid arthritis and other inflammatory polyarthropathy,N04,N04..00,168751000006115.0,69896004.0,116082011.0,Rheumatoid arthritis and other inflammatory polyarthropathy
+164,sarcoid,AD53.00,Sarcoidosis of skin,AD53,AD53.00,1231546012.0,55941000.0,1231546012.0,Sarcoidosis of skin
+165,dermatomyositis,N003X00,"Dermatopolymyositis, unspecified",N003X,N003X00,614691000006113.0,396230008.0,1776211019.0,"Dermatopolymyositis, unspecified"
+166,scleroderma,N001.12,Systemic sclerosis,N001-2,N001.12,147833014.0,89155008.0,147833014.0,Systemic sclerosis
+167,seronegative arthritis,N045200,Juvenile arthritis in psoriasis,N0452,N045200,359310019.0,239803008.0,359310019.0,Juvenile arthritis in psoriasis
+168,inflammatory bowel disease,J400200,Crohn's disease of the terminal ileum,J4002,J400200,601091000006115.0,196977009.0,302938014.0,Crohn's disease of the terminal ileum
+169,sarcoid,AD53000,Lupus pernio,AD530,AD53000,502127019.0,72470008.0,502127019.0,Lupus pernio
+170,renal,K000.00,Acute proliferative glomerulonephritis,K000,K000.00,303812017.0,197579006.0,303812017.0,Acute proliferative glomerulonephritis
+171,polymyalgia,N200.00,Giant cell arteritis with polymyalgia rheumatica,N200,N200.00,359513016.0,239938009.0,359513016.0,Giant cell arteritis with polymyalgia rheumatica
+172,lupus,N000300,Systemic lupus erythematosus with organ or sys involv,N0003,N000300,114251000006118.0,239887007.0,359443016.0,Systemic lupus erythematosus with organ or sys involv
+173,inflammatory bowel disease,J08z900,Orofacial Crohn's disease,J08z9,J08z900,302322010.0,196578009.0,302322010.0,Orofacial Crohn's disease
+174,renal,K013.00,Nephrotic syndrome with minimal change glomerulonephritis,K013,K013.00,396706011.0,266549004.0,396706011.0,Nephrotic syndrome with minimal change glomerulonephritis
+175,renal,K03X.00,"Unsp nephrit synd, diff mesang prolif glomerulonephritis",K03X,K03X.00,81261000006110.0,197679002.0,303967017.0,"Unsp nephrit synd, diff mesang prolif glomerulonephritis"
+176,inflammatory bowel disease,J411.00,Ulcerative (chronic) enterocolitis,J411,J411.00,85891000006115.0,235714007.0,353357011.0,Ulcerative (chronic) enterocolitis
+177,vasculitis,G75X.00,"Necrotising vasculopathy, unspecified",G75X,G75X.00,681411000006118.0,943291000000106.0,2413281000000118.0,"Necrotising vasculopathy, unspecified"
+178,vasculitis,N040N00,Rheumatoid vasculitis,N040N,N040N00,1779323014.0,400054000.0,1779323014.0,Rheumatoid vasculitis
+179,inflammatory bowel disease,J4z5.00,Exacerbation of non-infective colitis,J4z5,J4z5.00,2532959018.0,414155001.0,2532959018.0,Exacerbation of non-infective colitis
+180,inflammatory bowel disease,J436.00,Microscopic colitis,J436,J436.00,353418019.0,235753003.0,353418019.0,Microscopic colitis
+181,rheumatoid,N040S00,Rheumatoid arthritis - multiple joint,N040S,N040S00,426510015.0,287006005.0,426510015.0,Rheumatoid arthritis - multiple joint
+182,seronegative arthritis,N045100,Juvenile seronegative polyarthritis,N0451,N045100,2472449013.0,410797009.0,2472449013.0,Juvenile seronegative polyarthritis
+183,rheumatoid,F396400,Myopathy due to rheumatoid arthritis,F3964,F396400,297641010.0,193250002.0,297641010.0,Myopathy due to rheumatoid arthritis
+184,rheumatoid,N045500,Juvenile rheumatoid arthritis,N0455,N045500,2472447010.0,410795001.0,2472447010.0,Juvenile rheumatoid arthritis
+185,seronegative arthritis,N011x00,Sexually acquired reactive arthropathy of multiple sites,N011x,N011x00,309477016.0,201481004.0,309477016.0,Sexually acquired reactive arthropathy of multiple sites
+186,renal,K0A0.00,Acute nephritic syndrome,K0A0,K0A0.00,499033018.0,61503006.0,499033018.0,Acute nephritic syndrome
+187,rheumatoid,N04y200,Adult-onset Still's disease,N04y2,N04y200,463301000006112.0,239920006.0,359482019.0,Adult-onset Still's disease
+188,seronegative arthritis,M160100,Distal interphalangeal psoriatic arthropathy,M1601,M160100,359321011.0,239812005.0,359321011.0,Distal interphalangeal psoriatic arthropathy
+189,pemphigus & pemphigoid,M144300,Foliaceous pemphigus,M1443,M144300,763291000006118.0,35154004.0,1228251016.0,Foliaceous pemphigus
+190,dermatomyositis,N003000,Juvenile dermatomyositis,N0030,N003000,1784692011.0,1212005.0,1784692011.0,Juvenile dermatomyositis
+191,rheumatoid,2G27.00,O/E-hands-rheumatoid spindling,2G27,2G27.00,255925015.0,164456005.0,255925015.0,O/E-hands-rheumatoid spindling
+192,lupus,M154000,Lupus erythematosus chronicus,M1540,M154000,308700012.0,200937007.0,308700012.0,Lupus erythematosus chronicus
+193,inflammatory bowel disease,J410z00,Ulcerative proctocolitis NOS,J410z,J410z00,302956014.0,295046003.0,435370011.0,Ulcerative proctocolitis NOS
+194,renal,K03..00,Nephritis and nephropathy unspecified,K03,K03..00,677951000006111.0,52845002.0,87940013.0,Nephritis and nephropathy unspecified
+195,seronegative arthritis,N01w900,Reactive arthropathy of hip,N01w9,N01w900,309570016.0,201567003.0,309570016.0,Reactive arthropathy of hip
+196,vasculitis,G757.12,Pulseless disease,G757-2,G757.12,475145012.0,359789008.0,475145012.0,Pulseless disease
+197,cardiovascular,G5y7.00,Myocarditis in other diseases classified elsewhere,G5y7,G5y7.00,1494958019.0,195033009.0,1494958019.0,Sarcoid myocarditis
+198,vasculitis,G731.00,Thromboangiitis obliterans,G731,G731.00,87208017.0,52403007.0,87208017.0,Thromboangiitis obliterans
+199,renal,K03y200,Other interstitial nephritis,K03y2,K03y200,303905010.0,28689008.0,48036015.0,Other interstitial nephritis
+200,vasculitis,K425200,Ulceration of vulva in Behcet's disease,K4252,K425200,304769016.0,198231000.0,304769016.0,Ulceration of vulva in Behcet's disease
+201,cardiovascular,M15y600,Rheumatic fever without mention of heart involvement,M15y6,M15y600,308719019.0,200951007.0,308719019.0,Erythema marginatum in acute rheumatic fever
+202,renal,K020.00,Chronic proliferative glomerulonephritis,K020,K020.00,556211000006112.0,197613008.0,303862010.0,Chronic proliferative glomerulonephritis
+203,renal,K03y.00,Other nephritis and nephrosis unspecified,K03y,K03y.00,303902013.0,90708001.0,150315015.0,Other nephritis and nephrosis unspecified
+204,renal,C104z00,Diabetes mellitis with nephropathy NOS,C104z,C104z00,292496015.0,127013003.0,301016.0,Diabetes mellitis with nephropathy NOS
+205,inflammatory bowel disease,J436100,Lymphocytic colitis,J4361,J436100,52549017.0,31437008.0,52549017.0,Lymphocytic colitis
+206,renal,K03U.00,"Unspecif nephr synd, diff concentric glomerulonephritis",K03U,K03U.00,81581000006119.0,64212008.0,106739010.0,"Unspecif nephr synd, diff concentric glomerulonephritis"
+207,rheumatoid,N043300,Monarticular juvenile rheumatoid arthritis,N0433,N043300,309827014.0,201799006.0,309827014.0,Monarticular juvenile rheumatoid arthritis
+208,renal,K032y13,Mesangioproliferative glomerulonephritis NEC,K032y-3,K032y13,354347017.0,197613008.0,303860019.0,Mesangioproliferative glomerulonephritis NEC
+209,seronegative arthritis,N04y.00,Other specified inflammatory polyarthropathy,N04y,N04y.00,309841017.0,3723001.0,7278014.0,Other specified inflammatory polyarthropathy
+210,cardiovascular,G011.00,Acute rheumatic endocarditis,G011,G011.00,30726017.0,18192007.0,30726017.0,Acute rheumatic endocarditis
+211,inflammatory bowel disease,J400500,Exacerbation of Crohn's disease of small intestine,J4005,J400500,2532958014.0,414154002.0,2532958014.0,Exacerbation of Crohn's disease of small intestine
+212,lupus,N000200,Drug-induced systemic lupus erythematosus,N0002,N000200,309405011.0,201436003.0,309405011.0,Drug-induced systemic lupus erythematosus
+213,seronegative arthritis,2377.00,O/E - ankyl.spondyl.chest def.,2377,2377.00,253940015.0,162930007.0,2668362011.0,O/E - ankyl.spondyl.chest def.
+214,dermatomyositis,N241200,Fibromyositis NOS,N2412,N241200,311702015.0,24693007.0,41382010.0,Fibromyositis NOS
+215,rheumatoid,N042z00,Rheumatoid arthropathy + visceral/systemic involvement NOS,N042z,N042z00,162231000006117.0,239793008.0,359293019.0,Rheumatoid arthropathy + visceral/systemic involvement NOS
+216,pemphigus & pemphigoid,M146.00,Benign mucous membrane pemphigoid,M146,M146.00,57191017.0,34250006.0,485796014.0,Benign mucous membrane pemphigoid
+217,scleroderma,M210500,Sclerodactyly,M2105,M210500,308870015.0,201051000.0,308870015.0,Sclerodactyly
+218,pemphigus & pemphigoid,F4Cy100,Ocular pemphigoid,F4Cy1,F4Cy100,267631000006119.0,34250006.0,485794012.0,Ocular pemphigoid
+219,vasculitis,G757.00,Takayasu's disease,G757,G757.00,475138012.0,359789008.0,475138012.0,Takayasu's disease
+220,vasculitis,G42y000,Pulmonary arteritis,G42y0,G42y000,30382015.0,17993000.0,30382015.0,Pulmonary arteritis
+221,inflammatory bowel disease,J401200,Exacerbation of Crohn's disease of large intestine,J4012,J401200,2532950019.0,414153008.0,2532950019.0,Exacerbation of Crohn's disease of large intestine
+222,inflammatory bowel disease,J436000,Collagenous colitis,J4360,J436000,32563019.0,19311003.0,32563019.0,Collagenous colitis
+223,inflammatory bowel disease,J400400,Crohn's disease of the ileum NOS,J4004,J400400,302940016.0,38106008.0,64705019.0,Crohn's disease of the ileum NOS
+224,dermatomyositis,N23y000,Interstitial myositis,N23y0,N23y000,93019012.0,55925001.0,93019012.0,Interstitial myositis
+225,vasculitis,G731100,Presenile gangrene,G7311,G731100,300502019.0,195299000.0,300502019.0,Presenile gangrene
+226,pemphigus & pemphigoid,M146011,Cicatricial pemphigoid,M1460-1,M146011,57192012.0,34250006.0,57192012.0,Cicatricial pemphigoid
+227,renal,K013.11,Lipoid nephrosis,K013-1,K013.11,74720014.0,44785005.0,74720014.0,Lipoid nephrosis
+228,dermatomyositis,N003.11,Poikilodermatomyositis,N003-1,N003.11,143230018.0,396230008.0,1776211019.0,Poikilodermatomyositis
+229,renal,K0A3100,Chronic nephritic syndrm focal+segmental glomerular lesions,K0A31,K0A3100,555391000006117.0,197709005.0,304006019.0,Chronic nephritic syndrm focal+segmental glomerular lesions
+230,sarcoid,AD55.00,Sarcoid arthropathy,AD55,AD55.00,477671011.0,361197009.0,477671011.0,Sarcoid arthropathy
+231,sarcoid,F374900,Polyneuropathy in sarcoidosis,F3749,F374900,297566017.0,193195000.0,297566017.0,Polyneuropathy in sarcoidosis
+232,lupus,M154200,Lupus erythematosus migrans,M1542,M154200,308704015.0,200939005.0,308704015.0,Lupus erythematosus migrans
+233,seronegative arthritis,N100.11,Marie - Strumpell spondylitis,N100-1,N100.11,718001000006112.0,9631008.0,1235977013.0,Marie - Strumpell spondylitis
+234,cardiovascular,G100.00,Chronic rheumatic pericarditis,G100,G100.00,1494807015.0,56501009.0,1494807015.0,Adherent rheumatic pericardium
+235,lupus,K0B4000,Renal tubulo-interstitial disorder in SLE,K0B40,K0B4000,177301000006114.0,307755009.0,451122013.0,Renal tubulo-interstitial disorder in SLE
+236,renal,K0A1200,Rapid progres neph syn diffuse membranous glomerulonephritis,K0A12,K0A1200,191861000006119.0,197692004.0,303980019.0,Rapid progres neph syn diffuse membranous glomerulonephritis
+237,renal,K032y14,Mesangiocapillary glomerulonephritis NEC,K032y-4,K032y14,354380012.0,80321008.0,133280014.0,Mesangiocapillary glomerulonephritis NEC
+238,rheumatoid,N040900,Rheumatoid arthritis of PIP joint of finger,N0409,N040900,162131000006111.0,201773004.0,309796016.0,Rheumatoid arthritis of PIP joint of finger
+239,rheumatoid,N040800,Rheumatoid arthritis of MCP joint,N0408,N040800,162111000006117.0,201772009.0,309795017.0,Rheumatoid arthritis of MCP joint
+240,seronegative arthritis,N045000,Juvenile ankylosing spondylitis,N0450,N045000,359312010.0,239805001.0,359312010.0,Juvenile ankylosing spondylitis
+241,inflammatory bowel disease,J43..00,Other non-infective inflammatory gastroenteritis and colitis,J43,J43..00,396361018.0,71207007.0,118245016.0,Other non-infective inflammatory gastroenteritis and colitis
+242,lupus,N000z00,Systemic lupus erythematosus NOS,N000z,N000z00,309408013.0,55464009.0,92208011.0,Systemic lupus erythematosus NOS
+243,inflammatory bowel disease,J412.00,Ulcerative (chronic) ileocolitis,J412,J412.00,85901000006116.0,196987008.0,302953018.0,Ulcerative (chronic) ileocolitis
+244,dermatomyositis,Nyu8000,[X]Other myositis,Nyu80,Nyu8000,312633011.0,26889001.0,44991019.0,[X]Other myositis
+245,scleroderma,M210.11,Addison's keloid,M210-1,M210.11,308860017.0,201048007.0,308865010.0,Addison's keloid
+246,vasculitis,M2y0200,Livedoid vasculitis,M2y02,M2y0200,357845012.0,238762002.0,357845012.0,Livedoid vasculitis
+247,cardiovascular,G5yA.00,Other heart disorders in other diseases classified elsewhere,G5yA,G5yA.00,48361011.0,28880005.0,48361011.0,Rheumatoid carditis
+248,renal,K03yz00,Other nephritis and nephrosis NOS,K03yz,K03yz00,303906011.0,90708001.0,150315015.0,Other nephritis and nephrosis NOS
+249,lupus,F371000,Polyneuropathy in disseminated lupus erythematosus,F3710,F371000,297542011.0,193178008.0,297542011.0,Polyneuropathy in disseminated lupus erythematosus
+250,scleroderma,N001000,Progressive systemic sclerosis,N0010,N001000,147834015.0,444133002.0,2842339011.0,Progressive systemic sclerosis
+251,rheumatoid,N040100,Other rheumatoid arthritis of spine,N0401,N040100,309788014.0,9631008.0,16840014.0,Other rheumatoid arthritis of spine
+252,inflammatory bowel disease,J401.00,Regional enteritis of the large bowel,J401,J401.00,1495442018.0,7620006.0,1495442018.0,Regional enteritis of the large bowel
+253,rheumatoid,N040000,Rheumatoid arthritis of cervical spine,N0400,N040000,309787016.0,201764007.0,309787016.0,Rheumatoid arthritis of cervical spine
+254,cardiovascular,G01..00,"Acute rheumatic heart disease, unspecified",G01,G01..00,299566014.0,703119002.0,3007168016.0,Rheumatic fever with heart involvement
+255,lupus,M154500,Lupus erythematosus tumidus,M1545,M154500,308706018.0,200941006.0,308706018.0,Lupus erythematosus tumidus
+256,pemphigus & pemphigoid,M146100,Ocular pemphigoid,M1461,M146100,485794012.0,34250006.0,485794012.0,Ocular pemphigoid
+257,lupus,ZRq9.00,Systemic lupus erythematosus disease activity index,,,,,,
+258,lupus,M154400,Lupus erythematosus profundus,M1544,M154400,25612013.0,15084002.0,25612013.0,Lupus erythematosus profundus
+259,seronegative arthritis,N045600,Pauciarticular onset juvenile chronic arthritis,N0456,N045600,502690012.0,74391003.0,502690012.0,Pauciarticular onset juvenile chronic arthritis
+260,sarcoid,G558300,Sarcoid heart disease,G5583,G558300,161591000006114.0,195033009.0,300056015.0,Sarcoid heart disease
+261,lupus,ZR2l.11,BILAG - British isles lupus assessment group score,,,,,,
+262,vasculitis,F371100,Polyneuropathy in polyarteritis nodosa,F3711,F371100,297543018.0,193179000.0,297543018.0,Polyneuropathy in polyarteritis nodosa
+263,renal,K01x400,Nephrotic syndrome in systemic lupus erythematosus,K01x4,K01x400,677561000006119.0,68815009.0,114310015.0,Nephrotic syndrome in systemic lupus erythematosus
+264,sarcoid,N233200,Myositis in sarcoidosis,N2332,N233200,311616019.0,203042003.0,311616019.0,Myositis in sarcoidosis
+265,rheumatoid,N043100,Acute polyarticular juvenile rheumatoid arthritis,N0431,N043100,125937016.0,75822003.0,125937016.0,Acute polyarticular juvenile rheumatoid arthritis
+266,renal,K00yz00,Other acute glomerulonephritis NOS,K00yz,K00yz00,303820015.0,19351000.0,32619017.0,Other acute glomerulonephritis NOS
+267,renal,K01x000,Nephrotic syndrome in amyloidosis,K01x0,K01x000,303845017.0,197604006.0,303845017.0,Nephrotic syndrome in amyloidosis
+268,cardiovascular,G012.00,Acute rheumatic myocarditis,G012,G012.00,299567017.0,194709000.0,299567017.0,Acute rheumatic myocarditis
+269,cardiovascular,G00..00,Rheumatic fever without mention of heart involvement,G00,G00..00,40870016.0,24363009.0,40870016.0,Rheumatic fever without heart involvement
+270,renal,K00y200,Acute focal nephritis,K00y2,K00y200,303818018.0,197584000.0,303818018.0,Acute focal nephritis
+271,inflammatory bowel disease,J410000,Ulcerative ileocolitis,J4100,J410000,302953018.0,196987008.0,302953018.0,Ulcerative ileocolitis
+272,rheumatoid,N040700,Rheumatoid arthritis of wrist,N0407,N040700,309794018.0,201771002.0,309794018.0,Rheumatoid arthritis of wrist
+273,rheumatoid,N040B00,Rheumatoid arthritis of hip,N040B,N040B00,309798015.0,201775006.0,309798015.0,Rheumatoid arthritis of hip
+274,sarcoid,AD51.00,Sarcoidosis of lymph nodes,AD51,AD51.00,1232607019.0,64757003.0,1232607019.0,Sarcoidosis of lymph nodes
+275,polymyalgia,G755200,Horton's disease,G7552,G755200,1787110010.0,400130008.0,1787110010.0,Horton's disease
+276,renal,K0y..00,"Other specified nephritis, nephrosis or nephrotic syndrome",K0y,K0y..00,304056012.0,90708001.0,150315015.0,"Other specified nephritis, nephrosis or nephrotic syndrome"
+277,rheumatoid,N042.00,Other rheumatoid arthropathy + visceral/systemic involvement,N042,N042.00,16911000006114.0,239793008.0,359293019.0,Other rheumatoid arthropathy + visceral/systemic involvement
+278,pemphigus & pemphigoid,M144200,Erythematous pemphigus,M1442,M144200,648451000006115.0,36739006.0,61281014.0,Erythematous pemphigus
+279,pemphigus & pemphigoid,PH33111,Benign familial chronic pemphigus,PH331-1,PH33111,1234363013.0,79468000.0,1234363013.0,Benign familial chronic pemphigus
+280,sarcoid,F013.00,Meningitis due to sarcoidosis,F013,F013.00,296819018.0,192673008.0,296819018.0,Meningitis due to sarcoidosis
+281,renal,K0A2300,Recur+persist haemuria df mesangial prolif glomerulnephritis,K0A23,K0A2300,189171000006118.0,714825002.0,3300556017.0,Recur+persist haemuria df mesangial prolif glomerulnephritis
+282,seronegative arthritis,N11y100,Enterobacterial spondylitis,N11y1,N11y100,311113014.0,202699004.0,311113014.0,Enterobacterial spondylitis
+283,cardiovascular,G5y8.00,Myocarditis in other diseases classified elsewhere,G5y8,G5y8.00,300221014.0,195136004.0,300221014.0,Rheumatoid myocarditis
+284,seronegative arthritis,N011.12,Arthropathy in Reiter's disease,N011-2,N011.12,492981000006114.0,415141001.0,2532865019.0,Arthropathy in Reiter's disease
+285,renal,K0A1600,"Rapid progressive nephritic syndrome, dense deposit disease",K0A16,K0A1600,191901000006114.0,197696001.0,303984011.0,"Rapid progressive nephritic syndrome, dense deposit disease"
+286,renal,K032y11,Hypocomplementaemic persistent glomerulonephritis NEC,K032y-1,K032y11,354349019.0,197613008.0,303860019.0,Hypocomplementaemic persistent glomerulonephritis NEC
+287,seronegative arthritis,N01wD00,Reactive arthropathy of ankle,N01wD,N01wD00,309574013.0,201571000.0,309574013.0,Reactive arthropathy of ankle
+288,renal,K018.00,"Nephrotic syn,difus endocapilary proliftv glomerulonephritis",K018,K018.00,677481000006113.0,197597003.0,303836018.0,"Nephrotic syn,difus endocapilary proliftv glomerulonephritis"
+289,rheumatoid,N043000,Juvenile rheumatoid arthropathy unspecified,N0430,N043000,309824019.0,410793008.0,2472445019.0,Juvenile rheumatoid arthropathy unspecified
+290,vasculitis,A270300,Listerial cerebral arteritis,A2703,A270300,286395017.0,186317009.0,286395017.0,Listerial cerebral arteritis
+291,seronegative arthritis,Nyu1.00,[X]Inflammatory polyarthropathies,Nyu1,Nyu1.00,312516012.0,477941000000100.0,967611000000119.0,[X]Inflammatory polyarthropathies
+292,rheumatoid,N040D00,Rheumatoid arthritis of knee,N040D,N040D00,309800010.0,201777003.0,309800010.0,Rheumatoid arthritis of knee
+293,rheumatoid,N040K00,Rheumatoid arthritis of 1st MTP joint,N040K,N040K00,168761000006118.0,201783000.0,309807013.0,Rheumatoid arthritis of 1st MTP joint
+294,rheumatoid,N040F00,Rheumatoid arthritis of ankle,N040F,N040F00,309802019.0,201779000.0,309802019.0,Rheumatoid arthritis of ankle
+295,inflammatory bowel disease,J400.00,Regional enteritis of the small bowel,J400,J400.00,179571000006119.0,56689002.0,94270018.0,Regional enteritis of the small bowel
+296,inflammatory bowel disease,J40..12,Granulomatous enteritis,J40-2,J40..12,56770011.0,34000006.0,56765016.0,Granulomatous enteritis
+297,vasculitis,F4A5111,Cogan's syndrome,F4A51-1,F4A5111,2157584018.0,405810005.0,2157584018.0,Cogan's syndrome
+298,lupus,ZRq8.00,Systemic lupus activity measure,,,,,,
+299,seronegative arthritis,A985300,Gonococcal spondylitis,A9853,A985300,89215016.0,53664003.0,89215016.0,Gonococcal spondylitis
+300,inflammatory bowel disease,J40z.00,Regional enteritis NOS,J40z,J40z.00,302947018.0,34000006.0,56765016.0,Regional enteritis NOS
+301,pemphigus & pemphigoid,M144000,Benign pemphigus,M1440,M144000,308653014.0,200902009.0,308653014.0,Benign pemphigus
+302,sarcoid,F396500,Myopathy due to sarcoidosis,F3965,F396500,297643013.0,193251003.0,297643013.0,Myopathy due to sarcoidosis
+303,seronegative arthritis,N01w000,Reactive arthropathy of shoulder,N01w0,N01w000,309561019.0,201558003.0,309561019.0,Reactive arthropathy of shoulder
+304,seronegative arthritis,N01wB00,Reactive arthropathy of knee,N01wB,N01wB00,309572012.0,201569000.0,309572012.0,Reactive arthropathy of knee
+305,rheumatoid,N040R00,Rheumatoid nodule,N040R,N040R00,162341000006115.0,33719002.0,485614018.0,Rheumatoid nodule
+306,inflammatory bowel disease,Jyu4100,[X]Other ulcerative colitis,Jyu41,Jyu4100,303762015.0,64766004.0,107644019.0,[X]Other ulcerative colitis
+307,pemphigus & pemphigoid,M144z00,Pemphigus NOS,M144z,M144z00,308660015.0,65172003.0,108297019.0,Pemphigus NOS
+308,polymyalgia,Nyu4100,[X]Other giant cell arteritis,Nyu41,Nyu4100,312576015.0,414341000.0,2534171012.0,[X]Other giant cell arteritis
+309,seronegative arthritis,Nyu0300,[X]Other reactive arthropathies,Nyu03,Nyu0300,312513016.0,239783001.0,359275015.0,[X]Other reactive arthropathies
+310,dermatomyositis,Nyu4400,[X]Other dermatomyositis,Nyu44,Nyu4400,312580013.0,396230008.0,1776211019.0,[X]Other dermatomyositis
+311,vasculitis,F483511,Oculomotor apraxia - Cogan type,F4835-1,F483511,266831000006117.0,405809000.0,2157583012.0,Oculomotor apraxia - Cogan type
+312,renal,K0A0500,"Acute neph syn, diffuse mesangiocapillary glomerulonephritis",K0A05,K0A0500,458441000006117.0,197686005.0,303974010.0,"Acute neph syn, diffuse mesangiocapillary glomerulonephritis"
+313,renal,K00y300,Acute diffuse nephritis,K00y3,K00y300,303819014.0,197585004.0,303819014.0,Acute diffuse nephritis
+314,renal,K0A0300,"Acut neph syn, diffuse mesangial prolifrative glomnephritis",K0A03,K0A0300,455321000006114.0,197684008.0,303972014.0,"Acut neph syn, diffuse mesangial prolifrative glomnephritis"
+315,scleroderma,F396600,Myopathy due to scleroderma,F3966,F396600,297644019.0,193252005.0,297644019.0,Myopathy due to scleroderma
+316,sarcoid,F326300,Multiple cranial nerve palsies in sarcoidosis,F3263,F326300,297440017.0,193101001.0,297440017.0,Multiple cranial nerve palsies in sarcoidosis
+317,rheumatoid,Nyu1G00,"[X]Seropositive rheumatoid arthritis, unspecified",Nyu1G,Nyu1G00,312534011.0,239791005.0,359291017.0,"[X]Seropositive rheumatoid arthritis, unspecified"
+318,renal,K0A3300,Chron neph syn difus mesangial prolifrtiv glomerulonephritis,K0A33,K0A3300,553181000006118.0,197613008.0,303861015.0,Chron neph syn difus mesangial prolifrtiv glomerulonephritis
+319,renal,K01A.00,"Nephrotic syndrome, dense deposit disease",K01A,K01A.00,303838017.0,197599000.0,303838017.0,"Nephrotic syndrome, dense deposit disease"
+320,renal,K0A3200,Chron nephritic syndrom difuse membranous glomerulonephritis,K0A32,K0A3200,553201000006117.0,77182004.0,1234074010.0,Chron nephritic syndrom difuse membranous glomerulonephritis
+321,pemphigus & pemphigoid,M144500,Pemphigus vegetans,M1445,M144500,476760014.0,14800001.0,476759016.0,Pemphigus vegetans
+322,vasculitis,C332000,Cryoglobulinaemic purpura,C3320,C332000,293372017.0,190814002.0,293372017.0,Cryoglobulinaemic purpura
+323,lupus,N000100,Systemic lupus erythematosus with organ or sys involv,N0001,N000100,496853017.0,54072008.0,496853017.0,Libman-Sacks disease
+324,vasculitis,F396300,Myopathy due to polyarteritis nodosa,F3963,F396300,297640011.0,193249002.0,297640011.0,Myopathy due to polyarteritis nodosa
+325,renal,K013.12,Steroid sensitive nephrotic syndrome,K013-2,K013.12,127091000006118.0,236380004.0,354331019.0,Steroid sensitive nephrotic syndrome
+326,cardiovascular,G1yz.00,"Rheumatic heart disease, unspecified",G1yz,G1yz.00,299633016.0,23685000.0,39767019.0,Other and unspecified rheumatic heart disease
+327,renal,K0A1300,Rpd prog neph syn df mesangial prolifratv glomerulonephritis,K0A13,K0A1300,165061000006114.0,197693009.0,303981015.0,Rpd prog neph syn df mesangial prolifratv glomerulonephritis
+328,pemphigus & pemphigoid,M146z00,Benign mucous membrane pemphigoid NOS,M146z,M146z00,308669019.0,34250006.0,57191017.0,Benign mucous membrane pemphigoid NOS
+329,pemphigus & pemphigoid,M145z00,Pemphigoid NOS,M145z,M145z00,308664012.0,86142006.0,142845014.0,Pemphigoid NOS
+330,renal,K033.00,Rapidly progressive nephritis unspecified,K033,K033.00,303894017.0,236392004.0,354352010.0,Rapidly progressive nephritis unspecified
+331,seronegative arthritis,N01w500,Reactive arthropathy of wrist,N01w5,N01w500,309566012.0,201563004.0,309566012.0,Reactive arthropathy of wrist
+332,lupus,Nyu4300,[X]Other forms of systemic lupus erythematosus,Nyu43,Nyu4300,312579010.0,55464009.0,92208011.0,[X]Other forms of systemic lupus erythematosus
+333,renal,K01x300,Nephrotic syndrome in polyarteritis nodosa,K01x3,K01x300,303849011.0,197607004.0,303849011.0,Nephrotic syndrome in polyarteritis nodosa
+334,vasculitis,N012011,Behcet's syndrome arthropathy,N0120-1,N012011,499415017.0,62918002.0,499415017.0,Behcet's syndrome arthropathy
+335,seronegative arthritis,Nyu1300,[X]Other psoriatic arthropathies,Nyu13,Nyu1300,312521010.0,33339001.0,55626019.0,[X]Other psoriatic arthropathies
+336,vasculitis,F421E00,Retinal vasculitis NOS,F421E,F421E00,297777014.0,77628002.0,128847018.0,Retinal vasculitis NOS
+337,renal,C109C00,Non-insulin dependent diabetes mellitus with nephropathy,C109C,C109C00,280531000006119.0,420279001.0,3035432019.0,Non-insulin dependent diabetes mellitus with nephropathy
+338,rheumatoid,N040500,Rheumatoid arthritis of elbow,N0405,N040500,309792019.0,201769002.0,309792019.0,Rheumatoid arthritis of elbow
+339,cardiovascular,G1yzz00,"Rheumatic heart disease, unspecified",G1yzz,G1yzz00,299636012.0,23685000.0,39767019.0,Other rheumatic heart disease NOS
+340,inflammatory bowel disease,J4z1.00,Non-infective jejunitis NOS,J4z1,J4z1.00,303049010.0,80805005.0,134030018.0,Non-infective jejunitis NOS
+341,cardiovascular,G0y..00,Rheumatic fever without mention of heart involvement,G0y,G0y..00,299577015.0,26424001.0,44256019.0,Other specified acute rheumatic fever
+342,inflammatory bowel disease,J40z.11,Crohn's disease NOS,J40z-1,J40z.11,1222351011.0,34000006.0,56765016.0,Crohn's disease NOS
+343,renal,K03V.00,"Unspecified nephritic syndrome, dense deposit disease",K03V,K03V.00,77541000006113.0,462181000000102.0,891521000000111.0,"Unspecified nephritic syndrome, dense deposit disease"
+344,renal,K0A3600,"Chronic nephritic syndrome, dense deposit disease",K0A36,K0A3600,304011017.0,197714009.0,304011017.0,"Chronic nephritic syndrome, dense deposit disease"
+345,renal,K0A2500,Recur+persist hmuria df mesangiocapilary glomerulonephritis,K0A25,K0A2500,189181000006115.0,714819001.0,3300538017.0,Recur+persist hmuria df mesangiocapilary glomerulonephritis
+346,renal,K0A2700,Recur+persist haematuria difus crescentic glomerulonephritis,K0A27,K0A2700,189131000006116.0,714815007.0,3300526014.0,Recur+persist haematuria difus crescentic glomerulonephritis
+347,renal,K0A3700,Chronic nephritic syn diffuse crescentic glomerulonephritis,K0A37,K0A3700,555381000006115.0,197715005.0,304012012.0,Chronic nephritic syn diffuse crescentic glomerulonephritis
+348,renal,K02y.00,Other chronic glomerulonephritis,K02y,K02y.00,303864011.0,20917003.0,35171019.0,Other chronic glomerulonephritis
+349,vasculitis,Myu7A00,[X]Other vasculitis limited to the skin,Myu7A,Myu7A00,309386010.0,11263005.0,19515010.0,[X]Other vasculitis limited to the skin
+350,renal,K0A2200,Recur+persist haematuria difus membranous glomerulonephritis,K0A22,K0A2200,189141000006114.0,714821006.0,3300544018.0,Recur+persist haematuria difus membranous glomerulonephritis
+351,renal,K022.00,Chronic membranoproliferative glomerulonephritis,K022,K022.00,555191000006119.0,80321008.0,133282018.0,Chronic membranoproliferative glomerulonephritis
+352,renal,K0A4500,Isoltd prteinur+specfd morph les df mesangiocap glomnephr,K0A45,K0A4500,745481000006111.0,197723007.0,304020014.0,Isoltd prteinur+specfd morph les df mesangiocap glomnephr
+353,renal,K0A0700,Acute nephrotic syndrm diffuse crescentic glomerulonephritis,K0A07,K0A0700,458521000006111.0,197688006.0,303976012.0,Acute nephrotic syndrm diffuse crescentic glomerulonephritis
+354,seronegative arthritis,N01w300,Reactive arthropathy of elbow,N01w3,N01w300,309564010.0,201561002.0,309564010.0,Reactive arthropathy of elbow
+355,vasculitis,G752.11,Hypersensitivity arteritis,G752-1,G752.11,789831000006117.0,60555002.0,100606014.0,Hypersensitivity arteritis
+356,renal,K0A1700,Rapid progres nephritic syn df crescentic glomerulonephritis,K0A17,K0A1700,191881000006112.0,197697005.0,303985012.0,Rapid progres nephritic syn df crescentic glomerulonephritis
+357,vasculitis,G75..00,Polyarteritis nodosa and allied conditions,G75,G75..00,300565019.0,155441006.0,242065019.0,Polyarteritis nodosa and allied conditions
+358,rheumatoid,F371200,Polyneuropathy in rheumatoid arthritis,F3712,F371200,297544012.0,193180002.0,297544012.0,Polyneuropathy in rheumatoid arthritis
+359,cardiovascular,G1y0.00,Rheumatic myocarditis,G1y0,G1y0.00,299631019.0,194750008.0,299631019.0,Rheumatic myocarditis
+360,renal,K03W.00,"Unsp nephrit synd, diff endocap prolif glomerulonephritis",K03W,K03W.00,81251000006113.0,3704008.0,7243014.0,"Unsp nephrit synd, diff endocap prolif glomerulonephritis"
+361,inflammatory bowel disease,J401000,Regional enteritis of the colon,J4010,J401000,179521000006115.0,50440006.0,1230866018.0,Regional enteritis of the colon
+362,vasculitis,N012x00,Arthropathy in Behcet's syndrome of multiple sites,N012x,N012x00,309490011.0,201492003.0,309490011.0,Arthropathy in Behcet's syndrome of multiple sites
+363,renal,K032300,Anaphylactoid glomerulonephritis,K0323,K032300,303881019.0,197629000.0,303881019.0,Anaphylactoid glomerulonephritis
+364,seronegative arthritis,N01wK00,Reactive arthropathy of IP joint of toe,N01wK,N01wK00,192711000006116.0,201577001.0,309580017.0,Reactive arthropathy of IP joint of toe
+365,seronegative arthritis,N011.00,Sexually acquired reactive arthropathy,N011,N011.00,146521000006111.0,267883008.0,400164011.0,Sexually acquired reactive arthropathy
+366,inflammatory bowel disease,J400100,Regional enteritis of the jejunum,J4001,J400100,302937016.0,196976000.0,302937016.0,Regional enteritis of the jejunum
+367,rheumatoid,N040A00,Rheumatoid arthritis of DIP joint of finger,N040A,N040A00,162041000006117.0,201774005.0,309797013.0,Rheumatoid arthritis of DIP joint of finger
+368,cardiovascular,G021.00,Rheumatic chorea without heart involvement,G021,G021.00,168411000006110.0,46826000.0,78053017.0,Rheumatic chorea without mention of heart involvement
+369,lupus,ZRq9.11,SLEDAI-Sys lup ery dis act ind,,,,,,
+370,rheumatoid,N040600,Rheumatoid arthritis of distal radio-ulnar joint,N0406,N040600,162051000006115.0,201770001.0,309793012.0,Rheumatoid arthritis of distal radio-ulnar joint
+371,inflammatory bowel disease,Jyu4.00,[X]Noninfective enteritis and colitis,Jyu4,Jyu4.00,400051000006118.0,307418008.0,450679011.0,[X]Noninfective enteritis and colitis
+372,renal,K00y.00,Other acute glomerulonephritis,K00y,K00y.00,303815015.0,19351000.0,32619017.0,Other acute glomerulonephritis
+373,renal,K02yz00,Other chronic glomerulonephritis NOS,K02yz,K02yz00,303869018.0,20917003.0,35171019.0,Other chronic glomerulonephritis NOS
+374,lupus,M154600,Lupus erythematosus unguium mutilans,M1546,M154600,308707010.0,200942004.0,308707010.0,Lupus erythematosus unguium mutilans
+375,renal,C109C11,Type II diabetes mellitus with nephropathy,C109C-1,C109C11,84921000006110.0,420279001.0,3013392012.0,Type II diabetes mellitus with nephropathy
+376,inflammatory bowel disease,J401100,Regional enteritis of the rectum,J4011,J401100,488238014.0,3815005.0,488238014.0,Regional enteritis of the rectum
+377,cardiovascular,H571.00,Rheumatic fever without mention of heart involvement,H571,H571.00,13455018.0,7548000.0,13455018.0,Rheumatic pneumonia
+378,renal,K023.00,Chronic rapidly progressive glomerulonephritis,K023,K023.00,303863017.0,236392004.0,354352010.0,Chronic rapidly progressive glomerulonephritis
+379,lupus,M154300,Lupus erythematosus nodularis,M1543,M154300,308705019.0,200940007.0,308705019.0,Lupus erythematosus nodularis
+380,renal,K02y300,Chronic diffuse glomerulonephritis,K02y3,K02y300,303868014.0,197619007.0,303868014.0,Chronic diffuse glomerulonephritis
+381,renal,K0A0100,"Acute nephritic syndrome, focal+segmental glomerular lesions",K0A01,K0A0100,458481000006111.0,197682007.0,303970018.0,"Acute nephritic syndrome, focal+segmental glomerular lesions"
+382,inflammatory bowel disease,J400300,Crohn's disease of the ileum unspecified,J4003,J400300,302939018.0,38106008.0,64705019.0,Crohn's disease of the ileum unspecified
+383,renal,K0A0200,"Acute nephritic syn, diffuse membranous glomerulonephritis",K0A02,K0A0200,458451000006115.0,197683002.0,303971019.0,"Acute nephritic syn, diffuse membranous glomerulonephritis"
+384,renal,K0A3000,"Chronic nephritic syndrome, minor glomerular abnormality",K0A30,K0A3000,304005015.0,197708002.0,304005015.0,"Chronic nephritic syndrome, minor glomerular abnormality"
+385,renal,K0A4300,Isoltd prteinur/spcfd morph lesn df mesngl prolf glomneph,K0A43,K0A4300,742241000006111.0,197721009.0,304018011.0,Isoltd prteinur/spcfd morph lesn df mesngl prolf glomneph
+386,renal,K032y00,Nephritis unsp+OS membranoprolif glomerulonephritis lesion,K032y,K032y00,677981000006115.0,52845002.0,87940013.0,Nephritis unsp+OS membranoprolif glomerulonephritis lesion
+387,vasculitis,G731z00,Thromboangiitis obliterans NOS,G731z,G731z00,300503012.0,52403007.0,87208017.0,Thromboangiitis obliterans NOS
+388,renal,K001.00,Acute nephritis with lesions of necrotising glomerulitis,K001,K001.00,303814016.0,197580009.0,303814016.0,Acute nephritis with lesions of necrotising glomerulitis
+389,pemphigus & pemphigoid,M144700,Wildfire pemphigus,M1447,M144700,77439010.0,46459009.0,77439010.0,Wildfire pemphigus
+390,renal,K032000,Focal membranoproliferative glomerulonephritis,K0320,K032000,303877019.0,197626007.0,303877019.0,Focal membranoproliferative glomerulonephritis
+391,seronegative arthritis,N013700,Postdysenteric reactive arthropathy of the ankle and foot,N0137,N013700,217691000006119.0,201503001.0,309501016.0,Postdysenteric reactive arthropathy of the ankle and foot
+392,cardiovascular,G14..00,"Rheumatic diseases of endocardium, valve unspecified",G14,G14..00,299615010.0,46165000.0,76971016.0,Other chronic rheumatic endocardial disease
+393,vasculitis,G75z.00,Polyarteritis nodosa and allied conditions NOS,G75z,G75z.00,300596011.0,155441006.0,242065019.0,Polyarteritis nodosa and allied conditions NOS
+394,scleroderma,N001.11,Acrosclerosis,N001-1,N001.11,1785104011.0,298285004.0,1785104011.0,Acrosclerosis
+395,polymyalgia,G755z00,Giant cell arteritis NOS,G755z,G755z00,300584016.0,414341000.0,2534171012.0,Giant cell arteritis NOS
+396,vasculitis,N012.00,Arthropathy in Behcet's syndrome,N012,N012.00,104572011.0,62918002.0,104572011.0,Arthropathy in Behcet's syndrome
+397,cardiovascular,G01z.00,"Acute rheumatic heart disease, unspecified",G01z,G01z.00,299573016.0,312591002.0,456339019.0,Acute rheumatic heart disease NOS
+398,seronegative arthritis,N01w600,Reactive arthropathy of MCP joint,N01w6,N01w600,192741000006117.0,201564005.0,309567015.0,Reactive arthropathy of MCP joint
+399,inflammatory bowel disease,Jyu4000,[X]Other Crohn's disease,Jyu40,Jyu4000,303761010.0,34000006.0,56765016.0,[X]Other Crohn's disease
+400,cardiovascular,G020.00,Rheumatic chorea with heart involvement,G020,G020.00,96117016.0,57803009.0,96117016.0,Rheumatic chorea with heart involvement
+401,pemphigus & pemphigoid,Myu1200,[X]Other pemphigoid,Myu12,Myu1200,309311010.0,86142006.0,142845014.0,[X]Other pemphigoid
+402,rheumatoid,Nyu1200,[X]Other specified rheumatoid arthritis,Nyu12,Nyu1200,312520011.0,69896004.0,116082011.0,[X]Other specified rheumatoid arthritis
+403,rheumatoid,N040H00,Rheumatoid arthritis of talonavicular joint,N040H,N040H00,309804018.0,201781003.0,309804018.0,Rheumatoid arthritis of talonavicular joint
+404,seronegative arthritis,N011z00,Sexually acquired reactive arthropathy NOS,N011z,N011z00,309479018.0,267883008.0,400162010.0,Sexually acquired reactive arthropathy NOS
+405,inflammatory bowel disease,N045400,Juvenile arthritis in ulcerative colitis,N0454,N045400,309836013.0,201807008.0,309836013.0,Juvenile arthritis in ulcerative colitis
+406,renal,K0A1.00,Rapidly progressive nephritic syndrome,K0A1,K0A1.00,303977015.0,197689003.0,303977015.0,Rapidly progressive nephritic syndrome
+407,vasculitis,N012000,Arthropathy in Behcet's syndrome of unspecified site,N0120,N012000,400165012.0,62918002.0,104572011.0,Arthropathy in Behcet's syndrome of unspecified site
+408,renal,Kyu0900,"[X]Unsp nephrit synd, diff mesang prolif glomerulonephritis",Kyu09,Kyu0900,430101000006111.0,197679002.0,303967017.0,"[X]Unsp nephrit synd, diff mesang prolif glomerulonephritis"
+409,scleroderma,Nyu4500,[X]Other forms of systemic sclerosis,Nyu45,Nyu4500,312581012.0,89155008.0,147833014.0,[X]Other forms of systemic sclerosis
+410,rheumatoid,N040J00,Rheumatoid arthritis of other tarsal joint,N040J,N040J00,309805017.0,429192004.0,2696026017.0,Rheumatoid arthritis of other tarsal joint
+411,pemphigus & pemphigoid,M146000,Benign mucous membrane pemphigoid with no eye involvement,M1460,M146000,399920011.0,267800008.0,399920011.0,Benign mucous membrane pemphigoid with no eye involvement
+412,inflammatory bowel disease,J400000,Regional enteritis of the duodenum,J4000,J400000,497569010.0,56287005.0,497569010.0,Regional enteritis of the duodenum
+413,renal,K0A4200,Isolatd proteinur/specfd morphlgcl les df membrn glomneph,K0A42,K0A4200,712841000006115.0,197720005.0,304017018.0,Isolatd proteinur/specfd morphlgcl les df membrn glomneph
+414,scleroderma,M210z00,Circumscribed scleroderma NOS,M210z,M210z00,308871016.0,201048007.0,308856015.0,Circumscribed scleroderma NOS
+415,sarcoid,AD54.00,Sarcoidosis of inferior turbinates,AD54,AD54.00,454209012.0,310607007.0,454209012.0,Sarcoidosis of inferior turbinates
+416,vasculitis,Myu7G00,"[X]Vasculitis limited to skin, unspecified",Myu7G,Myu7G00,309393014.0,53312001.0,88651012.0,"[X]Vasculitis limited to skin, unspecified"
+417,cardiovascular,G02z.00,"Acute rheumatic heart disease, unspecified",G02z,G02z.00,299576012.0,46826000.0,78053017.0,Rheumatic chorea NOS
+418,renal,K0A3500,Chronic neph syn difus mesangiocapillary glomerulonephritis,K0A35,K0A3500,555371000006118.0,197713003.0,304010016.0,Chronic neph syn difus mesangiocapillary glomerulonephritis
+419,sarcoid,Cyu0600,[X]Sarcoidosis of other and combined sites,Cyu06,Cyu0600,293742013.0,31541009.0,52728016.0,[X]Sarcoidosis of other and combined sites
+420,seronegative arthritis,N011600,Sexually acquired reactive arthropathy of the lower leg,N0116,N011600,309475012.0,267883008.0,400162010.0,Sexually acquired reactive arthropathy of the lower leg
+421,scleroderma,M210000,Unspecified circumscribed scleroderma,M2100,M210000,308855016.0,201048007.0,308856015.0,Unspecified circumscribed scleroderma
+422,cardiovascular,G01y.00,Other acute rheumatic heart disease,G01y,G01y.00,299570018.0,312591002.0,456339019.0,Other acute rheumatic heart disease
+423,rheumatoid,N040G00,Rheumatoid arthritis of subtalar joint,N040G,N040G00,309803012.0,201780002.0,309803012.0,Rheumatoid arthritis of subtalar joint
+424,seronegative arthritis,Nyu0500,[X]Reactive arthropathy in other diseases CE,Nyu05,Nyu0500,424491000006118.0,239783001.0,359275015.0,[X]Reactive arthropathy in other diseases CE
+425,renal,K0A2800,IgA nephropathy,K0A28,K0A2800,354379014.0,236407003.0,354379014.0,IgA nephropathy
+426,seronegative arthritis,Nyu0400,[X]Other postinfectious arthropathies in diseases CE,Nyu04,Nyu0400,412771000006110.0,239783001.0,359275015.0,[X]Other postinfectious arthropathies in diseases CE
+427,dermatomyositis,N003100,Dermatopolymyositis in neoplastic disease,N0031,N003100,359459016.0,239901009.0,359459016.0,Dermatopolymyositis in neoplastic disease
+428,vasculitis,G751z00,Acute febrile mucocutaneous lymph node syndrome NOS,G751z,G751z00,300572018.0,75053002.0,124650010.0,Acute febrile mucocutaneous lymph node syndrome NOS
+429,seronegative arthritis,388p.00,BASDAI - Bath ankylosing spondylitis disease activity index,388p,388p.00,2692996011.0,441562009.0,2817026019.0,BASDAI - Bath ankylosing spondylitis disease activity index
+430,rheumatoid,Nyu1100,[X]Other seropositive rheumatoid arthritis,Nyu11,Nyu1100,312518013.0,239791005.0,359291017.0,[X]Other seropositive rheumatoid arthritis
+431,dermatomyositis,N231400,Polymyositis ossificans,N2314,N231400,6839012.0,3458000.0,6839012.0,Polymyositis ossificans
+432,renal,K00y100,Acute exudative nephritis,K00y1,K00y100,303817011.0,197583006.0,303817011.0,Acute exudative nephritis
+433,renal,K032z00,Nephritis unsp+membranoprolif glomerulonephritis lesion NOS,K032z,K032z00,677971000006118.0,52845002.0,87940013.0,Nephritis unsp+membranoprolif glomerulonephritis lesion NOS
+434,renal,K01y.00,Nephrotic syndrome with other pathological kidney lesions,K01y,K01y.00,303854019.0,52254009.0,86957016.0,Nephrotic syndrome with other pathological kidney lesions
+435,cardiovascular,Gyu1100,Other rheumatic aortic valve diseases,Gyu11,Gyu1100,300864010.0,12023003.0,20718019.0,[X]Other rheumatic aortic valve diseases
+436,seronegative arthritis,Nyu1500,[X]Other juvenile arthritis,Nyu15,Nyu1500,312523013.0,239796000.0,359297018.0,[X]Other juvenile arthritis
+437,seronegative arthritis,N01wA00,Reactive arthropathy of sacro-iliac joint,N01wA,N01wA00,192771000006113.0,201568008.0,309571017.0,Reactive arthropathy of sacro-iliac joint
+438,dermatomyositis,Nyu4E00,"[X]Dermatopolymyositis, unspecified",Nyu4E,Nyu4E00,312591018.0,396230008.0,1776211019.0,"[X]Dermatopolymyositis, unspecified"
+439,seronegative arthritis,M160.11,,M160-1,M160.11,55628018.0,33339001.0,55628018.0,Psoriatic arthritis
+440,renal,K032y15,Mixed membranous and proliferative glomerulonephritis NEC,K032y-5,K032y15,354346014.0,52845002.0,87940013.0,Mixed membranous and proliferative glomerulonephritis NEC
+441,pemphigus & pemphigoid,Myu1000,[X]Other pemphigus,Myu10,Myu1000,309309018.0,65172003.0,108297019.0,[X]Other pemphigus
+442,renal,K0A1100,Rapid progres nephritic syn focal+segmental glomerulr lesion,K0A11,K0A1100,191891000006110.0,197691006.0,303979017.0,Rapid progres nephritic syn focal+segmental glomerulr lesion
+443,renal,K02y000,Chronic glomerulonephritis + diseases EC,K02y0,K02y000,554481000006111.0,197616000.0,303865012.0,Chronic glomerulonephritis + diseases EC
+444,renal,K0B6.00,Balkan nephropathy,K0B6,K0B6.00,43768016.0,26121002.0,43768016.0,Balkan nephropathy
+445,rheumatoid,N040L00,Rheumatoid arthritis of lesser MTP joint,N040L,N040L00,162101000006115.0,201784006.0,309808015.0,Rheumatoid arthritis of lesser MTP joint
+446,rheumatoid,38DZ.00,Disease activity score in rheumatoid arthritis,38DZ,38DZ.00,2842168015.0,763259004.0,3638311016.0,Disease activity score in rheumatoid arthritis
+447,rheumatoid,N040C00,Rheumatoid arthritis of sacro-iliac joint,N040C,N040C00,162141000006118.0,201776007.0,309799011.0,Rheumatoid arthritis of sacro-iliac joint
+448,rheumatoid,N040400,Rheumatoid arthritis of acromioclavicular joint,N0404,N040400,309791014.0,201768005.0,309791014.0,Rheumatoid arthritis of acromioclavicular joint
+449,lupus,N000600,Cerebral lupus,N0006,N000600,512234017.0,95644001.0,512234017.0,Cerebral lupus
+450,rheumatoid,7P20300,Delivery of rehabilitation for rheumatoid arthritis,7P203,7P20300,371261000000111.0,231041000000107.0,371261000000111.0,Delivery of rehabilitation for rheumatoid arthritis
+451,seronegative arthritis,N04y300,Remitting seronegative symmetrical synovitis pitting oedema,N04y3,N04y300,1756301000006119.0,445345005.0,2871569011.0,Remitting seronegative symmetrical synovitis pitting oedema
+452,rheumatoid,38DZ000,Disease activity score 28 joint in rheumatoid arthritis,38DZ0,38DZ000,2839291014.0,441870009.0,2817437013.0,Disease activity score 28 joint in rheumatoid arthritis
+453,inflammatory bowel disease,J413.00,Ulcerative pancolitis,J413,J413.00,2872721013.0,444548001.0,2872721013.0,Ulcerative pancolitis
+454,vasculitis,G75A.00,Microscopic polyangiitis,G75A,G75A.00,2157271000000115.0,829821000000102.0,2157271000000115.0,Microscopic polyangiitis
+455,renal,K08y700,Acute infective interstitial nephritis,K08y7,K08y700,1232869016.0,66993009.0,1232869016.0,Acute infective interstitial nephritis
+456,rheumatoid,66HB000,Rheumatoid arthritis annual review,66HB0,66HB000,2196791000000119.0,847261000000104.0,2196791000000119.0,Rheumatoid arthritis annual review
+457,renal,K000100,Crescentic glomerulonephritis,K0001,K000100,354363013.0,236398000.0,354363013.0,Crescentic glomerulonephritis
+458,renal,K08y513,Acute tubulo-interstitial nephritis,K08y5-3,K08y513,1225987015.0,28637003.0,1225987015.0,Acute tubulo-interstitial nephritis
+459,renal,K0A8.00,Rapidly progressive glomerulonephritis,K0A8,K0A8.00,354352010.0,236392004.0,354352010.0,Rapidly progressive glomerulonephritis
+460,scleroderma,K0H..00,Acute scleroderma renal crisis,K0H,K0H..00,354513019.0,236503001.0,354513019.0,Acute scleroderma renal crisis
+461,lupus,ZRq8.11,SLAM - Systemic lupus activity measure,,,,,,
+462,rheumatoid,9hR1.00,Except rheumatoid arthritis qual indicator: informed dissent,9hR1,9hR1.00,1785241000006114.0,805981000000102.0,1801871000000114.0,Except rheumatoid arthritis qual indicator: informed dissent
+463,rheumatoid,9hR..00,Exception reporting: rheumatoid arthritis quality indicators,9hR,9hR..00,1785221000006119.0,805941000000105.0,1801791000000117.0,Exception reporting: rheumatoid arthritis quality indicators
+464,rheumatoid,9hR0.00,Except rheumatoid arthritis quality indicator: pt unsuitable,9hR0,9hR0.00,1785231000006116.0,805961000000106.0,1801831000000112.0,Except rheumatoid arthritis quality indicator: pt unsuitable
+465,rheumatoid,Nyu1000,[X]Rheumatoid arthritis+involvement/other organs or systems,Nyu10,Nyu1000,424981000006114.0,239793008.0,359293019.0,[X]Rheumatoid arthritis+involvement/other organs or systems
+466,renal,G752112,Anti GBM disease - Antiglomerular basement membrane disease,G7521-2,G752112,2214081000000112.0,236506009.0,2214081000000112.0,Anti GBM disease - Antiglomerular basement membrane disease
+467,rheumatoid,N040M00,Rheumatoid arthritis of IP joint of toe,N040M,N040M00,162081000006111.0,201785007.0,309809011.0,Rheumatoid arthritis of IP joint of toe
+468,inflammatory bowel disease,8Cc5.00,Management of inflammatory bowel disease,8Cc5,8Cc5.00,2269891000000116.0,700104004.0,2989471019.0,Management of inflammatory bowel disease
+469,rheumatoid,9mM..00,Rheumatoid arthritis monitoring invitation,9mM,9mM..00,2275501000000119.0,882321000000105.0,2275501000000119.0,Rheumatoid arthritis monitoring invitation
+470,scleroderma,K0J0.00,Renal involvement in scleroderma,K0J0,K0J0.00,354512012.0,236502006.0,354512012.0,Renal involvement in scleroderma
+471,rheumatoid,9mM0.00,Rheumatoid arthritis monitoring invitation first letter,9mM0,9mM0.00,2275671000000111.0,882401000000106.0,2275671000000111.0,Rheumatoid arthritis monitoring invitation first letter
+472,cardiovascular,GA...00,,GA,GA...00,39767019.0,23685000.0,39767019.0,Rheumatic heart disease
+473,rheumatoid,9mM1.00,Rheumatoid arthritis monitoring invitation second letter,9mM1,9mM1.00,2275711000000112.0,882421000000102.0,2275711000000112.0,Rheumatoid arthritis monitoring invitation second letter
+474,cardiovascular,GA0..00,,GA0,GA0..00,2287941000000113.0,703119002.0,3007168016.0,Carditis due to rheumatic fever
+475,rheumatoid,9mM3.00,Rheumatoid arthritis monitoring verbal invitation,9mM3,9mM3.00,2275791000000115.0,882461000000105.0,2275791000000115.0,Rheumatoid arthritis monitoring verbal invitation
+476,rheumatoid,9mM2.00,Rheumatoid arthritis monitoring invitation third letter,9mM2,9mM2.00,2275751000000111.0,882441000000109.0,2275751000000111.0,Rheumatoid arthritis monitoring invitation third letter
+477,renal,K08y511,AIN - Acute interstitial nephritis,K08y5-1,K08y511,1225985011.0,28637003.0,1225985011.0,AIN - Acute interstitial nephritis
+478,rheumatoid,N040E00,Rheumatoid arthritis of tibio-fibular joint,N040E,N040E00,162191000006110.0,201778008.0,309801014.0,Rheumatoid arthritis of tibio-fibular joint
+479,rheumatoid,9mM4.00,Rheumatoid arthritis monitoring telephone invitation,9mM4,9mM4.00,2275831000000110.0,882481000000101.0,2275831000000110.0,Rheumatoid arthritis monitoring telephone invitation
+480,rheumatoid,N040300,Rheumatoid arthritis of sternoclavicular joint,N0403,N040300,309790010.0,201767000.0,309790010.0,Rheumatoid arthritis of sternoclavicular joint
+481,seronegative arthritis,388p000,Bath Ankylosing Spondylitis Functional Index,388p0,388p000,2325761000000118.0,441680005.0,2817378011.0,Bath Ankylosing Spondylitis Functional Index
+482,inflammatory bowel disease,8CA4W00,Dietary education for inflammatory bowel disease,8CA4W,8CA4W00,2338581000000110.0,909671000000101.0,2338581000000110.0,Dietary education for inflammatory bowel disease
+483,renal,K000111,CGN - Crescentic glomerulonephritis,K0001-1,K000111,354364019.0,236398000.0,354364019.0,CGN - Crescentic glomerulonephritis
+484,vasculitis,G754.11,Granulomatosis with polyangiitis,G754-1,G754.11,2955624019.0,195353004.0,2955624019.0,Granulomatosis with polyangiitis
+485,seronegative arthritis,38QL.00,Bath Ankylosing Spondylitis Metrology Index,38QL,38QL.00,2326221000000110.0,441930001.0,2817787017.0,Bath Ankylosing Spondylitis Metrology Index
+486,inflammatory bowel disease,8Cc5.11,Management of IBD (inflammatory bowel disease),8Cc5-1,8Cc5.11,2269901000000115.0,700104004.0,2989471019.0,Management of IBD (inflammatory bowel disease)
+487,renal,K08y512,ATIN - Acute tubulo-interstitial nephritis,K08y5-2,K08y512,1225986012.0,28637003.0,1225986012.0,ATIN - Acute tubulo-interstitial nephritis
+488,renal,K036.00,Cryoglobulinaemic glomerulonephritis,K036,K036.00,354516010.0,236505008.0,354516010.0,Cryoglobulinaemic glomerulonephritis
