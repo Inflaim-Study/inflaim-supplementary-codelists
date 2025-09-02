@@ -1,4 +1,4 @@
-# Supplementary Codelists for the Inflaim Study 📂
+# Supplementary Codelists for the Inflaim Study 
 
 This repository contains supplementary clinical codelists developed for and used by the Inflaim Study. These lists are intended to complement the **main Inflaim long-term condition (LTC) codelists**, which are published in a separate repository.
 
@@ -12,16 +12,18 @@ The codelists provided here fall into three main categories:
 All codelists are provided in `.csv` format and use **`MedCodeId`** as the primary identifier, making them suitable for use with the CPRD Aurum database.
 ***
 
-## Repository Structure 📂
+## Repository Structure 
 
 This repository is organized to separate the data (the codelists) from the project documentation.
 
 .
 ├── codelists/
-│   ├── Inflaim_Other_LTCs_Codelist_v1.0.csv
+│   ├── Inflaim_Other_LTCs_C_odelist_v1.0.csv
 │   ├── Inflaim_Autoimmune_Codelist_v1.0.csv
 │   └── Inflaim_Infections_Codelist_v1.0.csv
+│
 ├── .gitignore
+├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 ├── LICENSE.md
 └── README.md
@@ -62,4 +64,5 @@ The codelists are provided as CSV files in the `/codelists` directory. They can 
 
 
 ### License
+
 This work is licensed under the [MIT License / Creative Commons Attribution 4.0 International License]. Please see the `LICENSE` file for details.
