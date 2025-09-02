@@ -15,8 +15,7 @@ All codelists are provided in `.csv` format and use **`MedCodeId`** as the prima
 ## Repository Structure
 
 This repository is organized to separate the data (the codelists) from the project documentation.
-
-.
+```plaintext
 ├── codelists/
 │   ├── Inflaim_Other_LTCs_Codelist_v1.0.csv
 │   ├── Inflaim_Autoimmune_Codelist_v1.0.csv
